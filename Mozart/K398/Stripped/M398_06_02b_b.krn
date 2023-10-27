@@ -1,0 +1,405 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 6 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4T	V	24CCLL	24gLL
+.	.	24EE	24e
+.	.	24GGJ	24cJ
+.	.	24CCL	24g#L
+.	.	24EE	24e
+.	.	24GG#JJ	24cJJ
+=153	=153	=153	=153
+4T	I	24FFLL	24aLL
+.	.	24AA	24f
+.	.	24CJ	24cJ
+.	.	24CCL	24ccL
+.	.	24FF	24f
+.	.	24AAJJ	24cJJ
+4T	Ib	24AAALL	24fLL
+.	.	24CC	24c
+.	.	24FFJ	24AJ
+.	.	24AAAL	24f#L
+.	.	24CC	24c
+.	.	24FF#JJ	24AJJ
+4T	V	24CCLL	24gLL
+.	.	24EE	24e
+.	.	24GGJ	24cJ
+.	.	24CCL	24g#L
+.	.	24EE	24e
+.	.	24GG#JJ	24cJJ
+=154	=154	=154	=154
+8T	I	24FFLL	24aLL
+.	.	24AA	24f
+.	.	24CJ	24cJ
+8T	V7d/IV	24EE-L	24aL
+.	.	24FF	24f
+.	.	24CJJ	24cJJ
+8P	IV	24DDLL	24b-LL
+.	.	24FF	24f
+.	.	24BB-J	24dJ
+8P	Lt	24DD-L	24bL
+.	.	24FF	24f
+.	.	24BBJJ	24d-JJ
+8P	V	24CCLL	24ccLL
+.	.	24EE	24e
+.	.	24CJ	24cJ
+8P	V7/vi	24AAL	24cc#L
+.	.	24E	24g
+.	.	24GJJ	24eJJ
+=155	=155	=155	=155
+8P	IV	24BB-LL	24ddLL
+.	.	24D	24f
+.	.	24FJ	24dJ
+8P	viiob	24GGL	24eeL
+.	.	24BB-	24b-
+.	.	24EJJ	24gJJ
+8P	Ib	24AALL	24ffLL
+.	.	24C	24cc
+.	.	24FJ	24fJ
+8P	viioD7b/ii	24AAL	24ff#L
+.	.	24C	24cc
+.	.	24E-JJ	24aJJ
+8P	iib	24BB-LL	24ggLL
+.	.	24D	24dd
+.	.	24GJ	24b-J
+8P	viioD7/V	24BBL	24aa-L
+.	.	24D	24ff
+.	.	24FJJ	24ddJJ
+=156	=156	=156	=156
+*39/8	*39/8	*M39/8	*M39/8
+1.D	Ic	2CC; 2C;	2cc; 2ff; 2aa;
+.	.	r	r
+.	.	.	8c
+.	.	.	8fL
+.	.	.	8a
+.	.	r	8ccJ
+.	.	.	8ffL
+.	.	.	8aa
+.	.	.	8cccJ
+1.D	Ic	r	4fff;
+.	.	.	16cccLL
+.	.	.	16aaJJ
+.	.	r	16ffLL
+.	.	.	16ccc
+.	.	.	16aa
+.	.	.	16ff
+.	.	.	16cc
+.	.	.	16aaJJ
+.	.	.	16ffLL
+.	.	.	16cc
+.	.	.	16a
+.	.	.	16ff
+.	.	.	16cc
+.	.	.	16aJJ
+.	.	.	16fLL
+.	.	.	16cc
+.	.	.	16a
+.	.	.	16f
+.	.	r	16c
+.	.	.	16aJJ
+1.D	Ic	.	16fLL
+.	.	.	16c
+.	.	.	16A
+.	.	.	16f
+.	.	.	16c
+.	.	.	16AJJ
+*	*	*	*clefF4
+.	.	.	16FLL
+.	.	.	16c
+.	.	.	16A
+.	.	.	16F
+.	.	.	16C
+.	.	.	16AJJ
+.	.	.	16FLL
+.	.	.	16C
+.	.	r	16AA
+.	.	.	16F
+.	.	.	16C
+.	.	.	16AAJJ
+.	.	.	16FFLL
+.	.	.	16C
+.	.	.	16AA
+.	.	.	16FFJJ
+.	.	r	[2CC
+4.D	Ic	.	.
+=157	=157	=157	=157
+*M33/8	*M33/8	*M33/8	*M33/8
+1D	Ic	r	8CCL]
+.	.	.	16DDJk
+.	.	.	16EELL
+.	.	.	16FF
+.	.	.	16GGJJ
+.	.	.	16AALL
+.	.	.	16BB-
+.	.	.	16CJJ
+.	.	.	16FFLL
+.	.	.	16GG
+.	.	.	16AAJJ
+.	.	.	16BB-LL
+.	.	.	16C
+.	.	.	16DJJ
+.	.	.	16ELL
+1D	Ic	r	16F
+.	.	.	16CJJ
+.	.	.	16DLL
+.	.	.	16E
+.	.	.	16FJJ
+.	.	.	16GLL
+.	.	.	16A
+.	.	.	16B-JJ
+.	.	.	16cLL
+.	.	.	16F
+.	.	.	16G
+.	.	.	16A
+.	.	.	16B-
+.	.	.	16c
+.	.	.	16dJJ
+.	.	.	16eLL
+1D	Ic	r	16f
+*	*	*	*clefG2
+.	.	.	16c
+.	.	.	16d
+.	.	.	16e
+.	.	.	16f
+.	.	.	16g
+.	.	.	16aLL
+.	.	.	16b-
+.	.	.	16ccJJ
+.	.	.	16fLL
+.	.	.	16g
+.	.	.	16aJJ
+.	.	.	16b-LL
+.	.	.	16cc
+.	.	.	16ddJJ
+.	.	.	16eeLL
+1D	Ic	r	16ff
+.	.	.	16ccJJ
+.	.	.	16ddLL
+.	.	.	16ee
+.	.	.	16ffJJ
+.	.	.	16ggLL
+.	.	.	16aa
+.	.	.	16bb-JJ
+.	.	.	16cccLL
+.	.	.	16ff
+.	.	.	16ggJJ
+.	.	.	16aaLL
+.	.	.	16bb-
+.	.	.	16cccJJ
+.	.	.	16dddLL
+.	.	.	16eeeJ
+8D	viioD7/V	8BB; 8D; 8F; 8A-;	8fff;
+=158	=158	=158	=158
+*M27/8	*M27/8	*M27/8	*M27/8
+8D	viioD7/V	r	r
+.	.	.	16dddJk
+4D	viioD7/V	r	12bbL
+.	.	.	12ddd
+.	.	.	12bb
+1D	viioD7/V	r	12aa-
+.	.	.	12bb
+.	.	.	12aa-
+.	.	.	12ff
+.	.	.	12aa-
+.	.	.	12ffJ
+.	.	.	12ddL
+.	.	.	12ff
+.	.	.	12dd
+.	.	.	12b
+.	.	.	12dd
+.	.	.	12b
+1D	viioD7/V	r	12a-
+.	.	.	12b
+.	.	.	12a-J
+.	.	.	12fL
+.	.	.	12a-
+.	.	.	12f
+.	.	.	12d
+.	.	.	12f
+.	.	.	12d
+*	*	*	*clefF4
+.	.	.	12B
+.	.	.	12d
+.	.	.	12BJ
+1D	viioD7/V	r	12A-
+.	.	.	12BL
+.	.	.	12A-J
+*	*	*	*^
+.	.	.	r	12F
+.	.	.	12A-L	r
+.	.	.	12FJ	r
+.	.	.	r	12D
+.	.	.	12FL	r
+.	.	.	12DJ	r
+.	.	.	r	12BB
+.	.	.	12DL	r
+.	.	.	12BBJ	r
+=159	=159	=159	=159	=159
+*M16/4	*M16/4	*M16/4	*M16/4	*M16/4
+1D	viioD7	r	r	12BB-
+.	.	.	12D-L	r
+.	.	.	12EJ	r
+.	.	.	12GL	r
+.	.	.	12B-	.
+.	.	.	12d-J	.
+.	.	.	r	12G
+.	.	.	12B-L	r
+.	.	.	12d-J	r
+*	*	*	*clefG2	*clefG2
+.	.	.	12eL	r
+.	.	.	12g	.
+.	.	.	12b-J	.
+1D	viioD7	r	r	12e
+.	.	.	12gL	r
+.	.	.	12b-J	r
+.	.	.	12dd-L	r
+.	.	.	12ee	.
+.	.	.	12ggJ	.
+.	.	.	r	12b-
+.	.	.	12dd-L	r
+.	.	.	12eeJ	r
+.	.	.	12ggL	r
+.	.	.	12bb-	.
+.	.	.	12ddd-J	.
+4.D	Ib	r	16cccLL	4a
+.	.	.	16ff	.
+.	.	.	16fff	.
+.	.	.	16ff	.
+.	.	r	16eee	r
+.	.	.	16ff	.
+8D	V7b/IV	(8A	16eee-	.
+.	.	.	16ffJJ	.
+*	*	*	*v	*v
+4.D	IV	4B-)	16dddLL
+.	.	.	16ff
+.	.	.	16fff
+.	.	.	16ff
+.	.	r	16eee
+.	.	.	16ff
+8D	V7b/IV	(8A	16eee-
+.	.	.	16ffJJ
+4.D	IV	4B-)	16dddLL
+.	.	.	16ff
+.	.	.	16fff
+.	.	.	16ff
+.	.	r	16eee
+.	.	.	16ff
+8D	V7b/IV	8AA 8A	16eee-
+.	.	.	16ffJJ
+8D	IV	8BB-L 8B-	16dddLL
+.	.	.	16ff
+8D	V7b/IV	8AA 8A	16eee-
+.	.	.	16ff
+8D	IV	8BB- 8B-	16ddd
+.	.	.	16ff
+8D	V7b/IV	8AAJ 8A	16eee-
+.	.	.	16ffJJ
+=160	=160	=160	=160
+*M7/4	*M7/4	*M7/4	*M7/4
+4D	IV	4BB- 4B-	8.ddd;L
+.	.	.	16fffk
+1D	ii7b	1BB- 1D 1F 1G	8.gg
+.	.	.	16bb-Jk
+.	.	.	8.ddL
+.	.	.	16ffk
+.	.	.	8.b-
+.	.	.	16ddk
+.	.	.	8.g
+.	.	.	16b-Jk
+2D	Ic	2C; 2F; 2A;	[2a;
+=161	=161	=161	=161
+*M21/4	*M21/4	*M29/8	*M29/8
+1D	Ic	r	16aLL]
+.	.	.	16cc
+.	.	.	16b-
+.	.	.	16aJJ
+.	.	.	16b-LL
+.	.	.	16cc
+.	.	.	16dd
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16eeJJ
+.	.	.	16ddLL
+.	.	.	16cc
+.	.	.	16dd
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ
+1D	Ic	r	16aaLL
+.	.	.	16gg
+.	.	.	16ff
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ
+.	.	.	16aaLL
+.	.	.	16bb-
+.	.	.	16ddd
+.	.	.	16ccc
+.	.	.	16bb-
+.	.	.	16aaJJ
+.	.	.	16bb-LL
+.	.	.	16ccc
+.	.	.	16ddd
+.	.	.	16eeeJJ
+2D	Ic	r	4fff
+.	.	.	r;
+.	.	.	(8aaL
+1D	Ic	r	8bb-
+.	.	.	8bb
+.	.	.	8ccc
+.	.	.	8ccc#
+.	.	.	8dddJ
+.	.	.	8eee-L
+.	.	.	8eee
+.	.	.	8fffJ)
+8D	Ic	r	r;
+=162	=162	=162	=162
+*M9/8	*M9/8	*M9/8	*M9/8
+8D	ii	r	r
+.	.	.	16ffLK
+1D	ii	r	8.bb-;
+.	.	.	48aaLL
+.	.	.	48gg
+.	.	.	48ff#JJ
+.	.	.	(16ggL
+.	.	.	16ddd
+.	.	.	16ccc
+.	.	.	16bb-
+.	.	.	16aa
+.	.	.	16gg
+.	.	.	16ff#
+.	.	.	16ggJ)
+.	.	.	8bb-J
+.	.	.	8dd
+=163	=163	=163	=163
+*M4/2	*M4/2	*M4/2	*M4/2
+*	*	*clefG2	*
+2D	V7	2c 2b-	2ee
+2D	Ic	2c 2a	2ff
+2D	vo	2c 2d#	2ff#
+2D	V7	2c 2e	2gg
+=164	=164	=164	=164
+*M3/8	*M3/8	*M3/8	*M3/8
+4.D	V7	r	32ggLLL
+.	.	.	32aa
+.	.	.	32bb-
+.	.	.	32aaJJJ
+.	.	.	32ggLLL
+.	.	.	32ff
+.	.	.	32ee
+.	.	.	32ddJJ
+.	.	.	32ccLL
+.	.	.	32b-
+.	.	.	32a
+.	.	.	32gJJJ
+=165	=165	=165	=165
+*M2/1	*M2/1	*M2/1	*M2/1
+*	*	*clefF4	*
+1D	V7	r	[1g
+1D	V7	1C; 1E; 1B-;	1g]
+=166	=166	=166	=166
+*-	*-	*-	*-

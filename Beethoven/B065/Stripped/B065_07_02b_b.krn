@@ -1,0 +1,68 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=129	=129	=129	=129
+2D	V7	r	(8.AL
+.	.	.	32BLL
+.	.	.	32c#JJJ)
+.	.	.	(8.dL
+.	.	.	32eLL
+.	.	.	32f#JJJ)
+=130	=130	=130	=130
+4D	V7	(8.AAAL	(4g
+.	.	32BBBLL	.
+.	.	32CC#JJJ)	.
+4D	Ic	(8.DDL	8.f#L)
+.	.	32EELL	16dJk
+.	.	32FF#JJJ)	.
+=131	=131	=131	=131
+*	*	*	*^
+4D	V7d	(4GG	4c#	(8.aL
+.	.	.	.	32bLL
+.	.	.	.	32cc#JJJ)
+8.D	Ib	8.FF#L)	r	(8.ddL
+16D	I	16DDJk	.	32eeLL
+.	.	.	.	32ff#JJJ)
+=132	=132	=132	=132	=132
+4D	V7	4CC#	(8.AAL	(4gg
+.	.	.	32BBLL	.
+.	.	.	32C#JJJ)	.
+4D	Ib	4DD	(8.DL	8.ff#L)
+.	.	.	32ELL	16ddJk
+.	.	.	32F#JJJ)	.
+=133	=133	=133	=133	=133
+4D	V7c	4GG	(8.AL	[2a
+.	.	.	32BLL	.
+.	.	.	32c#JJJ)	.
+*	*	*^	*	*
+4D	I	[4AA	4FF# 4F#	(8.dL	.
+.	.	.	.	32eLL	.
+.	.	.	.	32f#JJJ)	.
+=134	=134	=134	=134	=134	=134
+4D	V7c	2AA_	4EE 4E	4g	(8.aL]
+.	.	.	.	.	32bLL
+.	.	.	.	.	32cc#JJJ)
+4D	I	.	4DD 4D	4f#	8.ddL
+.	.	.	.	.	16eeJk
+*	*	*v	*v	*	*
+=135	=135	=135	=135	=135
+4D	Ic	8AA]'	4dd	8.ff#L
+.	.	r	.	.
+.	.	.	.	16ggJk
+4D	V7	[4AAA	4ee 4gg	(8.aaL
+.	.	.	.	32bbLL
+.	.	.	.	32ccc#JJJ)
+=136	=136	=136	=136	=136
+2T	I	(8.AAAL]	8dd 8ff#	8ddd
+*	*	*	*v	*v
+.	.	.	r
+.	.	32BBBLL	.
+.	.	32CC#JJJ)	.
+.	.	8DD	r
+.	.	r	.
+*-	*-	*-	*-

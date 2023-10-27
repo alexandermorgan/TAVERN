@@ -1,0 +1,63 @@
+!!!COM: Mozart
+!!!OTL: Sieben Variationen in D uber das hollandische Lied Willem van Nassau 
+!!!Variation: Variation 2 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/2	*M2/2	*M2/2	*M2/2
+*D:	*D:	*D:	*D:
+!exact repeat of phrase 2a	!	!	!
+4T	V	8A	r
+.	.	r	8a
+=49	=49	=49	=49
+4T	I	8D	r
+.	.	r	8f# 8dd
+4T	V	8AA	r
+.	.	r	8e 8cc#
+2T	I	8D	r
+.	.	r	8f# 8dd
+.	.	8d	r
+.	.	r	8a 8ff#
+=50	=50	=50	=50
+2.T	V	8A	r
+.	.	r	8cc# 8ee
+.	.	8AA	r
+.	.	r	8b 8dd
+.	.	8A	r
+.	.	r	8cc# 8ee
+4T	Vb	8c#	r
+.	.	r	8a 8aa
+=51	=51	=51	=51
+2T	I	8d	r
+.	.	r	8a 8gg
+.	.	8D	r
+.	.	r	8a 8ff#
+2T	V	8G	r
+.	.	r	8cc# 8ee
+.	.	8AA	r
+.	.	r	8a 8aa
+=52	=52	=52	=52
+2T	V7b	8A	r
+.	.	r	8a 8gg
+.	.	8C#	r
+.	.	r	8ee 8gg
+2T	I	8D	r
+.	.	r	8a 8gg
+.	.	8DD	r
+.	.	r	8a 8ff#
+=53	=53	=53	=53
+2P	ii7b	8GG	r
+.	.	r	8dd 8ee
+.	.	8G	r
+.	.	r	8dd 8ee
+2D	V7	8A	r
+.	.	r	8cc# 8ee
+.	.	8AA	r
+.	.	r	8g 8cc#
+=54	=54	=54	=54
+2.T	I	8D	(2g 2cc#
+.	.	r	.
+.	.	8AA	.
+.	.	r	.
+.	.	4DD;	4f#; 4dd);
+*-	*-	*-	*-

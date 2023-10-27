@@ -1,0 +1,115 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:	*c:
+8T	i	r	16.gLL
+.	.	.	32gJJk
+=119	=119	=119	=119
+*	*	*	*^
+2T	iv	32FFFLLL	8.a-L	8.cL 8.f
+.	.	32FF	.	.
+.	.	32AAA-	.	.
+.	.	32AA-JJ	.	.
+.	.	32CCLL	.	.
+.	.	32C	.	.
+.	.	32FF	[16bJk	[16cJk 16a-
+.	.	32FJJJ	.	.
+.	.	32AA-LLL	16bLK]	16cLL] 16f
+.	.	32A-	.	.
+.	.	32FF	8cc	([16c 16a-
+.	.	32FJJ	.	.
+.	.	32AA-LL	.	16c]) 16f
+.	.	32A-	.	.
+.	.	32FF	16a-Jk	16cJJ 16f
+.	.	32FJJJ	.	.
+*	*	*	*v	*v
+=120	=120	=120	=120
+16T	i	32CCLLL	16c'LL 16e-' 16g'
+.	.	32C	.
+16T	V7c	32DD	16B' 16f' 16g' 16b'
+.	.	32DJJ	.
+16T	ib	32EE-LL	16c' 16g' 16cc'
+.	.	32E-	.
+16T	Vb	32BBB	16d'JJ 16g' 16dd'
+.	.	32BBJJJ	.
+16T	i	32CCLLL	16e-'LL 16g' 16ee-'
+.	.	32C	.
+16T	viioD7b/V	32AAA	16f#' 16cc' 16dd' 16ff#'
+.	.	32AAJJ	.
+16T	ib/V	32BBB-LL	16g' 16dd' 16gg'
+.	.	32BB-	.
+16T	V7/V/V	32AAA	16g'JJ 16cc#' 16gg'
+.	.	32AAJJJ	.
+=121	=121	=121	=121
+16T	ib/V	32BBB-LLL	16ggLK 16gLL 16dd
+.	.	32BB-	.
+*	*	*	*^
+16P	viioD7/V/V	32CC#	8gg	[16b- 16ee
+.	.	32C#JJ	.	.
+16D	ic/V	32DDLL	.	16b-] 16dd
+.	.	32D	.	.
+16D	Gn/V	32EE-	[16ggJk	[16b-JJ 16cc#
+.	.	32E-JJJ	.	.
+16D	ic/V	32DDLLL	16ggLK]	16b-LL] 16dd
+.	.	32D	.	.
+16D	Gn/V	32EE-	8gg	[16b- 16cc#
+.	.	32E-JJ	.	.
+16D	ic/V	32DDLL	.	16b-] 16dd
+.	.	32D	.	.
+16D	V/V	32D	16ff#Jk	16aJJ 16dd
+.	.	32dJJJ	.	.
+*	*	*	*v	*v
+=122	=122	=122	=122
+4.T	i/V	(8GGL 8G	32b-LLL 32dd 32gg
+.	.	.	32dd
+.	.	.	32gg
+.	.	.	32bb-JJ
+*	*	*^	*
+.	.	16.dL)	r	32dddLL
+.	.	.	.	32bb-
+.	.	.	.	32ccc
+.	.	32dJJk	.	32aaJJJ
+.	.	[4d	r	32bb-LLL
+.	.	.	.	32dd
+.	.	.	.	32aa
+.	.	.	.	32ccJJ
+8T	V/V	.	16.DLL	32ggLL
+.	.	.	.	32b-
+.	.	.	.	32ff#
+.	.	.	32DJJk	32aJJJ
+=123	=123	=123	=123	=123
+4.T	i/V	8d]	8G	32b-LLL 32gg
+.	.	.	.	32d
+.	.	.	.	32g
+.	.	.	.	32b-JJ
+.	.	16.DLL	r	32ddLL
+.	.	.	.	32b-
+.	.	.	.	32cc
+.	.	32DJJk	.	32aJJJ
+.	.	4D	r	32b-LLL
+.	.	.	.	32d
+.	.	.	.	32a
+.	.	.	.	32cJJ
+8T	V/V	.	16.DDLL	32gLL
+.	.	.	.	32B-
+.	.	.	.	32f#
+.	.	.	(32DDJJk	32AJJJ
+*	*	*v	*v	*
+=124	=124	=124	=124
+4.D	V	32GGGLLL) 32GG	8BL 8d 8g
+.	.	32GG	.
+.	.	32BB	.
+.	.	32DJJ	.
+.	.	32FLL	16.ggL
+.	.	32D	.
+.	.	32E-	.
+.	.	32CJJJ	32ggJJk
+.	.	32DLLL	8gg
+.	.	32BB	.
+.	.	32FF	.
+.	.	32DJJ	.
+*-	*-	*-	*-

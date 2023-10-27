@@ -1,0 +1,102 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Theme c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=9	=9	=9	=9
+2.D	V	8GGL	(2dd
+.	.	8GJ	.
+.	.	8GGL	.
+.	.	8GJ	.
+.	.	8GGL	16ccLL
+.	.	.	16b
+.	.	8GJ	16a
+.	.	.	16gJJ)
+=10	=10	=10	=10
+2.D	Ic	8GGL	4cc 4ee
+.	.	8GJ	.
+.	.	8GGL	4g 4cc
+.	.	8GJ	.
+.	.	8GGL	(16eeLL
+.	.	.	16cc)
+.	.	8GJ	(16ee
+.	.	.	16ccJJ)
+=11	=11	=11	=11
+2.D	V7	8GGL	4dd 4ff
+.	.	8GJ	.
+.	.	8GGL	4b 4dd
+.	.	8GJ	.
+.	.	8GGL	(16ffLL
+.	.	.	16dd)
+.	.	8GJ	(16ff
+.	.	.	16ddJJ)
+=12	=12	=12	=12
+2.T	I	4CC. 4C.	(4ee 4gg
+.	.	.	16ccLL) 16ee
+.	.	.	(16gg
+.	.	r	16aa
+.	.	.	16ggJJ
+.	.	r	16cccLL
+.	.	.	16gg
+.	.	.	16aa
+.	.	.	16ggJJ)
+=13	=13	=13	=13
+2.T	I	4CC. 4C.	(4ee 4gg
+.	.	.	16ccLL) 16ee
+.	.	.	(16gg
+.	.	r	16aa
+.	.	.	16ggJJ
+.	.	r	16cccLL
+.	.	.	16gg
+.	.	.	16aa
+.	.	.	16ggJJ)
+=14	=14	=14	=14
+4T	Ib	8e	(16ggLL
+.	.	.	16ee
+.	.	r	16aa
+.	.	.	16ggJJ
+4T	V7b	8B	16ffLL
+.	.	.	16dd
+.	.	r	16gg
+.	.	.	16ffJJ
+4T	I	8c	16eeLL
+.	.	.	16cc
+.	.	r	16ff
+.	.	.	16eeJJ)
+=15	=15	=15	=15
+2T	Ic	(2G	(16eeLL
+.	.	.	16dd)
+.	.	.	16g'
+.	.	.	16a'JJ
+.	.	.	16b'LL
+.	.	.	16cc'
+.	.	.	16dd'
+.	.	.	16ee'JJ
+4T	V7d	4F	16ff'LL
+.	.	.	16gg'
+.	.	.	16aa'
+.	.	.	16bb'JJ
+=16	=16	=16	=16
+4T	Ib	8E)	16ccc'LL
+.	.	.	16gg'
+.	.	r	(16ee
+.	.	.	16ggJJ)
+4T	viiom7	8BB	(16ffLL
+.	.	.	16aa)
+.	.	r	(16dd
+.	.	.	16ffJJ)
+4T	I	8C	(16eeLL
+.	.	.	16gg)
+.	.	r	(16cc
+.	.	.	16eeJJ)
+=17	=17	=17	=17
+2.D	V	4G	(8eeL
+.	.	.	8ddJ)
+.	.	4GG	(8ccL
+.	.	.	8bJ)
+.	.	r	(8aL
+.	.	.	8gJ)
+*-	*-	*-	*-

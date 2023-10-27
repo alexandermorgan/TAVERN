@@ -1,0 +1,123 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 10 e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*B-:	*B-:	*B-:	*B-:
+=269	=269	=269	=269
+*	*	*^	*
+4.T	I	8BB-	8F'	16b-LL
+.	.	.	.	16f
+.	.	r	[4B-	16d
+.	.	.	.	16dd
+.	.	r	.	16b-
+.	.	.	.	16fJJ
+=270	=270	=270	=270	=270
+4.T	I	8BB-	8B-]	16ffLL
+.	.	.	.	16dd
+.	.	r	[4d	16b-
+.	.	.	.	16bb-
+.	.	r	.	16ff
+.	.	.	.	16ddJJ
+=271	=271	=271	=271	=271
+4.T	V7	8F	8d]	16ee-LL
+.	.	.	.	16cc
+.	.	r	[4c	16a
+.	.	.	.	16aa
+.	.	r	.	16ee-
+.	.	.	.	16ccJJ
+=272	=272	=272	=272	=272
+4.T	V7	r	8cL]	16cccLL
+.	.	.	.	16aa
+.	.	.	8F'	16ee-
+.	.	.	.	16eee-
+.	.	.	8F'J	16ccc
+.	.	.	.	16aaJJ
+=273	=273	=273	=273	=273
+4.T	V7	8FF	8F'	16eee-LL
+.	.	.	.	16ccc
+.	.	r	[4c	16aa
+.	.	.	.	16eee-
+.	.	r	.	16ccc
+.	.	.	.	16aaJJ
+=274	=274	=274	=274	=274
+4.T	V7	8F	8c]	16ee-LL
+.	.	.	.	16cc
+.	.	r	[4f	16a
+.	.	.	.	16ee-
+.	.	r	.	16cc
+.	.	.	.	16aJJ
+=275	=275	=275	=275	=275
+4.T	I	8B-	8f]	16ccLL
+.	.	.	.	16b-
+.	.	r	[4d	16a
+.	.	.	.	16b-
+.	.	r	.	16cc
+.	.	.	.	16ddJJ
+=276	=276	=276	=276	=276
+4.T	I	r	8dL]	16ee-LL
+.	.	.	.	16ee
+.	.	.	8B-'	16ff
+.	.	.	.	16gg
+.	.	.	8B-'J	16aa
+.	.	.	.	16bb-JJ
+=277	=277	=277	=277	=277
+4.T	IV	8E-	8B-	16ggLL
+.	.	.	.	16ee-
+.	.	r	[4e-	16b-
+.	.	.	.	16gg
+.	.	r	.	16ee-
+.	.	.	.	16b-JJ
+=278	=278	=278	=278	=278
+4.T	IV	8E-	8e-]	16bb-LL
+.	.	.	.	16gg
+.	.	r	[4g	16b-
+.	.	.	.	16bb-
+.	.	r	.	16ee-
+.	.	.	.	16b-JJ
+=279	=279	=279	=279	=279
+4.T	I	8B-	8g]	16bb-LL
+.	.	.	.	16b-
+.	.	r	[4f	16dd
+.	.	.	.	16ff
+.	.	r	.	16bb-
+.	.	.	.	16ddJJ
+=280	=280	=280	=280	=280
+4.T	I	r	8fL]	16ffLL
+.	.	.	.	16bb-
+.	.	.	8d'	16ddd
+.	.	.	.	16ff
+.	.	.	8B-'J	16bb-
+.	.	.	.	16dddJJ
+*	*	*v	*v	*
+=281	=281	=281	=281
+8D	V	8F 8c	16fff'LL
+.	.	.	(16ee
+4D	i	4B- 4d-	16ff)
+.	.	.	(16eee
+.	.	.	16fff)
+.	.	.	(16eeJJ
+=282	=282	=282	=282
+8D	V	8F 8c	16ffLL)
+.	.	.	(16eee
+4D	I	4B- 4d	16fff)
+.	.	.	(16ee
+.	.	.	16ff)
+.	.	.	(16eeeJJ
+=283	=283	=283	=283
+4.D	V	4F 4c	16fffLL)
+.	.	.	16ccc
+.	.	.	16aa
+.	.	.	16ff
+.	.	r	16cc
+.	.	.	16aJJ
+=284	=284	=284	=284
+4.D	V7	r	16fLL
+.	.	.	16e
+.	.	.	16e-
+.	.	.	16d
+.	.	.	16c
+.	.	.	16fJJ
+*-	*-	*-	*-

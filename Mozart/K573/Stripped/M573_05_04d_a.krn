@@ -1,0 +1,43 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 5 d
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D:
+!	!exact repeat of 5a	!	!
+=137	=137	=137	=137
+4.T	I	r	8aa'L
+.	.	.	8aa'J
+.	.	r	8aa'L
+8T	V7b	8cc# 8gg	8aa'J
+4T	I	8dd 8ff#	(8aaL
+.	.	r	8dddJ
+=138	=138	=138	=138
+4.T	I	r	8ff#'L)
+.	.	.	8ff#'J
+.	.	r	8ff#'L
+8T	V7b/vi	8a# 8ee	8ff#'J
+4T	vi	8b 8dd	(8ff#L
+.	.	r	8bbJ
+=139	=139	=139	=139
+4T	Ib	r	8dd)
+.	.	8f# 8a	r
+4P	iib	r	8ee
+.	.	8g 8b	r
+4D	V7	r	8gg
+.	.	8a 8cc#	r
+=140	=140	=140	=140
+2.T	I	4d	8ff#L
+.	.	.	(q64dd
+.	.	.	8eeJ)
+.	.	.	(q64ee
+.	.	r	8ff#L)
+.	.	.	(q64ff#
+.	.	.	8ggJ)
+.	.	.	(q64gg
+.	.	r	8aaL)
+.	.	.	(q64aa
+.	.	.	8bbJ)
+*-	*-	*-	*-

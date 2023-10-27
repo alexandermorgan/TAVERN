@@ -1,0 +1,42 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Theme a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=1	=1	=1	=1
+4T	I	8D	8a 8ff#
+.	.	r	r
+4T	V7	8AA	8g 8ee
+.	.	r	r
+=2	=2	=2	=2
+2T	vi	4BB	4f# 4dd
+.	.	r	r
+.	.	.	16cc#
+=3	=3	=3	=3
+2T	IV	8GG	8g 8b
+.	.	r	r
+.	.	8BB	8g 8b
+.	.	r	r
+=4	=4	=4	=4
+2T	I	8D	8f# 8a
+.	.	r	r
+.	.	r	r
+=5	=5	=5	=5
+2T	I	8D 8A	8d 8f#
+.	.	r	r
+.	.	(4D [4A	(4d 4f#
+=6	=6	=6	=6
+2T	V7b	8C#) 8A]	8e) 8g
+.	.	r	r
+.	.	(4C# [4A	(4e 4g
+=7	=7	=7	=7
+2T	I	8D) 8A]	8d) 8f#
+.	.	r	r
+.	.	4D 4A	4d 4f#
+=8	=8	=8	=8
+2D	V	4AA 4A	4c# 4e
+.	.	r	r
+*-	*-	*-	*-

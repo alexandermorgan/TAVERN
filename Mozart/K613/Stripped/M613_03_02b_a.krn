@@ -1,0 +1,99 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 3 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4T	V	r	4c
+=148	=148	=148	=148
+2.T	I	r	12fL
+*	*	*	*clefF4
+.	.	.	(12FF
+.	.	.	12CJ
+.	.	.	12FL)
+*	*	*	*clefG2
+.	.	.	(12A
+.	.	.	12cJ
+.	.	.	12fL
+.	.	.	12c
+.	.	.	12aJ
+=149	=149	=149	=149
+2.T	V7	r	12gL)
+*	*	*	*clefF4
+.	.	.	(12CC
+.	.	.	12GGJ
+.	.	.	12CL)
+*	*	*	*clefG2
+.	.	.	(12c
+.	.	.	12eJ
+.	.	.	12gL
+.	.	.	12e
+.	.	.	12b-J)
+=150	=150	=150	=150
+4T	I	(4F	r
+.	.	.	(12g#L
+.	.	.	12aJ)
+4T	vi	4D	r
+.	.	.	(12eL
+.	.	.	12fJ)
+4T	iib	4BB-)	r
+.	.	.	(12dL
+*	*	*	*^
+.	.	.	12gJ)	12b-
+=151	=151	=151	=151	=151
+4T	Ic	2C	(4f	4a
+2T	V	.	4e)	4g
+*	*	*	*v	*v
+.	.	r	8.ccL
+.	.	.	16ccJk
+=152	=152	=152	=152
+.	.	.	(q32b
+.	.	.	q32cc
+.	.	.	q32dd
+4T	Ib	r	16ccLL)
+*	*	*	*clefF4
+.	.	.	(16A
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	(16ccJJ
+4T	viiob	.	16b-LL)
+*	*	*	*clefF4
+.	.	.	(16G
+.	.	.	16e)
+*	*	*	*clefG2
+.	.	.	(16b-JJ
+4T	I	.	16aLL)
+*	*	*	*clefF4
+.	.	.	(16F
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	16aJJ
+=153	=153	=153	=153
+2.P	iib	2.BBB- 2.BB-	r
+.	.	.	(12gL
+.	.	.	12ddJ
+.	.	.	12cc#L
+.	.	.	12cc
+.	.	.	12bJ
+.	.	.	12b-L
+.	.	.	12a
+.	.	.	12gJ)
+=154	=154	=154	=154
+2D	Ic	4CC 4C	(12fL
+.	.	.	12c
+.	.	.	12aJ
+.	.	r	12fL
+.	.	.	12cc
+.	.	.	12aJ
+*	*	*^	*
+4D	V7	8GL	4C	12b-L
+.	.	.	.	12g
+.	.	8B-J	.	.
+.	.	.	.	12eJ)
+=155	=155	=155	=155	=155
+2T	I	4A	4F	4f
+*	*	*v	*v	*
+.	.	4FF	r
+*-	*-	*-	*-

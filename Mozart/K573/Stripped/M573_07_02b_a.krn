@@ -1,0 +1,59 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D:
+=173	=173	=173	=173
+2.T	I	16DLL	(2a 2ff# 2aa
+.	.	16d	.
+.	.	16F#	.
+.	.	16f#JJ	.
+.	.	16ELL	.
+.	.	16e	.
+.	.	16D	.
+.	.	16dJJ	.
+.	.	16C#LL	8dd) 8ff# 8ddd
+.	.	16c#	.
+.	.	16BB	r
+.	.	16BJJ	.
+=174	=174	=174	=174
+2.T	I	16AALL	(2f# 2dd 2ff#
+.	.	16A	.
+.	.	16GG	.
+.	.	16GJJ	.
+.	.	16FF#LL	.
+.	.	16F#	.
+.	.	16EE	.
+.	.	16EJJ	.
+.	.	16DDLL	8a) 8ff# 8aa
+.	.	16D	.
+.	.	16CC#	r
+.	.	16C#JJ	.
+=175	=175	=175	=175
+4P	IVb	8BBB 8BB	r
+.	.	.	(16gLL
+.	.	r	16dd
+.	.	.	16ggJJ)
+4D	Ic	8AAA 8AA	r
+.	.	.	(16f#LL
+.	.	r	16dd
+.	.	.	16ff#JJ)
+4D	V	8AAA	r
+.	.	.	(16eLL
+.	.	r	16cc#
+.	.	.	16eeJJ)
+=176	=176	=176	=176
+2.T	I	r	4dd
+.	.	(16DLL	.
+.	.	16F#	.
+.	.	16DJJ	.
+.	.	16AALL	r
+.	.	16D	.
+.	.	16FF#	.
+.	.	16AAJJ	.
+.	.	8DD)	r
+.	.	r	.
+*-	*-	*-	*-

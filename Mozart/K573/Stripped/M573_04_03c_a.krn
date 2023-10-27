@@ -1,0 +1,90 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 4 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D:
+=105	=105	=105	=105
+2.D	V	2.AA 2.A	(12cc#L 12ee
+.	.	.	12a
+.	.	.	12eeJ) 12gg
+.	.	.	(12eeL 12gg
+.	.	.	12cc#
+.	.	.	12ggJ) 12ccc#
+.	.	.	(12ggL 12ccc#
+.	.	.	12ee
+.	.	.	12ccc#J) 12eee
+=106	=106	=106	=106
+2.D	V	4a	r
+.	.	.	12ccc#'L 12eee'
+.	.	.	12bb'J 12ddd'
+.	.	r	12aa'L 12ccc#'
+.	.	.	12gg' 12bb'
+.	.	.	12ff#'J 12aa'
+.	.	r	12ee'L 12gg'
+.	.	.	12dd' 12ff#'
+.	.	.	12cc#'J 12ee'
+=107	=107	=107	=107
+2.T	I	2.D 2.d	(12ddL 12ff#
+.	.	.	12a
+.	.	.	12ff#J) 12aa
+.	.	.	(12ff#L 12aa
+.	.	.	12dd
+.	.	.	12ff#J) 12ddd
+.	.	.	(12ff#L 12ddd
+.	.	.	12ee 12ccc#
+.	.	.	12ff#J) 12ddd
+=108	=108	=108	=108
+2.T	I	4DD	r
+.	.	.	(12cc#L
+.	.	.	12ddJ)
+.	.	r	12dd#'L
+.	.	.	12ee'
+.	.	.	12ff'J
+.	.	r	12ff#'L
+.	.	.	12gg'
+.	.	.	12gg#'J
+=109	=109	=109	=109
+2T	I	r	12aa'L
+.	.	.	12ddd'
+.	.	.	12ccc#'J
+.	.	.	12ccc'L
+.	.	.	12bb'
+.	.	.	12bb-'J
+4T	V7b	(4c# 4g	8aa'
+.	.	.	r
+=110	=110	=110	=110
+2T	I	4d) 4f#	r
+.	.	.	12ddd'L
+.	.	.	12ccc#'J
+.	.	r	12ccc'L
+.	.	.	12bb'
+.	.	.	12bb-'J
+4T	V7b	(4c# 4g	8aa'
+.	.	.	r
+=111	=111	=111	=111
+4T	I	8d) 8f#	r
+.	.	.	(12eeL 12gg#
+.	.	r	.
+.	.	.	12ff#J) 12aa
+4P	iib	8G	r
+.	.	.	(12dd#L 12ff#
+.	.	r	.
+.	.	.	12eeJ) 12gg
+4P	viiom7/V	8G#	r
+.	.	.	(12cc#L 12ee#
+.	.	r	.
+.	.	.	12ddJ) 12ff#
+=112	=112	=112	=112
+2.D	V	r	4cc# 4ee
+.	.	(12AAL	.
+.	.	12C#J	.
+.	.	12E'L)	r
+.	.	12A'	.
+.	.	12B-'J	.
+.	.	12B'L	r
+.	.	12c'	.
+.	.	12c#'J	.
+*-	*-	*-	*-

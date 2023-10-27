@@ -1,0 +1,46 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Es, uber die Romanze 'Je suis Lindor' aus der Komodie 'Le Barbier de Seville'
+!!!Variation: Variation 8 b
+**function	**harm	**kern	**kern
+*e-	*e-	*clefG2	*clefG2
+*	*	*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*e-	*e-	*e-	*e-
+=181	=181	=181	=181
+4T	i	r	16ee-'LL
+.	.	.	(16b-
+.	.	(8e- 8g-	16cc-
+.	.	.	16b-JJ)
+4T	viio	8dL 8f	r
+.	.	.	(16aa-LL
+.	.	8fJ) 8a-	16ff
+.	.	.	16ddJJ
+=182	=182	=182	=182
+4T	i	r	16ee-'LL)
+.	.	.	(16b-
+.	.	(8e- 8g-	16cc-
+.	.	.	16b-JJ)
+4T	viio	8dL 8f	r
+.	.	.	(16aa-LL
+.	.	8fJ) 8a-	16ff
+.	.	.	16ddJJ
+=183	=183	=183	=183
+8T	i	8e-L 8g-	16ee-LL
+.	.	.	16gg-JJ)
+*	*	*clefF4	*
+8T	ib	(8G-J	r
+.	.	.	16g- 16b-
+8P	iiob	8A-L	r
+.	.	.	16f 16a-
+8P	viioD7/V	8AJ)	r
+.	.	.	16e- 16g-
+=184	=184	=184	=184
+*	*	*	*^
+4D	ic	4.B-	(16g-LL	(4e-
+.	.	.	16b-	.
+.	.	.	16a	.
+.	.	.	16b-JJ)	.
+8D	V	.	8f	8d-)
+16.D	V	r	r	r
+*	*	*	*v	*v
+*-	*-	*-	*-

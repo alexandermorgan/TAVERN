@@ -1,0 +1,78 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: 6 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M2/4	*M2/4	*M2/4	*M2/4
+*C:	*C:	*C:	*C:
+=161	=161	=161	=161
+2T	I	16CLL	8e 8g 8cc
+.	.	16BB	.
+.	.	16C	r
+.	.	16BBJJ	.
+.	.	16CLL	8e 8g 8cc
+.	.	16BB	.
+.	.	16C	r
+.	.	16BBJJ	.
+=162	=162	=162	=162
+2T	Ib	16CLL	8cc 8ee 8gg
+.	.	16BB	.
+.	.	16C	r
+.	.	16BBJJ	.
+.	.	16CLL	8cc 8ee 8gg
+.	.	16D	.
+.	.	16E	r
+.	.	16CJJ	.
+=163	=163	=163	=163
+2T	IV	16FLL	8cc 8gg 8aa
+.	.	16E	.
+.	.	16F	r
+.	.	16EJJ	.
+.	.	16FLL	8cc 8ff 8aa
+.	.	16G	.
+.	.	16A	r
+.	.	16BJJ	.
+=164	=164	=164	=164
+2T	Ib	16cLL	8cc 8ff 8gg
+.	.	16B	.
+.	.	16c	r
+.	.	16BJJ	.
+.	.	16cLL	8cc 8ee 8gg
+.	.	16d	.
+.	.	16e	r
+.	.	16cJJ	.
+=165	=165	=165	=165
+4T	ii7d	16dLL	8a 8ee 8ff
+.	.	16c#	.
+.	.	16d	r
+.	.	16cJJ	.
+4T	V7b	16BLL	8g 8dd 8ff
+.	.	16A	.
+.	.	16B	r
+.	.	16GJJ	.
+=166	=166	=166	=166
+4T	I	16cLL	8g 8dd 8ee
+.	.	16B	.
+.	.	16c	r
+.	.	16BJJ	.
+4T	vi	16ALL	8a 8cc 8ee
+.	.	16G#	.
+.	.	16A	r
+.	.	16GJJ	.
+=167	=167	=167	=167
+4P	iib	16FLL	8f 8a 8dd
+.	.	16E	.
+.	.	16F	r
+.	.	16DJJ	.
+4D	V7	16GLL	8d 8f 8b
+.	.	16F#	.
+.	.	16G	r
+.	.	16GGJJ	.
+=168	=168	=168	=168
+2T	I	16CLL	4e 4g 4cc
+.	.	16GG	.
+.	.	16EE	.
+.	.	16GGJJ	.
+.	.	4CC	r
+*-	*-	*-	*-

@@ -1,0 +1,94 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Es, uber die Romanze 'Je suis Lindor' aus der Komodie 'Le Barbier de Seville'
+!!!Variation: Variation 8 c
+**function	**harm	**kern	**kern
+*e-	*e-	*clefF4	*clefG2
+*	*	*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*e-	*e-	*e-	*e-
+32D	V7	r	(32b-
+=185	=185	=185	=185
+*	*	*^	*
+4.D	V7	8F 8A-	8BB-L	16.aa-LL
+.	.	.	.	32ffk
+.	.	4F 4A-	8C-J	16.dd)
+.	.	.	.	(32ddJJk
+.	.	.	8BB-L	16.aa-LL
+.	.	.	.	32ffk
+8D	V7d	8BB- 8F	8AA-J	16.dd)
+.	.	.	.	(32ddJJk
+=186	=186	=186	=186	=186
+2D	ib	8BB- 8E-	8GG-	16.ee-LL
+.	.	.	.	32ffk
+.	.	r	r	16.gg-
+.	.	.	.	32aa-JJk
+.	.	r	r	8bb-)
+.	.	.	.	r
+.	.	.	.	r
+.	.	.	.	(32B-
+=187	=187	=187	=187	=187
+4.D	V7	8F 8A-	8BB-L	16.a-LL
+.	.	.	.	32fk
+.	.	4F 4A-	8C-J	16.d)
+.	.	.	.	(32dJJk
+.	.	.	8BB-L	16.a-LL
+.	.	.	.	32fk
+8D	V7d	8BB- 8F	8AA-J	16.d)
+.	.	.	.	(32dJJk
+=188	=188	=188	=188	=188
+2T	ib	8BB- 8E-	8GG-	16.e-LL
+.	.	.	.	32fk
+.	.	r	r	16.g-
+.	.	.	.	32a-JJk
+.	.	r	r	8b-L)
+.	.	.	.	([8bb-J
+=189	=189	=189	=189	=189
+4P	ivb	8.e-L	8.c-L	16bb-LL]
+.	.	.	.	16aa-
+.	.	.	.	16bb-
+.	.	16d-Jk	16B-Jk	16ccc-JJ)
+4P	iiob	8c-L	4A-	(24ccc-LL
+.	.	.	.	24bb-
+.	.	.	.	24aa-J
+.	.	[8fJ	.	24gg-L
+.	.	.	.	24ff
+.	.	.	.	24ee-JJ)
+=190	=190	=190	=190	=190
+*	*	*	*	*^
+2D	V7	2f]	2B-	(4ee-	r
+.	.	.	.	.	(16a-LL
+.	.	.	.	.	16b-
+.	.	.	.	.	16cc-JJ
+.	.	.	.	4dd)	16b-LL
+.	.	.	.	.	16a-
+.	.	.	.	.	16g
+.	.	.	.	.	16a-JJ)
+*	*	*	*	*v	*v
+*	*	*v	*v	*
+=191	=191	=191	=191
+4T	VI	8c- 8e-	r
+.	.	.	(16g-LL 16ee-
+.	.	r	16f 16dd
+.	.	.	16g-JJ) 16ee-
+4P	IV	8A- 8e-	r
+.	.	.	(16a-LL 16cc-
+.	.	r	16g 16b-
+.	.	.	16a-JJ) 16cc-
+=192	=192	=192	=192
+4D	ic	8B- 8e-	r
+.	.	.	(16g-LL 16b-
+.	.	r	16f 16a
+.	.	.	16g-JJ) 16b-
+4D	V7	8BB- 8B-	r
+.	.	.	(16dLL 16f
+.	.	r	16f 16a-
+.	.	.	16A-JJ) 16d
+=193	=193	=193	=193
+4D	viioD7d	(8.CC-L 8.C-	(4A- 4d
+.	.	32BB-LL	.
+.	.	32AA-JJJ	.
+4T	ib	(8.GGG-L) 8.GG-	8G-L) 8B- 8e-
+.	.	.	([8bb-J
+.	.	32FFLL	.
+.	.	32EE-JJJ	.
+*-	*-	*-	*-

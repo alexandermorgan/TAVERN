@@ -1,0 +1,43 @@
+!!!COM: Beethoven
+!!!OTL: 13 Variationen uber "Es war einmal ein alter Mann" aus "Das rote Kappchen" von K. Ditters von Dittersdorf
+!!!Variation: Variation 10 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+8T	Ib	8BJ	8eee
+=396	=396	=396	=396
+2T	V7b/ii	4A#')	[8eeeL
+.	.	.	32eeeLL]
+.	.	.	(32gg#
+.	.	.	32ff#
+.	.	.	32ee#JJJ
+.	.	r	8ff#'L)
+.	.	(8A# 8f#	(8eeeJ
+=397	=397	=397	=397
+4T	ii	4B')	[8dddL)
+.	.	.	32dddLL]
+.	.	.	(32ff#
+.	.	.	32ee
+.	.	.	32dd#JJJ
+4T	V7b	r	8ee'L)
+.	.	(8G# 8e	(8dddJ
+=398	=398	=398	=398
+4T	I	8A')	8ccc#'L)
+.	.	r	(16aaL
+.	.	.	16gg#JJ
+4P	IV7	8D 8d	16ff#LL
+.	.	.	16ee
+.	.	r	16dd
+.	.	.	16cc#JJ)
+=399	=399	=399	=399
+2D	V	8E 8e	(16cc#LL
+.	.	.	16b
+.	.	r	16a#
+.	.	.	16bJJ
+.	.	r	16eeLL
+.	.	.	16dd
+.	.	.	16cc#
+.	.	.	16bJJ)
+*-	*-	*-	*-

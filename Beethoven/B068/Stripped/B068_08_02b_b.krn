@@ -1,0 +1,74 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 8 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+4D	V7c	r	8.ffL
+.	.	16DLK	.
+.	.	8dJ	.
+.	.	.	16fJk)
+=133	=133	=133	=133
+1T	Ib	r	(8.ggL
+.	.	16ELK	.
+.	.	8GJ 8c	.
+.	.	.	16gJk
+.	.	r	8.ff#L
+.	.	16ELK	.
+.	.	8GJ 8c	.
+.	.	.	16gJk
+.	.	r	8.ffL
+.	.	16ELK	.
+.	.	8GJ 8c	.
+.	.	.	16gJk
+.	.	r	8.eeL
+.	.	16ELK	.
+.	.	8GJ 8c	.
+.	.	.	16gJk)
+=134	=134	=134	=134
+1P	iib	r	(8.ddL
+.	.	16FLK	.
+.	.	8AJ 8d	.
+.	.	.	16aJk
+.	.	r	8.eeL
+.	.	16FLK	.
+.	.	8AJ 8d	.
+.	.	.	16aJk
+.	.	r	8.ffL
+.	.	16FLK	.
+.	.	8AJ 8d	.
+.	.	.	16aJk
+.	.	r	8.ddL
+.	.	16FLK	.
+.	.	8AJ 8d	.
+.	.	.	16aJk)
+=135	=135	=135	=135
+1D	V7	r	(8.ccL
+.	.	16GLK	.
+.	.	8dJ	.
+.	.	.	16fJk
+.	.	r	8.bL
+.	.	16GLK	.
+.	.	8dJ	.
+.	.	.	16fJk
+.	.	r	8.aL
+.	.	16GLK	.
+.	.	8dJ	.
+.	.	.	16fJk
+.	.	r	8.gL
+.	.	16GLK	.
+.	.	8dJ	.
+.	.	.	16fJk)
+=136	=136	=136	=136
+2T	I	r	(8.eL 8.cc
+.	.	16CLK	.
+.	.	8cJ	.
+.	.	.	16gJk
+.	.	r	8.eL 8.cc
+.	.	16CLK	.
+.	.	8cJ	.
+.	.	.	16gJk
+8T	I	8C	8e) 8cc
+*-	*-	*-	*-

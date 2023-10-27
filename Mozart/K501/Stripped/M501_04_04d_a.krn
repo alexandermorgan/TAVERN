@@ -1,0 +1,34 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefG2	*clefG2	*clefG2
+*	*	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*g:	*g:	*g:	*g:	*g:	*g:
+8T	i	r	r	r	(8dd
+=87	=87	=87	=87	=87	=87
+*	*	*	*	*^	*
+8T	i	r	r	r	r	8bb-L
+4T	Nb	.	.	8c 8e-	.	8aaJ
+.	.	r	r	8ee-L	4cc	8aa-L
+8T	V7	8DD	8a	[8ddJ	.	8ff#J)
+=88	=88	=88	=88	=88	=88	=88
+8T	V7d/iv	8FL	4.g	8ddL]	8bL	(8.ggL
+8P	IVb	8EJ	.	8ccJ	8ccJ	.
+.	.	.	.	.	.	16aaJk
+8P	iv7b	8E-L	.	r	r	8bb-L)
+8P	viioD7/V	8C#J	(16.b-LL	8ee 8gg	.	8bb-J
+.	.	.	32gJJk	.	.	.
+*	*	*	*	*v	*v	*
+=89	=89	=89	=89	=89	=89
+4.D	ic	4D	4d)	8ddL 8gg	(8.bb-L
+.	.	.	.	8b-J 8dd	.
+.	.	.	.	.	16cccJk
+.	.	r	r	8gL 8b-	8dddL)
+8D	V	8D	8c	8f#J 8a	8dddJ
+=90	=90	=90	=90	=90	=90
+4.T	i	8GL	8B-	8g	8gg
+.	.	8DJ	r	r	r
+.	.	8GG	r	r	r
+*-	*-	*-	*-	*-	*-

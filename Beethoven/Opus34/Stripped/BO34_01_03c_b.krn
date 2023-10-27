@@ -1,0 +1,159 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 1 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+8.T	I	r	(32d'LLL
+.	.	.	32e'JJJ
+.	.	r	32f#'LLL
+.	.	.	32g'
+.	.	.	32a'
+.	.	.	32a#'JJJ)
+=31	=31	=31	=31
+*	*	*^	*
+2T	IV	16dLL	(4G	8bL
+.	.	16d	.	.
+.	.	.	.	qcc#
+.	.	16d	.	(32bLL
+.	.	.	.	32a#
+.	.	16dJJ	.	32b
+.	.	.	.	32cc#JJJ
+.	.	16dLL	8BL	32ddLLL
+.	.	.	.	32cc#
+.	.	16d	.	32dd
+.	.	.	.	32cc#JJ
+.	.	16d	8GJ)	32eeLL
+.	.	.	.	32dd
+.	.	16dJJ	.	32cc#
+.	.	.	.	32bJJJ)
+*	*	*v	*v	*
+=32	=32	=32	=32
+8T	Ib	16F#'LL 16d'	32aLLL
+.	.	.	r
+.	.	.	(64aJJ
+.	.	16F#' 16d'	[16aaJJ)
+8T	V7c	16E' 16G' 16A' 16c#'	32.aaLLL]
+.	.	.	(64cc#Jk
+.	.	16E'JJ 16G' 16A' 16c#'	[16ccc#JJ)
+8T	I	16D'LL 16F#' 16A' 16d'	32.ccc#LLL]
+.	.	.	(64ddJk
+.	.	16D' 16F#' 16A' 16d'	[16dddJJ)
+8D	viioD7c/V	16D' 16F' 16G#' 16B'	32.dddLLL]
+.	.	.	(64bk
+.	.	16D'JJ 16F' 16G#' 16B'	32bb'JJJ)
+.	.	.	r
+=33	=33	=33	=33
+.	.	.	qee
+8D	Vb	16C#LL 16E 16A 16c#	[16eeeLL)
+.	.	16C# 16E 16A 16c#	32eeeL]
+.	.	.	64dddL
+.	.	.	64ccc#JJJ
+8D	V7c/V/V	16F# 16A 16B 16d#	64bbLLL
+.	.	.	64aa
+.	.	.	64gg#
+.	.	.	64aa
+.	.	16F#JJ 16A 16B 16d#	64gg#
+.	.	.	64aa
+.	.	.	64gg#
+.	.	.	64aaJJJJ
+8D	Ic/V	16ELL 16A 16c# 16e	64gg#LLLL
+.	.	.	64aa
+.	.	.	64bb
+.	.	.	64aa
+.	.	16E 16A 16c# 16e	64ccc#
+.	.	.	64bb
+.	.	.	64ddd
+.	.	.	64ccc#JJJ
+8D	V7/V	16E 16B 16d 16e	64eeeLLL
+.	.	.	64ddd
+.	.	.	64ccc#
+.	.	.	64bb
+.	.	16EJJ 16B 16d 16e	64ccc#
+.	.	.	64bb
+.	.	.	64aa
+.	.	.	64gg#JJJJ
+=34	=34	=34	=34
+4.D	I/V	8A 8c# 8e	32aa
+.	.	.	r
+.	.	.	(64eeLLLK
+.	.	.	32ffJJJ)
+.	.	.	r
+.	.	.	(64ff#LKKK
+.	.	r	32ggJJJ)
+.	.	.	r
+.	.	.	(64gg#LLLK
+.	.	.	32aaJJJ)
+.	.	.	r
+.	.	.	(64aa#
+*	*	*clefG2	*
+.	.	r	32bb)
+.	.	.	r
+.	.	.	(64bb#LLLK
+.	.	r	32ccc#JJJ)
+.	.	.	r
+.	.	(64aLLKK	(64eeLKKK
+8D	V7/V	16eJJ) 16g#	32ddJJJ)
+.	.	.	r
+.	.	.	(64ccc#LLLK
+.	.	r	32bbJJJ)
+.	.	.	r
+.	.	(64e 64g#	(64dd
+=35	=35	=35	=35
+4.D	I/V	32A) 32a	32cc#) 32aa
+.	.	r	r
+.	.	.	(64eLLLK
+.	.	r	32fJJJ)
+.	.	.	r
+.	.	.	(64f#LKKK
+.	.	r	32gJJJ)
+.	.	.	r
+.	.	.	(64g#LLLK
+.	.	.	32aJJJ)
+.	.	.	r
+.	.	.	(64a#
+*	*	*clefF4	*
+.	.	r	32b)
+.	.	.	r
+.	.	.	(64b#LLLK
+.	.	r	32cc#JJJ)
+.	.	.	r
+.	.	(64ALLKK	(64eLKKK
+8D	V7/V	16EJJ) 16G#	32dJJJ)
+.	.	.	r
+.	.	.	(64cc#LLLK
+.	.	r	32bJJJ)
+.	.	r	r
+.	.	(64E 64G#	(64d
+=36	=36	=36	=36
+4D	I/V	16AA) 16A	32c#)
+.	.	.	r
+.	.	.	(64aLLLK
+.	.	r	32aa'JJJ)
+.	.	r	r
+.	.	(64ALLKK 64c#	.
+.	.	16c#'JJ) 16e'	r
+.	.	.	r
+.	.	.	(64aLLLK
+*	*	*clefG2	*
+.	.	r	32aa'JJJ)
+.	.	r	r
+.	.	(64c# 64e	.
+4D	V7	32e') 32g'	r
+.	.	r	r
+.	.	.	(64aLLLK
+.	.	r	32aa'JJJ)
+.	.	r	r
+.	.	(64eLKKK 64g	.
+.	.	64dJJJJ) 64f#	r
+.	.	r	(64aLLLL
+.	.	r	64aa'JJJJ)
+.	.	(64dLLLL 64f#	r
+.	.	64AJJJJ) 64e	r
+.	.	r	(64aLLLL
+.	.	r	64aa'JJJJ)
+.	.	(64A 64e	r
+=37	=37	=37	=37
+*-	*-	*-	*-

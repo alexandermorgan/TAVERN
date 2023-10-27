@@ -1,0 +1,37 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 17 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=313	=313	=313	=313
+*	*	*^	*^
+4T	I	[2D	4A	4a	4ff#
+4T	V7	.	4c#	4g	4ee
+=314	=314	=314	=314	=314	=314
+4T	I	2D]	4d	4f#	4.dd
+4T	viioD7/ii	.	4F# 4A 4c	4d# 4a	.
+.	.	.	.	.	8cc
+=315	=315	=315	=315	=315	=315
+4T	ii7d	[2D	4G 4B	4e 4g	4b
+4T	viiom7	.	4E 4G	(4c# 4g	(4b
+=316	=316	=316	=316	=316	=316
+2T	I	2D]	4F# 4A	4d)	4.a)
+.	.	.	4A	r	.
+*	*	*	*	*v	*v
+.	.	.	.	8g
+=317	=317	=317	=317	=317
+2T	viioD7/ii	[2D	4A 4c	4d# 4f#
+.	.	.	(4A 4c	(4d# 4f#
+=318	=318	=318	=318	=318
+4T	ii7d	4D]	4G) 4B	4e) 4g
+4T	ii7d	[4D	(4E 4B-	(4c# 4g
+=319	=319	=319	=319	=319
+4T	I	4D]	4F#) 4A	4d) 4f#
+*	*	*v	*v	*
+4P	viioD7c/V	(4DD 4D	(4G# 4B 4f#
+=320	=320	=320	=320
+2D	V	2AAA;) 2AA;	2A;) 2c#; 2e;
+*-	*-	*-	*-

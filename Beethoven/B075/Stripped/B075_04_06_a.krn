@@ -1,0 +1,96 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 4 f
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+=237	=237	=237	=237
+2T	V7	24CCLL	4.cc
+.	.	24EE	.
+.	.	24GGJ	.
+.	.	24CL	.
+.	.	24E	.
+.	.	24GJJ	.
+.	.	4c	.
+.	.	.	8b-' 8ee'
+=238	=238	=238	=238
+2T	Ic	24CCLL	4.a 4.ff
+.	.	24FF	.
+.	.	24AAJ	.
+.	.	24CL	.
+.	.	24F	.
+.	.	24AJJ	.
+.	.	4c	.
+.	.	.	8ff' 8aa'
+=239	=239	=239	=239
+2T	V7	24CCLL	4.ee 4.bb-
+.	.	24EE	.
+.	.	24GGJ	.
+.	.	24CL	.
+.	.	24E	.
+.	.	24GJJ	.
+.	.	4c	.
+.	.	.	8bb-' 8eee'
+=240	=240	=240	=240
+2T	Ic	24CCLL	4.aa 4.fff
+.	.	24FF	.
+.	.	24AAJ	.
+.	.	24CL	.
+.	.	24F	.
+.	.	24AJJ	.
+.	.	4c	.
+.	.	.	8aa' 8ccc'
+=241	=241	=241	=241
+4.T	V7	24CCLL	4.gg 4.bb-
+.	.	24EE	.
+.	.	24GGJ	.
+.	.	24CL	.
+.	.	24E	.
+.	.	24GJJ	.
+.	.	8c'L	.
+8T	viioD7/vi	8c#'J	8b-' 8ee'
+=242	=242	=242	=242
+2T	vi	8d	24ffLL
+.	.	.	24gg
+.	.	.	24ffJ
+.	.	r	24eeL
+.	.	.	24ff
+.	.	.	24ggJJ
+.	.	r	24gg#LL
+.	.	.	24aa
+.	.	.	24bb-J
+.	.	.	24bbL
+.	.	.	24ccc
+.	.	.	24ccc#JJ
+=243	=243	=243	=243
+4P	iib	8BB- 8D 8G	24dddLL
+.	.	.	24ccc
+.	.	.	24bb-J
+.	.	r	24aaL
+.	.	.	24gg
+.	.	.	24ffJJ
+4D	V7	8C 8G 8B-	24eeLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	r	24b-L
+.	.	.	24a
+.	.	.	24gJJ
+=244	=244	=244	=244
+4T	I	8F 8A	24fLL
+.	.	.	24c
+.	.	.	24B-J
+.	.	r	24AL
+.	.	.	24G
+.	.	.	24FJJ
+4T	V	8CC	24ELL
+.	.	.	24D
+.	.	.	24CJ
+.	.	r	24BB-L
+.	.	.	24AA
+.	.	.	24GGJJ
+=245	=245	=245	=245
+4T	I	8FFF	8FF
+.	.	r	r
+*-	*-	*-	*-

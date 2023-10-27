@@ -1,0 +1,103 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 8 h
+**function	**harm	**kern	**kern
+*	*	*clefF7d	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4T	I	r	4a 4cc
+=479	=479	=479	=479
+2.T	I	(4F 4A	(4a 4cc
+.	.	4G 4B-	4g 4b-
+.	.	4A) 4c	4f) 4a
+=480	=480	=480	=480
+2T	IV	4B- 4d	(4f 4dd
+.	.	r	4d 4b-
+4T	iib	r	4B-) 4g
+=481	=481	=481	=481
+*	*	*^	*
+2T	Ic	(4A	2.C	(4f
+.	.	4B-	.	4e)
+4T	V7	4G)	.	4e 4cc
+=482	=482	=482	=482	=482
+2.T	I	2F	2FF	(4g 4b-
+.	.	.	.	4f) 4a
+*	*	*v	*v	*
+*	*	*clefG2	*
+.	.	4f' 4a'	4aa' 4ccc'
+=483	=483	=483	=483
+2.T	I	(4f 4a	(4aa 4ccc
+.	.	4g 4b-	4gg 4bb-
+.	.	4a) 4cc	4ff) 4aa
+=484	=484	=484	=484
+4T	IV	4B- 4b-	4dd 4ff 4bb- 4ddd
+4T	viioD7c	r	4ee 4gg 4ddd- 4eee
+4T	viioD7/V	4B 4b	4ff 4aa- 4ddd 4fff
+=485	=485	=485	=485
+2T	.	r	r
+.	.	.	r
+4D	V	.	4cc
+=486	=486	=486	=486
+2.D	V	r	(8ddL
+.	.	.	8ccJ
+.	.	.	8bL)
+.	.	.	8cc'J
+.	.	.	8dd'L
+.	.	.	8ee'J
+*	*	*clefF4	*
+=487	=487	=487	=487
+2.D	V	r	8ff'L
+.	.	.	8gg'J
+.	.	.	8aa'L
+.	.	.	8bb-'J
+.	.	4c	8ccc'L
+.	.	.	8ccc#'J
+=488	=488	=488	=488
+*	*	*	*^
+2.D	ii7b	(8BL	2.ddd	4dd 4ff 4gg
+.	.	8cJ	.	.
+.	.	8dL)	.	r
+.	.	8c'J	.	.
+.	.	8B-'L	.	r
+.	.	8A'J	.	.
+=489	=489	=489	=489	=489
+2.D	V7c	8G'L	2.eee	4ee 4gg 4cccn
+.	.	8F'J	.	.
+.	.	8E'L	.	r
+.	.	8D'J	.	.
+.	.	8C'L	.	r
+.	.	8BB-'J	.	.
+*	*	*	*v	*v
+=490	=490	=490	=490
+4T	Ib	4AA 4A	4ff 4ccc 4fff
+4P	ii7b	4BB- 4B-	4ff 4gg 4ddd
+4D	V7	4C 4c	4g 4b- 4cc 4ee
+=491	=491	=491	=491
+2.T	I	4FF 4F	4f 4a 4cc 4ff
+.	.	r	r
+.	.	r	4cc
+=492	=492	=492	=492
+2.T	V7	(2.C 2.G 2.B- 2.c	(8bL
+.	.	.	8ccJ
+.	.	.	8cc#L)
+.	.	.	8dd'J
+.	.	.	8ee-'L
+.	.	.	8ee'J
+=493	=493	=493	=493
+2.T	I	4F) 4A 4c	4ff
+.	.	r	r
+.	.	r	4cc'
+=494	=494	=494	=494
+2.T	V7	(2.C 2.E 2.B- 2.c	(8ddL
+.	.	.	8ccJ
+.	.	.	8bL)
+.	.	.	8b-'J
+.	.	.	8a'L
+.	.	.	8g'J
+=495	=495	=495	=495
+2.T	I	4F) 4A 4c	4f
+.	.	r	r
+.	.	r	r
+==	==	==	==
+*-	*-	*-	*-

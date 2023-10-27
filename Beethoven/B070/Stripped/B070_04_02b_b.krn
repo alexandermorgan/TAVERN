@@ -1,0 +1,40 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 4 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M6/8	*M6/8	*M6/8	*M6/8
+*g:	*g:	*g:	*g:
+=85	=85	=85	=85
+*	*	*^	*^
+4.P	V7/iv	2.G	4.d	4.f 4.a-	r
+.	.	.	.	.	(8ccL
+.	.	.	.	.	8bJ)
+4.P	ivc	.	4.e-	4.g	r
+.	.	.	.	.	(8ddL
+.	.	.	.	.	8ccJ)
+*	*	*v	*v	*	*
+=86	=86	=86	=86	=86
+4.P	V/iv	4.G 4.B	4.g	r
+.	.	.	.	(8ee-L
+.	.	.	.	8ddJ)
+4.P	iv	4.C 4.c	4.g	r
+.	.	.	.	(8ffL
+.	.	.	.	8ee-J)
+*	*	*	*v	*v
+=87	=87	=87	=87
+4.D	ic	4.D 4.B- 4.d	r
+.	.	.	(8ee-L
+.	.	.	8gJ)
+4.D	V7	4.D 4.A 4.c	r
+.	.	.	(8gL
+.	.	.	8f#J)
+=88	=88	=88	=88
+*	*	*^	*
+4.T	i	[4.GG	(8GGL	4.c 4.a
+.	.	.	8D	.
+.	.	.	8F#J	.
+4T	i	4GG]	4G)	4B- 4g
+*	*	*v	*v	*
+*-	*-	*-	*-

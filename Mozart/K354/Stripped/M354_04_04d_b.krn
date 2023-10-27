@@ -1,0 +1,70 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Es, uber die Romanze 'Je suis Lindor' aus der Komodie 'Le Barbier de Seville'
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*E-:	*E-:	*E-:	*E-:
+=106	=106	=106	=106
+2D	V7	8BB-L 8B-	r
+.	.	.	24fLL
+.	.	.	24ee-JJ
+*	*	*clefG2	*
+.	.	8aa-J	r
+.	.	.	24fLL
+.	.	.	24ddJJ
+.	.	8aa-L	r
+.	.	.	24e-LL
+.	.	.	24ccJJ
+.	.	8aa-J	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+*	*	*clefF4	*
+=107	=107	=107	=107
+2D	V7d	8AA-L 8A-	r
+.	.	.	24fLL
+.	.	.	24ee-JJ
+*	*	*clefG2	*
+.	.	8aa-J	r
+.	.	.	24fLL
+.	.	.	24ddJJ
+.	.	8aa-L	r
+.	.	.	24e-LL
+.	.	.	24ccJJ
+.	.	8aa-J	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+=108	=108	=108	=108
+4T	I	8ggL	r
+.	.	.	24e-LL
+.	.	.	24b-JJ
+.	.	8bbJ	r
+.	.	.	24e-LL
+.	.	.	24gJJ
+8P	IVc	8cccL	r
+.	.	.	24e-LL
+.	.	.	24a-JJ
+8P	viioD7c/V	8aaJ	r
+.	.	.	24e-LL
+.	.	.	24g-JJ
+=109	=109	=109	=109
+8D	I	8bb-L	r
+.	.	.	24e-LL
+.	.	.	24gJJ
+*	*	*clefF4	*
+8D	voD7	8B-J 8e	r
+.	.	.	24gLL
+.	.	.	24b-JJ
+4D	V7	8B-L 8f	r
+.	.	.	24a-LL
+.	.	.	24b-JJ
+.	.	8B-J 8d	r
+.	.	.	24fLL
+.	.	.	24a-JJ 24b- 24dd
+=110	=110	=110	=110
+2T	I	8e-L	(4f 4a- 4b- 4dd
+.	.	8B-J	.
+.	.	8E-	8g) 8b- 8ee-
+.	.	r	r
+*-	*-	*-	*-

@@ -1,0 +1,47 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4T	V	r	4c
+=9	=9	=9	=9
+*	*	*	*^
+2.T	I	2F	(4f	2A
+.	.	.	4c)	.
+.	.	r	4f	r
+=10	=10	=10	=10	=10
+2.T	V	2C	(4g	4e
+.	.	.	4c)	r
+*	*	*	*v	*v
+.	.	r	4g
+=11	=11	=11	=11
+4T	I	(4F	(4a
+4T	vi	4D	4f)
+*	*	*	*^
+4T	iib	4BB-)	4g	4b-
+=12	=12	=12	=12	=12
+4T	Ic	2C	(4f	4a
+2T	V	.	4e)	4g
+*	*	*	*v	*v
+.	.	r	4cc
+=13	=13	=13	=13
+4T	Ib	(4A 4f	(4cc
+4T	viiob	4G 4e	4b-
+4T	I	4F) 4f	4a)
+=14	=14	=14	=14
+2P	IV	4B-	(4f 4dd
+.	.	r	4d) 4b-
+4P	iib	4BB-	4B- 4g
+=15	=15	=15	=15
+*	*	*^	*
+4D	Ic	(4A	4C	(4f
+2D	V7	4B-)	r	4g)
+.	.	4G	4C	4e'
+=16	=16	=16	=16	=16
+2T	I	4A	4F	4f'
+*	*	*v	*v	*
+.	.	4FF	r
+*-	*-	*-	*-

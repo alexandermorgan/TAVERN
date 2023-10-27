@@ -1,0 +1,93 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Eb uber das franzosische Lied 'La belle Francoise'
+!!!Variation: Variation 8 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M6/8	*M6/8	*M6/8	*M6/8
+*E-:	*E-:	*E-:	*E-:
+4.D	Vb	8DD 8D	r
+.	.	.	24fLL
+.	.	.	24b-JJ
+*	*	*clefG2	*
+.	.	8ffL	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+.	.	8b-J	r
+.	.	.	24dLL
+.	.	.	24fJJ
+=101	=101	=101	=101
+4.D	Ic	8gg	r
+.	.	.	24dLL
+.	.	.	24e-JJ
+*	*	*clefF4	*
+.	.	8GGL 8G	r
+.	.	.	24cLL
+.	.	.	24e-JJ
+.	.	8BBB-J 8BB-	r
+.	.	.	24dLL
+.	.	.	24gJJ
+4.D	V7/V	8AAA 8AA	r
+.	.	.	24cLL
+.	.	.	24gJJ
+*	*	*clefG2	*
+.	.	8cccL	r
+.	.	.	24fLL
+.	.	.	24aJJ
+.	.	8ffJ	r
+.	.	.	24e-LL
+.	.	.	24aJJ
+=102	=102	=102	=102
+4.D	V	8ddd	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+*	*	*clefF4	*
+.	.	8BB-L 8B-	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+.	.	8EE-J 8E-	r
+.	.	.	24gLL
+.	.	.	24b-JJ
+4.D	Vb	8DD 8D	r
+.	.	.	24fLL
+.	.	.	24b-JJ
+*	*	*clefG2	*
+.	.	8ffL	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+.	.	8b-J	r
+.	.	.	24dLL
+.	.	.	24fJJ
+=103	=103	=103	=103
+4.D	Ic	8gg	r
+.	.	.	24dLL
+.	.	.	24e-JJ
+*	*	*clefF4	*
+.	.	8GGL 8G	r
+.	.	.	24cLL
+.	.	.	24e-JJ
+.	.	8BBB-J 8BB-	r
+.	.	.	24dLL
+.	.	.	24gJJ
+4.D	V7/V	8AAA 8AA	r
+.	.	.	24cLL
+.	.	.	24gJJ
+*	*	*clefG2	*
+.	.	8eee-L	r
+.	.	.	24fLL
+.	.	.	24aJJ
+.	.	8aaJ	r
+.	.	.	24e-LL
+.	.	.	24ccJJ
+=104	=104	=104	=104
+4.D	V	8bb-	r
+.	.	.	24dLL
+.	.	.	24b-JJ
+*	*	*clefF4	*
+.	.	8CCL 8C	r
+.	.	.	24e-LL
+.	.	.	24aJJ
+.	.	8DDJ 8D	r
+.	.	.	24fLL
+.	.	.	24a-JJ
+*-	*-	*-	*-

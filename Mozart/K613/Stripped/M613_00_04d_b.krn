@@ -1,0 +1,66 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Theme d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+=33	=33	=33	=33
+2.T	I	2F	(4f
+.	.	.	4c)
+.	.	r	4f
+=34	=34	=34	=34
+*	*	*	*^
+2.T	V	2C	(4g	4e
+.	.	.	4c)	r
+.	.	r	4g	r
+*	*	*	*v	*v
+=35	=35	=35	=35
+4T	I	(4F	(4a
+4T	vi	4D	4f)
+*	*	*	*^
+4T	iib	4BB-)	4g	4b-
+=36	=36	=36	=36	=36
+4T	Ic	2C	(4f	4a
+2T	V	.	4e)	4g
+*	*	*	*v	*v
+.	.	r	4cc
+=37	=37	=37	=37
+4T	Ib	(4A 4f	(4cc
+4T	viiob	4G 4e	4b-
+4T	I	4F) 4f	4a)
+=38	=38	=38	=38
+2P	IV	4B-	(4f 4dd
+.	.	r	4d) 4b-
+4P	iib	4BB-	4B- 4g
+=39	=39	=39	=39
+*	*	*^	*
+4D	Ic	(4A	2.C	(4f
+2D	V	4E	.	4g
+*	*	*	*	*^
+.	.	4G)	.	4cc)	4e
+=40	=40	=40	=40	=40	=40
+2T	I	2F	2FF	(4b-	4g
+.	.	.	.	4a)	4f
+4T	V	r	r	4cc'	4a
+*	*	*v	*v	*	*
+=41	=41	=41	=41	=41
+2.T	I	(4F 4A	(4cc	4a
+.	.	4G 4B-	4b-	4g
+.	.	4A) 4c	4a)	4f
+=42	=42	=42	=42	=42
+2T	IV	4B- 4d	(4dd	4f
+.	.	r	4b-)	4d
+4T	iib	4BB-	4g	4B-
+*	*	*	*v	*v
+=43	=43	=43	=43
+*	*	*^	*
+4T	Ic	(4A	2C	(4f
+2T	V7	4B-)	.	4g)
+.	.	4G	4C	4e'
+=44	=44	=44	=44	=44
+2T	I	4A	4F	4f'
+*	*	*v	*v	*
+.	.	4FF	r
+*-	*-	*-	*-
