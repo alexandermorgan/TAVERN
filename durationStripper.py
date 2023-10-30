@@ -33,8 +33,10 @@ for composer in os.listdir(path):
             #     subprocess.run(args=_args, stdout=out_file)
             ### python-only version
             with open(currFilePath, 'r') as input_file:
-                modified = re.sub(r'[0-9]+\.*([iIvVr]+|-|Cc|Gn|Nb|Tr|N|Lt|Fr|~|Cto)', r'\1', input_file.read())
-                m1 = modified
+                # remove durations from **harm spine chord records
+                modified = re.sub(r'[0-9]+\.*([iIvV]+|-|Cc|Gn|Nb|Tr|N|Lt|Fr|~|Cto)', r'\1', input_file.read())
+                # replace rests with periods in **harm spine because music21 can't parse them
+                modified = re.sub(r'(^[^\t]\t)[0-9]+\.*r', r'\1\.', modified)
                 if 'Cc' in modified:
                     iCount = modified.count('\ti\t') + modified.count('\tib\t')
                     ICount = modified.count('\tI\t') + modified.count('\tIb\t')
@@ -46,7 +48,6 @@ for composer in os.listdir(path):
                         filesToCheck.append((currFilePath, newFilePath))
                 with open(newFilePath, "w") as out_file:
                     out_file.write(modified)
-            
             try:
                 piece = Score(newFilePath)
             except:
