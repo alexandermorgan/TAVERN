@@ -6,53 +6,53 @@
 *	*	*k[f#c#]	*k[f#c#]
 *M2/2	*M2/2	*M2/2	*M2/2
 *D:	*D:	*D:	*D:
-4T	V7d	r	4a
+4T	V7d	8r	4a
 .	.	8G	.
 =43	=43	=43	=43
-4T	Ib	8F#	r
-.	.	r	8a 8dd
-4T	Vb	8C#	r
-.	.	r	8a 8ee
-2T	I	8D	r
-.	.	r	8a 8ff#
-.	.	8E	r
-.	.	r	8a 8gg
+4T	Ib	8F#	8r
+.	.	8r	8a 8dd
+4T	Vb	8C#	8r
+.	.	8r	8a 8ee
+2T	I	8D	8r
+.	.	8r	8a 8ff#
+.	.	8E	8r
+.	.	8r	8a 8gg
 =44	=44	=44	=44
-1T	Ib	8F#	r
-.	.	r	8dd 8aa
-.	.	8G	r
-.	.	r	8dd 8bb
-.	.	8F#	r
-.	.	r	8dd 8aa
-.	.	8E	r
-.	.	r	8dd 8gg
+1T	Ib	8F#	8r
+.	.	8r	8dd 8aa
+.	.	8G	8r
+.	.	8r	8dd 8bb
+.	.	8F#	8r
+.	.	8r	8dd 8aa
+.	.	8E	8r
+.	.	8r	8dd 8gg
 =45	=45	=45	=45
-2T	I	8D	r
-.	.	r	8dd 8ff#
-.	.	8F#	r
-.	.	r	8dd 8ff#
-2T	V	8A	r
-.	.	r	8dd 8ee
-.	.	8AA	r
-.	.	r	8cc# 8ee
+2T	I	8D	8r
+.	.	8r	8dd 8ff#
+.	.	8F#	8r
+.	.	8r	8dd 8ff#
+2T	V	8A	8r
+.	.	8r	8dd 8ee
+.	.	8AA	8r
+.	.	8r	8cc# 8ee
 =46	=46	=46	=46
-1T	I	8D	r
-.	.	r	8a 8dd
-.	.	8C#	r
-.	.	r	8a 8ee
-.	.	8D	r
-.	.	r	8a 8ff#
-.	.	8E	r
-.	.	r	8a 8gg
+1T	I	8D	8r
+.	.	8r	8a 8dd
+.	.	8C#	8r
+.	.	8r	8a 8ee
+.	.	8D	8r
+.	.	8r	8a 8ff#
+.	.	8E	8r
+.	.	8r	8a 8gg
 =47	=47	=47	=47
-4T	Ib	8F#	r
-.	.	r	8dd 8aa
-4T	Vb	8C#	r
-.	.	r	8ee 8aa
-2T	I	8D	r
-.	.	r	(8ff# 8aa
+4T	Ib	8F#	8r
+.	.	8r	8dd 8aa
+4T	Vb	8C#	8r
+.	.	8r	8ee 8aa
+2T	I	8D	8r
+.	.	8r	(8ff# 8aa
 .	.	8DD	8eeL 8gg
-.	.	r	8ddJ) 8ff#
+.	.	8r	8ddJ) 8ff#
 =48	=48	=48	=48
 2D	Ic	(4.AA	8dd 8ff#
 .	.	.	(4cc# 4ee

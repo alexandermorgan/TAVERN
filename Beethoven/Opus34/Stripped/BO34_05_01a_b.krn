@@ -6,17 +6,17 @@
 *	*	*k[b-e-a-]	*k[b-e-a-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *c:	*c:	*c:	*c:
-8T	i	r	16.CLL 16.E- 16.G
+8T	i	8r	16.CLL 16.E- 16.G
 .	.	.	32CJJk 32E- 32G
 =111	=111	=111	=111
-4.T	i	r	4.C 4.E- 4.G
+4.T	i	8r	4.C 4.E- 4.G
 .	.	16.CC'LL	.
 .	.	32CC'JJk	.
 .	.	8CC'	.
-16.T	viioD7	r	16.BBLL 16.D 16.F 16.A-
+16.T	viioD7	8r	16.BBLL 16.D 16.F 16.A-
 32T	i	.	32CJJk 32E- 32G
 =112	=112	=112	=112
-4T	viioD7	r	(4D 4F 4A- 4B
+4T	viioD7	8r	(4D 4F 4A- 4B
 .	.	16.CC'LL	.
 .	.	32CC'JJk	.
 4T	i	8CC'L	8E-'L) 8G' 8c'

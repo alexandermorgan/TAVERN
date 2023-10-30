@@ -8,7 +8,7 @@
 *E-:	*E-:	*E-:	*E-:
 =75	=75	=75	=75
 *	*	*^	*
-2T	V7	8B-L	2B-	r
+2T	V7	8B-L	2B-	16r
 .	.	.	.	(q32gg
 .	.	.	.	q32ff
 .	.	.	.	q32ee
@@ -37,9 +37,9 @@
 .	.	.	.	32ddd
 .	.	.	.	32eee-J
 .	.	8E-J	.	16bb-JJ)
-.	.	.	.	r
+.	.	.	.	16r
 =77	=77	=77	=77	=77
-2D	V7	8BB-L	2BB-	r
+2D	V7	8BB-L	2BB-	16r
 .	.	.	.	(16ffLL
 .	.	8FJ	.	16aa-)
 .	.	.	.	(16ddJJ
@@ -90,30 +90,30 @@
 .	.	.	.	16aa-)
 .	.	16B-Jk 16f	16A-Jk	16ddJJ
 =81	=81	=81	=81	=81
-4T	Ib	8B- 8e-	8G	r
+4T	Ib	8B- 8e-	8G	16r
 .	.	.	.	(q32ff
 .	.	.	.	q32ee-
 .	.	.	.	q32dd
 .	.	.	.	(16ee-LL)
-.	.	r	r	16gg)
+.	.	8r	8r	16gg)
 .	.	.	.	16b-'JJ
-4P	IV	8c 8e-	8A-	r
+4P	IV	8c 8e-	8A-	16r
 .	.	.	.	(q32dd
 .	.	.	.	q32cc
 .	.	.	.	q32b
 .	.	.	.	(16ccLL)
-.	.	r	r	16ee-)
+.	.	8r	8r	16ee-)
 .	.	.	.	16a-'JJ
 *	*	*clefF4	*clefF4	*
 =82	=82	=82	=82	=82
-4D	Ic	r	2BB-	r
+4D	Ic	8r	2BB-	16r
 .	.	.	.	(q32a-
 .	.	.	.	q32g
 .	.	.	.	q32f#
 .	.	.	.	(16gLL)
 .	.	8G 8B-	.	16b-)
 .	.	.	.	16e-'JJ
-4D	V7	8A-L 8B-	.	r
+4D	V7	8A-L 8B-	.	16r
 .	.	.	.	(q32g
 .	.	.	.	q32f
 .	.	.	.	q32e
@@ -121,16 +121,16 @@
 .	.	8FJ 8B-	.	16a-)
 .	.	.	.	16d'JJ
 =83	=83	=83	=83	=83
-2T	I	8G 8B-	8E-	r
+2T	I	8G 8B-	8E-	32r
 .	.	.	.	(32e-LLL
 .	.	.	.	32f
 .	.	.	.	32gJJ
 *	*	*v	*v	*
-.	.	r	32a-LL
+.	.	8r	32a-LL
 .	.	.	32b-
 .	.	.	32cc
 .	.	.	32ddJJJ
-.	.	r	32ee-LLL
+.	.	4r	32ee-LLL
 .	.	.	32ff
 .	.	.	32gg
 .	.	.	32aa-JJ

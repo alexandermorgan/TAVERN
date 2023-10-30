@@ -6,7 +6,7 @@
 *	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
 *G:	*G:	*G:	*G:	*G:	*G:
-8T	I	r	r	r	32ggLL
+8T	I	8r	8r	8r	32ggLL
 .	.	.	.	.	32aa
 .	.	.	.	.	32bb
 .	.	.	.	.	32cccJJJ
@@ -36,7 +36,7 @@
 .	.	.	.	.	32dd
 .	.	.	.	.	32ee
 .	.	.	.	.	32ff#JJJ
-.	.	r	r	r	32ggLLL
+.	.	4r	4r	4r	32ggLLL
 .	.	.	.	.	32aa
 .	.	.	.	.	32bb
 .	.	.	.	.	32cccJJ
@@ -71,7 +71,7 @@
 .	.	.	.	.	.	32a
 .	.	.	.	.	.	32b
 .	.	.	.	.	.	32cc#JJJ
-.	.	r	r	r	r	32ddLLL
+.	.	4r	4r	4r	4r	32ddLLL
 .	.	.	.	.	.	32ee
 .	.	.	.	.	.	32ff#
 .	.	.	.	.	.	32ggJJ

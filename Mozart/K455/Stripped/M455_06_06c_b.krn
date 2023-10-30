@@ -8,13 +8,13 @@
 *G:	*G:	*G:	*G:
 =105	=105	=105	=105
 *	*	*	*^
-4T	I	1GG_	4gg	r
+4T	I	1GG_	4gg	4r
 4T	viio/V	.	(4gg	(4cc#
 4T	V	.	4ff#	4dd
 4T	V7/IV	.	4ff	4b
 =106	=106	=106	=106	=106
 *	*	*	*	*^
-4T	IVc	2.GG]	4ee	2cc)	r
+4T	IVc	2.GG]	4ee	2cc)	4r
 4T	viioD7/V	.	4ee-)	.	4f#
 4T	I	.	2dd	2b	4g
 4T	viioD7/ii	8.GG#L	.	.	4f
@@ -28,7 +28,7 @@
 4.P	I	4GGn	(8ccL]	4g	4d]
 .	.	.	8b)	.	.
 *	*	*	*	*v	*v
-.	.	r	8a'	4B- 4e
+.	.	8r	8a'	4B- 4e
 8P	viioD7/V	8C#	8g'	.
 =108	=108	=108	=108	=108
 4D	Ic	(4D	(4g	4B 4d
@@ -36,5 +36,5 @@
 .	.	.	8aJ	.
 2T	I	4GG	4g)	4B
 *	*	*	*v	*v
-.	.	r	r
+.	.	4r	4r
 *-	*-	*-	*-

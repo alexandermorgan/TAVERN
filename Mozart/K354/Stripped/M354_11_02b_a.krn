@@ -8,7 +8,7 @@
 *E-:	*E-:	*E-:	*E-:
 =247	=247	=247	=247
 *	*	*^	*
-2T	I	r	2E-	(16ffLL
+2T	I	8r	2E-	(16ffLL
 .	.	.	.	16ee-J)
 .	.	8G 8B-	.	([8ee-J
 .	.	8GL 8B-	.	16ee-LL]
@@ -16,15 +16,15 @@
 .	.	.	.	32ggJ
 .	.	8GJ 8B-	.	16ff)
 .	.	.	.	16ee-'JJ
-2T	V7	r	4F	(16.ee-LL
+2T	V7	8r	4F	(16.ee-LL
 .	.	.	.	32ddJk)
 .	.	4A- 4B-	.	8aa-'J
-.	.	.	4BB-	r
+.	.	.	4BB-	16r
 .	.	.	.	(16aa-LL
 .	.	8A- 8B-	.	16ff
 .	.	.	.	16ddJJ)
 =248	=248	=248	=248	=248
-2T	I	r	2E-	(16ffLL
+2T	I	8r	2E-	(16ffLL
 .	.	.	.	16ee-J)
 .	.	8G 8B-	.	([8ee-J
 .	.	8GL 8B-	.	16ee-LL]
@@ -32,7 +32,7 @@
 .	.	.	.	32ggJ
 .	.	8GJ 8B-	.	16ff)
 .	.	.	.	16ee-'JJ
-2T	V7	r	4F	(32ee-LLL
+2T	V7	8r	4F	(32ee-LLL
 .	.	.	.	32dd
 .	.	.	.	32ff
 .	.	.	.	32ee-JJ
@@ -53,21 +53,21 @@
 .	.	.	.	32ffk
 .	.	.	.	16gg)
 .	.	.	.	16ff'JJ
-.	.	r	r	(16ee-LL
+.	.	8r	4r	(16ee-LL
 .	.	.	.	16dd
-.	.	r	.	16cc
+.	.	16r	.	16cc
 .	.	16B-	.	16b-JJ)
 4T	V7b	(16B-LL	4D	(16b-LL
 .	.	16AJJ)	.	16a
-.	.	r	.	16ff)
+.	.	16r	.	16ff)
 .	.	16A-	.	16a-'JJ
 4T	I	(16A-LL	4E-	(16a-LL
 .	.	16GJJ)	.	16g
-.	.	r	.	16ee-)
+.	.	8r	.	16ee-)
 .	.	.	.	16g'JJ
 *	*	*v	*v	*
 =250	=250	=250	=250
-2D	Ic	r	16b-'LL
+2D	Ic	8r	16b-'LL
 .	.	.	(16b-
 .	.	8BB- 8E- 8G	16a
 .	.	.	16b-JJ)
@@ -77,6 +77,6 @@
 .	.	.	16gJJ)
 2D	V	8BB-L 8D 8F	4f
 .	.	8BB- 8B-	.
-.	.	8FF 8F	r
+.	.	8FF 8F	4r
 .	.	8DDJ 8D	.
 *-	*-	*-	*-

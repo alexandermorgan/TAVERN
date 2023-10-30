@@ -6,9 +6,9 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4T	Ib	4e 4g	r
+4T	Ib	4e 4g	4r
 =161	=161	=161	=161
-2T	Ib	(2e 2g	r
+2T	Ib	(2e 2g	12r
 .	.	.	(12bbL
 .	.	.	12cccJ
 .	.	.	12dddL
@@ -18,7 +18,7 @@
 .	.	.	12bb
 .	.	.	12cccJ)
 =162	=162	=162	=162
-2T	IV	(2f 2a	r
+2T	IV	(2f 2a	12r
 .	.	.	(12bbL
 .	.	.	12cccJ
 .	.	.	12dddL
@@ -28,7 +28,7 @@
 .	.	.	12bb
 .	.	.	12cccJ)
 =163	=163	=163	=163
-2T	Ib	(2e 2g	r
+2T	Ib	(2e 2g	12r
 .	.	.	(12bbL
 .	.	.	12cccJ
 .	.	.	12dddL
@@ -41,7 +41,7 @@
 2T	I	4c 4e	(12dddL
 .	.	.	12bb
 .	.	.	12cccJ
-.	.	r	12dddL
+.	.	4r	12dddL
 .	.	.	12bb
 .	.	.	12cccJ)
 4T	viiob/ii	4e 4g	4ccc#
@@ -54,9 +54,9 @@
 =166	=166	=166	=166
 2.P	ii	4dd 4d 4f	(8fffL
 .	.	.	8eeeJ)
-.	.	r	(8dddL
+.	.	4r	(8dddL
 .	.	.	8cccJ)
-.	.	r	(8bbL
+.	.	4r	(8bbL
 .	.	.	8aaJ)
 *	*	*clefF4	*
 =167	=167	=167	=167

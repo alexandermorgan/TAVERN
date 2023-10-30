@@ -8,9 +8,9 @@
 *B-:	*B-:	*B-:	*B-:
 =9	=9	=9	=9
 1D	V	4FF 4F	4f
-.	.	r	r
+.	.	4r	8r
 .	.	.	8f
-.	.	r	8fL
+.	.	4.r	8fL
 .	.	.	8f
 .	.	.	8f
 .	.	8f	8fJ
@@ -29,23 +29,23 @@
 .	.	16B-	16dd
 .	.	16cJJ	16ccJJ
 .	.	4d	4b-
-.	.	r	r
+.	.	2r	4r
 .	.	.	4dd 4ff
 =12	=12	=12	=12
 2D	I	4BB- 4B-	4b- 4dd
-.	.	r	4b- 4dd
+.	.	4r	4b- 4dd
 2D	V	4FF 4F	4a 4cc
-.	.	r	4a 4cc
+.	.	4r	4a 4cc
 =13	=13	=13	=13
 2.T	I	4BB- 4B-	(16ddLL
 .	.	.	16ff
 .	.	.	16ee
 .	.	.	16ffJJ
-.	.	r	16ggLL
+.	.	4r	16ggLL
 .	.	.	16ff
 .	.	.	16ee
 .	.	.	16ffJJ
-.	.	r	16ggLL
+.	.	4r	16ggLL
 .	.	.	16ff
 .	.	.	16ee
 .	.	.	16ffJJ
@@ -78,5 +78,5 @@
 .	.	.	16bb-
 .	.	.	16cccJJ)
 .	.	4BB- 4D 4F 4B-	4bb-
-.	.	r	r
+.	.	4r	4r
 *-	*-	*-	*-

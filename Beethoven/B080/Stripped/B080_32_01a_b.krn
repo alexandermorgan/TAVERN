@@ -400,7 +400,7 @@
 .	.	8E-J 8G	24e-L
 .	.	.	24d
 .	.	.	24cJJ
-2T	V7m9	[24GGLL	r
+2T	V7m9	[24GGLL	8r
 .	.	[24GG [24D	.
 .	.	[24GGJ [24D [24F	.
 .	.	8GGJ 8D 8F [8A-	24BLL
@@ -419,7 +419,7 @@
 .	.	8E-J 8G	24e-L
 .	.	.	24d
 .	.	.	24cJJ
-2T	V7m9	[24GGLL	r
+2T	V7m9	[24GGLL	8r
 .	.	[24GG [24D	.
 .	.	[24GGJ [24D [24F	.
 .	.	8GGJ 8D 8F [8A-	24BLL
@@ -444,14 +444,14 @@
 .	.	8GGJ 8D 8F 8A-	24a-L
 .	.	.	24f
 .	.	.	24dJJ
-.	.	r	24bLL
+.	.	4r	24bLL
 .	.	.	24a-
 .	.	.	24fJ
 .	.	.	24ddL
 .	.	.	24b
 .	.	.	24a-JJ
 =271	=271	=271	=271
-2.T	viioD7	r	24ffLL
+2.T	viioD7	2.r	24ffLL
 .	.	.	24dd
 .	.	.	24bJ
 .	.	.	24aa-L
@@ -470,7 +470,7 @@
 .	.	.	24fff
 .	.	.	24dddJJ
 =272	=272	=272	=272
-2.T	viioD7	r	24bbLL
+2.T	viioD7	2.r	24bbLL
 .	.	.	24ddd
 .	.	.	24fffJ
 .	.	.	24aa-L
@@ -489,7 +489,7 @@
 .	.	.	24b
 .	.	.	24ddJJ
 =273	=273	=273	=273
-2.T	V	r	24gLL
+2.T	V	2.r	24gLL
 .	.	.	24a-
 .	.	.	24gJ
 .	.	.	24a-L
@@ -508,7 +508,7 @@
 .	.	.	24b-
 .	.	.	24a-JJ
 =274	=274	=274	=274
-2.T	V	r	24gLL
+2.T	V	2.r	24gLL
 .	.	.	24a-
 .	.	.	24gJ
 .	.	.	24a-L

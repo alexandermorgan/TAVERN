@@ -8,25 +8,25 @@
 *F:	*F:	*F:	*F:
 4T	I	(8CL	(8.ffL 8.aa
 .	.	16FJk)	.
-.	.	r	16eeJk) 16gg
+.	.	16r	16eeJk) 16gg
 =254	=254	=254	=254
 2T	I	(8FL	(8.ddL 8.ff
 .	.	16AJk)	.
-.	.	r	16ccJk) 16ee
+.	.	16r	16ccJk) 16ee
 .	.	(8AL	16b-'LL 16dd'
 .	.	.	16a' 16cc'
 .	.	16cJk)	16g' 16b-'
-.	.	r	16f'JJ 16a'
+.	.	16r	16f'JJ 16a'
 =255	=255	=255	=255
-4T	V7d	(4B-	r
+4T	V7d	(4B-	16r
 .	.	.	16e'LK 16g'
 .	.	.	8ccJ
-4T	Ib	4A)	r
+4T	Ib	4A)	16r
 .	.	.	16f'LK 16a'
 .	.	.	8ccJ
 =256	=256	=256	=256
 *	*	*	*^
-8T	V7c	8GL	r	(16b-LL
+8T	V7c	8GL	8r	(16b-LL
 .	.	.	.	16cc
 8T	I	8FJ	8b-	16dd-
 .	.	.	.	16ccJJ)
@@ -37,33 +37,33 @@
 =257	=257	=257	=257	=257
 4T	V7	8GL	8b-	8cc
 *	*	*	*v	*v
-.	.	8CJ	r
+.	.	8CJ	8r
 4T	I	(8CCL	(8.aaL 8.ccc 8.fff
 .	.	16FFJk)	.
-.	.	r	16ggJk) 16bb- 16eee
+.	.	16r	16ggJk) 16bb- 16eee
 =258	=258	=258	=258
 2T	I	(8FFL	(8.ffL 8.aa 8.ddd
 .	.	16AAJk)	.
-.	.	r	16eeJk) 16gg 16ccc
+.	.	16r	16eeJk) 16gg 16ccc
 .	.	(8AAL	16dd'LL 16ff' 16bb-'
 .	.	.	16cc' 16ee' 16aa'
 .	.	16CJk)	16b-' 16dd' 16gg'
-.	.	r	16a'JJ 16cc' 16ff'
+.	.	16r	16a'JJ 16cc' 16ff'
 =259	=259	=259	=259
-4T	V7d	(4BB-	r
+4T	V7d	(4BB-	16r
 .	.	.	16g'LK 16cc' 16ee'
 .	.	.	8eeJ 8gg 8ccc
-4T	Ib	4AA)	r
+4T	Ib	4AA)	16r
 .	.	.	16a'LK 16cc' 16ff'
 .	.	.	8ffJ 8aa 8ccc
 =260	=260	=260	=260
-4D	Ic/V	8GG'L	r
+4D	Ic/V	8GG'L	16r
 .	.	.	16cc 16ee 16gg
-.	.	8GG'J	r
+.	.	8GG'J	16r
 .	.	.	16cc 16ee 16gg
-4D	V7b/V	8AA'L	r
+4D	V7b/V	8AA'L	16r
 .	.	.	16dd 16ff 16gg
-.	.	8BB'J	r
+.	.	8BB'J	16r
 .	.	.	16dd 16ff 16gg
 =261	=261	=261	=261
 2D	V	(4C	(16ccLL 16gg
@@ -78,11 +78,11 @@
 4D	Ic/V	(8GGL 8C	(16ccLL 16aa
 .	.	.	16ee) 16gg
 .	.	16GJk)	16ee' 16gg'
-.	.	r	16ee'JJ 16gg'
+.	.	16r	16ee'JJ 16gg'
 4D	V7/V	(8GGL 8BB	(16ddLL 16aa
 .	.	.	16ff) 16gg
 .	.	16GJk)	16ff' 16gg'
-.	.	r	16ff'JJ 16gg'
+.	.	16r	16ff'JJ 16gg'
 =263	=263	=263	=263
 2D	V	(4C	(16ccLL 16gg
 .	.	.	16ee 16ff#
@@ -96,11 +96,11 @@
 4D	Ic/V	(8GGL 8C	(16ccLL 16aa
 .	.	.	16ee) 16gg
 .	.	16GJk)	16ee' 16gg'
-.	.	r	16ee'JJ 16gg'
+.	.	16r	16ee'JJ 16gg'
 4D	V7/V	(8GGL 8BB	(16ddLL 16aa
 .	.	.	16ff) 16gg
 .	.	16GJk)	16ff' 16gg'
-.	.	r	16ff'JJ 16gg'
+.	.	16r	16ff'JJ 16gg'
 =265	=265	=265	=265
 4D	V	4C;	8ee; [8gg;
 .	.	.	q32gg]

@@ -7,7 +7,7 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *E-:	*E-:	*E-:	*E-:
 =27	=27	=27	=27
-4T	Ib	r	(16ee-LL
+4T	Ib	8r	(16ee-LL
 .	.	.	16gg
 .	.	8G 8B-	16ff
 .	.	.	16ee-JJ)
@@ -16,7 +16,7 @@
 .	.	.	16ff
 .	.	.	16ddJJ)
 =28	=28	=28	=28
-4T	Ib	r	(16ee-LL
+4T	Ib	8r	(16ee-LL
 .	.	.	16gg
 .	.	8G 8B-	16ff
 .	.	.	16ee-JJ)
@@ -26,7 +26,7 @@
 .	.	.	16ddJJ)
 =29	=29	=29	=29
 *	*	*^	*
-4T	Ib	r	r	(16ee-LL
+4T	Ib	8r	8r	(16ee-LL
 .	.	.	.	16dd
 .	.	4B-	8G	16cc
 .	.	.	.	16b-JJ

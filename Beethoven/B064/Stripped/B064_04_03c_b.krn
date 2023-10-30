@@ -7,9 +7,9 @@
 *	*	*met(c)	*met(c)
 *M4/4	*M4/4	*M4/4	*M4/4
 *F:	*F:	*F:	*F:
-4T	V	r	4cc' 4ccc'
+4T	V	4r	4cc' 4ccc'
 =51	=51	=51	=51
-2T	Ib	r	(4ff 4fff
+2T	Ib	12r	(4ff 4fff
 .	.	12CL	.
 .	.	12FJ	.
 .	.	12AAL	4ee 4eee
@@ -61,7 +61,7 @@
 .	.	12E	.
 .	.	12B-J	.
 =55	=55	=55	=55
-2.T	I	r	2.f 2.ff
+2.T	I	12r	2.f 2.ff
 .	.	12AL	.
 .	.	12FJ	.
 .	.	12CL	.

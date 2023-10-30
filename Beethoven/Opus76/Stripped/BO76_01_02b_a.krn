@@ -77,11 +77,11 @@
 =32	=32	=32	=32
 2T	I	8f# 8d	(16ff#LL 16ddd
 .	.	.	16eee
-.	.	r	16ddd
+.	.	8r	16ddd
 .	.	.	16ccc#JJ
 *	*	*clefF4	*
 .	.	(16DDLL	8ddd)
 .	.	16EE	.
-.	.	16DD	r
+.	.	16DD	8r
 .	.	16CC#JJ	.
 *-	*-	*-	*-

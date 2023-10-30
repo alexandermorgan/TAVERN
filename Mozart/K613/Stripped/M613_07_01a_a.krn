@@ -6,12 +6,12 @@
 *	*	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4	*M3/4
 *F:	*F:	*F:	*F:
-4T	I	r	16ccLL
+4T	I	4r	16ccLL
 .	.	.	16ff
 .	.	.	16aa
 .	.	.	16cccJJ
 =328	=328	=328	=328
-2.D	V	r	16bLL
+2.D	V	2.r	16bLL
 .	.	.	16bb
 .	.	.	16ccn
 .	.	.	16cccnJJ
@@ -24,7 +24,7 @@
 .	.	.	16a
 .	.	.	16aaJJ
 =329	=329	=329	=329
-2D	V	r	16gLL
+2D	V	2r	16gLL
 .	.	.	16gg
 .	.	.	16f
 .	.	.	16ffJJ
@@ -47,12 +47,12 @@
 4D	Ic	2c	2C	(4ff 4aa
 4D	V	.	.	4ee) 4gg
 *	*	*v	*v	*
-4D	Ic	16CLL	r
+4D	Ic	16CLL	4r
 .	.	16F	.
 .	.	16A	.
 .	.	16cJJ	.
 =332	=332	=332	=332
-2.D	V	16BBLL	r
+2.D	V	16BBLL	2.r
 .	.	16B	.
 .	.	16Cn	.
 .	.	16cnJJ	.
@@ -79,7 +79,7 @@
 .	.	16BB-JJ	16eeeJJ
 =334	=334	=334	=334
 4T	Ib	4AAA 4AA	4fff)
-4D	Ic	r	(8fL
+4D	Ic	4r	(8fL
 .	.	.	8aJ)
 *	*	*	*^
 4D	V7	4C	(8gL	4B-
@@ -87,6 +87,6 @@
 *	*	*	*v	*v
 =335	=335	=335	=335
 2T	I	4FF	4f 4A
-.	.	8F	r
-.	.	r;	r;
+.	.	8F	8r
+.	.	8r;	8r;
 *-	*-	*-	*-

@@ -8,7 +8,7 @@
 *a:	*a:	*a:	*a:
 =97	=97	=97	=97
 *	*	*^	*
-2T	i	2AA	r	4c 4cc
+2T	i	2AA	8r	4c 4cc
 .	.	.	(8A	.
 .	.	.	8EL	8cL 8cc
 .	.	.	8AJ)	8cJ 8cc
@@ -18,7 +18,7 @@
 4T	i	.	8CL	8AL 8a
 .	.	.	8EJ)	8cJ) 8cc
 =99	=99	=99	=99	=99
-2T	i	2AA	r	4e 4ee
+2T	i	2AA	8r	4e 4ee
 .	.	.	(8A	.
 .	.	.	8CL	8eL 8ee
 .	.	.	8AJ)	8eJ 8ee
@@ -46,5 +46,5 @@
 =104	=104	=104	=104
 4.D	i/v	(8EL 8G	4e 4ee
 .	.	8BJ	.
-.	.	8E) 8G	r
+.	.	8E) 8G	8r
 *-	*-	*-	*-

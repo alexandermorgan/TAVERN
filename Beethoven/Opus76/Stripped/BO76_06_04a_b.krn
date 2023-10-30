@@ -19,14 +19,14 @@
 .	.	16dJJ	.
 .	.	16DLL	8dd) 8ff# 8ddd
 .	.	16F#	.
-.	.	16A	r
+.	.	16A	8r
 .	.	16dJJ	.
 .	.	.	q16gg
 .	.	.	q16ff#
 .	.	.	q16ee
 .	.	16DLL	8dd 8ff#
 .	.	16F#	.
-.	.	16A	r
+.	.	16A	16r
 .	.	16dJJ	16ee 16gg
 =135	=135	=135	=135
 2.T	I	16DLL	(4ff# 4aa
@@ -35,7 +35,7 @@
 .	.	16dJJ	.
 .	.	16DLL	8dd) 8ff#
 .	.	16F#	.
-.	.	16A	r
+.	.	16A	8r
 .	.	16dJJ	.
 .	.	16DLL	4ddd 4fff#
 .	.	16F#	.
@@ -81,7 +81,7 @@
 .	.	.	q16ee
 .	.	16DLL	8dd 8ff#
 .	.	16F#	.
-.	.	16A	r
+.	.	16A	16r
 .	.	16dJJ	16ee 16gg
 =139	=139	=139	=139
 2.T	I	16DLL	8ff#L 8aa

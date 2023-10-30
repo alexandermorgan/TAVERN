@@ -7,42 +7,42 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *C:	*C:	*C:	*C:
 =121	=121	=121	=121
-2T	I	r	4.cc
+2T	I	8r	4.cc
 .	.	8c	.
 .	.	4e	.
 .	.	.	8cc
 =122	=122	=122	=122
-2T	Ib	r	4.gg
+2T	Ib	8r	4.gg
 .	.	8e	.
 .	.	4c	.
 .	.	.	8gg
 =123	=123	=123	=123
-2T	IV	r	4.aa
+2T	IV	8r	4.aa
 .	.	8f	.
 .	.	4c	.
 .	.	.	8aa
 =124	=124	=124	=124
-2T	Ib	r	4.gg
+2T	Ib	8r	4.gg
 .	.	8e	.
 .	.	4c	.
 .	.	.	8ee 8gg
 =125	=125	=125	=125
-4T	ii	8d	r
-.	.	r	8ee 8ff
-4T	viio	8B	r
-.	.	r	8dd 8ff
+4T	ii	8d	8r
+.	.	8r	8ee 8ff
+4T	viio	8B	8r
+.	.	8r	8dd 8ff
 =126	=126	=126	=126
-4T	I	8c	r
-.	.	r	8dd 8ee
-4T	vi	8A	r
-.	.	r	8cc 8ee
+4T	I	8c	8r
+.	.	8r	8dd 8ee
+4T	vi	8A	8r
+.	.	8r	8cc 8ee
 =127	=127	=127	=127
-4P	iib	8F	r
-.	.	r	8cc 8dd
-4D	V	8G	r
-.	.	r	8b 8dd
+4P	iib	8F	8r
+.	.	8r	8cc 8dd
+4D	V	8G	8r
+.	.	8r	8b 8dd
 =128	=128	=128	=128
-2T	I	r	4cc
+2T	I	8r	4cc
 .	.	8c	.
-.	.	4C	r
+.	.	4C	4r
 *-	*-	*-	*-

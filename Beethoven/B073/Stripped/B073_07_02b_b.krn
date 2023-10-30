@@ -46,11 +46,11 @@
 .	.	.	.	16cc#
 .	.	.	.	16ddJJ)
 *	*	*v	*v	*
-.	.	r	16f'LL
+.	.	4r	16f'LL
 .	.	.	(16ff
 .	.	.	16ee
 .	.	.	16ffJJ)
-.	.	r	16b-'LL
+.	.	2r	16b-'LL
 .	.	.	(16bb-
 .	.	.	16aa
 .	.	.	16bb-JJ)
@@ -63,15 +63,15 @@
 .	.	(16d	.
 .	.	16c#	8bb-J 8ddd
 .	.	16dJJ)	.
-4P	IV7	16E-'LL	r
+4P	IV7	16E-'LL	8r
 .	.	(16e-	.
 .	.	16d	8bb- 8ddd
 .	.	16e-JJ)	.
-4P	V7b/V	16E'LL	r
+4P	V7b/V	16E'LL	8r
 .	.	(16e	.
 .	.	16d#	8bb- 8ccc
 .	.	16eJJ)	.
-4D	V	16F'LL	r
+4D	V	16F'LL	8r
 .	.	(16f	.
 .	.	16e	8aa 8ccc
 .	.	16fJJ)	.
@@ -80,11 +80,11 @@
 .	.	.	(16ddd
 .	.	.	16ccc#
 .	.	.	16dddJJ)
-.	.	r	16b-'LL
+.	.	4r	16b-'LL
 .	.	.	(16bb-
 .	.	.	16aa
 .	.	.	16bb-JJ)
-.	.	r	16f'LL
+.	.	2r	16f'LL
 .	.	.	(16ff
 .	.	.	16ee
 .	.	.	16ffJJ)
@@ -94,19 +94,19 @@
 .	.	.	16ddJJ)
 =127	=127	=127	=127
 *	*	*	*clefF4
-4T	Ib	16DD'LL	r
+4T	Ib	16DD'LL	8r
 .	.	(16D	.
 .	.	16C#	8B- 8d
 .	.	16DJJ)	.
-4T	IV7	16EE-'LL	r
+4T	IV7	16EE-'LL	8r
 .	.	(16E-	.
 .	.	16D	8B- 8d
 .	.	16E-JJ)	.
-4T	V7b/V	16EE'LL	r
+4T	V7b/V	16EE'LL	8r
 .	.	(16E	.
 .	.	16D#	8B- 8c
 .	.	16EJJ)	.
-4T	V	16FF'LL	r
+4T	V	16FF'LL	8r
 .	.	(16F	.
 .	.	16E	8A 8c
 .	.	16FJJ)	.
@@ -115,10 +115,10 @@
 .	.	(16BB-	.
 .	.	16AA	.
 .	.	16BB-JJ	.
-.	.	16AALL	r
+.	.	16AALL	4r
 .	.	16BB-	.
 .	.	16FF	.
 .	.	16DDJJ)	.
-.	.	4BBB-	r
-.	.	r	.
+.	.	4BBB-	2r
+.	.	4r	.
 *-	*-	*-	*-

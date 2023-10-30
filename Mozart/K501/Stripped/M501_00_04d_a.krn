@@ -6,17 +6,17 @@
 *	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
 *G:	*G:	*G:	*G:	*G:	*G:
-8T	V7	r	8AJ	8ccJ)	(8dd
+8T	V7	8r	8AJ	8ccJ)	(8dd
 =15	=15	=15	=15	=15	=15
 4T	I	8GG	4G)	8d 8g 8b	8ggL
-.	.	r	.	r	8bbJ
-4T	V7	8DD	r	8d 8f# 8cc	8aaL
-.	.	r	(8D	r	8ff#J
+.	.	8r	.	8r	8bbJ
+4T	V7	8DD	8r	8d 8f# 8cc	8aaL
+.	.	8r	(8D	8r	8ff#J
 =16	=16	=16	=16	=16	=16
 4T	I	8GG	8GL	8d 8g 8b	4.ddd)
-.	.	r	8BJ	r	.
+.	.	8r	8BJ	8r	.
 4T	V7	8D	8AL	8d 8f# 8cc	.
-.	.	r	8F#J)	r	(16.cccLL
+.	.	8r	8F#J)	8r	(16.cccLL
 .	.	.	.	.	32aaJJk)
 =17	=17	=17	=17	=17	=17
 4T	Ib	(8BBL	4.d	8gL 8b	8ggL
@@ -30,5 +30,5 @@
 4.T	I	(8GGL	4g	4b 4dd	4gg)
 .	.	16.BBL)	.	.	.
 .	.	32D'JJk	.	.	.
-.	.	8G'	r	r	r
+.	.	8G'	8r	8r	8r
 *-	*-	*-	*-	*-	*-

@@ -7,7 +7,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
 =121	=121	=121	=121
-2.T	I	(12CCL	r
+2.T	I	(12CCL	12r
 .	.	12GG	(12AL 12a
 .	.	12EJ)	[12GJ [12g
 .	.	(12CCL	12GL 12g
@@ -80,10 +80,10 @@
 2.T	I	4C 4E 4c	12ggL 12ggg
 .	.	.	12cc 12ccc
 .	.	.	12bJ 12bb
-.	.	r	12ccL 12ccc
+.	.	4r	12ccL 12ccc
 .	.	.	12a 12aa
 .	.	.	12gJ 12gg
-.	.	r	12fL 12ff
+.	.	4r	12fL 12ff
 .	.	.	12d 12dd
 .	.	.	12gJ 12gg
 *-	*-	*-	*-

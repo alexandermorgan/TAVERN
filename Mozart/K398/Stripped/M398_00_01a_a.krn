@@ -66,16 +66,16 @@
 *	*	*	*^
 4T	I	4F	8.aL	4f
 .	.	.	16ccJk	.
-4T	Ib	8AAL 8F	8cL 8f	r
+4T	Ib	8AAL 8F	8cL 8f	4r
 .	.	8AAJ 8F	8cJ 8f	.
-4T	V	8CL 8G	8eL 8g	r
+4T	V	8CL 8G	8eL 8g	4r
 .	.	8CJ 8G	8eJ 8g	.
 =10	=10	=10	=10	=10
 4T	I	4F 4A	8.aL	4f
 .	.	.	16ccJk	.
-4T	Ib	8AAL 8F	8cL 8f	r
+4T	Ib	8AAL 8F	8cL 8f	4r
 .	.	8AAJ 8F	8cJ 8f	.
-4T	V	8CL 8G	8eL 8g	r
+4T	V	8CL 8G	8eL 8g	4r
 .	.	8CJ 8G	8eJ 8g	.
 *	*	*	*v	*v
 =11	=11	=11	=11
@@ -87,5 +87,5 @@
 .	.	.	16eJk
 =12	=12	=12	=12
 4.T	I	4FF	4f
-.	.	[8F	r
+.	.	[8F	8r
 *-	*-	*-	*-

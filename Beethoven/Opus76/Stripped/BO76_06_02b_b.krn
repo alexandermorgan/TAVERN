@@ -7,23 +7,23 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *D:	*D:	*D:	*D:
 4T	vi	8BBL	8b 8dd 8bb
-.	.	8DJ 8F# 8B	r
+.	.	8DJ 8F# 8B	16r
 .	.	.	16cc# 16ee 16ccc#
 =105	=105	=105	=105
 2T	vi	8BBL	(4dd 4ff# 4ddd
 .	.	8DJ 8F# 8B	.
 .	.	8BBL	8b) 8dd 8bb
-.	.	8DJ 8F# 8B	r
+.	.	8DJ 8F# 8B	8r
 4T	V7	8AAL	8cc# 8ee 8ccc#
-.	.	8C#J 8E 8G	r
+.	.	8C#J 8E 8G	16r
 .	.	.	16dd 16ff# 16ddd
 =106	=106	=106	=106
 2.T	V7	8AAL	(4ee 4gg 4eee
 .	.	8C#J 8E 8G	.
 .	.	8AAL	8cc#) 8ee 8ccc#
-.	.	8C#J 8E 8G	r
+.	.	8C#J 8E 8G	8r
 .	.	8AAL	8cc# 8ee 8ccc#
-.	.	8C#J 8E 8G	r
+.	.	8C#J 8E 8G	16r
 .	.	.	16dd 16ff# 16ddd
 =107	=107	=107	=107
 2.T	V7	8AAL	8ee'L 8gg' 8eee'
@@ -43,7 +43,7 @@
 2.T	I	8DL	(4ff# 4aa 4fff#
 .	.	8F#J 8A 8d	.
 .	.	8DL	8dd) 8ff# 8ddd
-.	.	8F#J 8A 8d	r
+.	.	8F#J 8A 8d	8r
 .	.	8DL	8.ddL 8.ff#
 .	.	8F#J 8A 8d	.
 .	.	.	16eeJk 16gg
@@ -51,7 +51,7 @@
 2.T	I	8DL	(4ff# 4aa
 .	.	8F#J 8A 8d	.
 .	.	8DL	8dd) 8ff#
-.	.	8F#J 8A 8d	r
+.	.	8F#J 8A 8d	8r
 .	.	8DL	4ff# 4fff#
 .	.	8dJ	.
 =111	=111	=111	=111

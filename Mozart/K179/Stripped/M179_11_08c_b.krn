@@ -20,8 +20,8 @@
 =310	=310	=310	=310
 4D	V+	4G 4B 4d#	(4dd#
 4D	Ic	4G 4c 4e	8ee)
-.	.	.	r
-4D	viioc/ii	4G 4c# 4e	r
+.	.	.	8r
+4D	viioc/ii	4G 4c# 4e	24r
 .	.	.	24ggLL
 .	.	.	24ffJ
 .	.	.	24eeL
@@ -67,7 +67,7 @@
 .	.	.	8ccJ
 .	.	4d 4g	8bL
 .	.	.	8ffJ)
-.	.	4c 4g	r
+.	.	4c 4g	32r
 .	.	.	(32eeLLL
 .	.	.	32gg
 .	.	.	32ff#JJ
@@ -81,7 +81,7 @@
 .	.	.	8bJ)
 .	.	4G 4B 4d	(8aL
 .	.	.	8gJ)
-4T	V7d	4F 4B 4d	r
+4T	V7d	4F 4B 4d	32r
 .	.	.	32gLLL
 .	.	.	32a
 .	.	.	32bJJ
@@ -94,7 +94,7 @@
 .	.	.	8ccJ
 .	.	4D 4G 4B	8bL
 .	.	.	8ffJ)
-.	.	4C 4G 4c	r
+.	.	4C 4G 4c	16.r
 .	.	.	32eeL
 .	.	.	8eeJ
 =317	=317	=317	=317
@@ -107,7 +107,7 @@
 .	.	32e	.	32gg
 .	.	32d#	.	32ff
 .	.	32cJJJ)	.	32eeJJJ)
-4D	V	8B	r	8dd
-.	.	r	.	r
+4D	V	8B	4r	8dd
+.	.	8r	.	8r
 *	*	*v	*v	*
 *-	*-	*-	*-

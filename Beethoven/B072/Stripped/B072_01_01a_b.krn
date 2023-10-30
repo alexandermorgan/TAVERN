@@ -6,7 +6,7 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4T	I	r	4ee
+4T	I	4r	4ee
 =33	=33	=33	=33
 *	*	*^	*
 2.T	I	2g	2.c	(8dd#L
@@ -33,12 +33,12 @@
 2.T	I	4e	4c]	8bL
 .	.	.	.	8ccJ
 *	*	*v	*v	*
-.	.	r	8ddL
+.	.	4r	8ddL
 .	.	.	8ccJ
-.	.	r	8bL
+.	.	4r	8bL
 .	.	.	8ccJ)
 =37	=37	=37	=37
-2T	viio	r	(8cc#L
+2T	viio	4r	(8cc#L
 .	.	.	8ddJ
 .	.	(4b	8eeL
 .	.	.	8ddJ

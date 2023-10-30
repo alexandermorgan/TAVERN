@@ -6,32 +6,32 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4.T	V	r	8g'L
-.	.	r	8a'
+4.T	V	8r	8g'L
+.	.	4r	8a'
 .	.	.	8b'J
 =193	=193	=193	=193
-2.T	I	r	8cc
+2.T	I	4r	8cc
 .	.	.	4cc
 .	.	4c 4e	.
 .	.	.	8gg'L
-.	.	r	8ee'
+.	.	4r	8ee'
 .	.	.	8cc'J
 =194	=194	=194	=194
-2.P	iib	r	8a
+2.P	iib	4r	8a
 .	.	.	4a
 .	.	4F 4A 4d	.
 .	.	.	8aa'L
-.	.	r	8ff'
+.	.	4r	8ff'
 .	.	.	8dd'J
 =195	=195	=195	=195
-2.D	V7	r	8b
+2.D	V7	4r	8b
 .	.	.	4b
 .	.	4G 4d 4f	.
 .	.	.	8ddd'L
-.	.	r	8bb'
+.	.	4r	8bb'
 .	.	.	8ff'J
 =196	=196	=196	=196
 4.T	I	8c 8e	8ee
-.	.	r	(8gL 8gg
-.	.	r	8f# 8ff#
+.	.	8r	(8gL 8gg
+.	.	8r	8f# 8ff#
 *-	*-	*-	*-

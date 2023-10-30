@@ -19,14 +19,14 @@
 =274	=274	=274	=274
 2D	V7	16GLL	(16ggLL
 .	.	16d 16f	32ffJJk)
-.	.	.	r
+.	.	.	32r
 .	.	16d 16f	(16eeLL
 .	.	16dJJ 16f	32ddJJk)
-.	.	.	r
+.	.	.	32r
 .	.	16GLL	(8ccL
 .	.	16d 16f	.
 .	.	16d 16f	16bJk)
-.	.	16dJJ 16f	r
+.	.	16dJJ 16f	16r
 =275	=275	=275	=275
 8.T	Ib	8.eL 8.g	(8.ccL
 16T	Vb	16BJk 16g	16ddJk)
@@ -38,7 +38,7 @@
 .	.	.	32eeJJJ
 4D	V	8G) 8B	16ddLL)
 .	.	.	(16ee'
-.	.	r	16ff'
+.	.	8r	16ff'
 .	.	.	16ff#'JJ)
 =277	=277	=277	=277
 2D	Ic	16GLL	(8.ggL
@@ -79,12 +79,12 @@
 .	.	.	(32ddd
 .	.	.	32eee
 .	.	.	32dddJ
-.	.	r	16.ccc)
+.	.	8r	16.ccc)
 .	.	.	32ff#JJk
 =280	=280	=280	=280
 2D	V	(4G 4c	(4aa
 .	.	8G) 8B	8gg)
-.	.	r;	r
+.	.	8r;	48r
 .	.	.	(48aaLLL
 .	.	.	48ggJJ
 .	.	.	48ffLL

@@ -7,128 +7,128 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *E-:	*E-:	*E-:	*E-:
 =97	=97	=97	=97
-2D	V7	8BB-L	r
+2D	V7	8BB-L	24r
 .	.	.	(24dLL
 .	.	.	24b-JJ)
 *	*	*clefG2	*
-.	.	(8bb-J	r
+.	.	(8bb-J	24r
 .	.	.	(24dLL
 .	.	.	24b-JJ)
-.	.	8aaL	r
+.	.	8aaL	24r
 .	.	.	(24e-LL
 .	.	.	24ccJJ)
-.	.	8aa-J	r
+.	.	8aa-J	24r
 .	.	.	(24fLL
 .	.	.	24ddJJ)
 =98	=98	=98	=98
-8D	I	8ggL)	r
+8D	I	8ggL)	24r
 .	.	.	(24gLL
 .	.	.	24ee-JJ)
 *	*	*clefF4	*
-8D	i	8E-J 8e-	r
+8D	i	8E-J 8e-	24r
 .	.	.	(24g-LL
 .	.	.	24ee-JJ)
-8D	-VI	8C-L 8c-	r
+8D	-VI	8C-L 8c-	24r
 .	.	.	(24g-LL
 .	.	.	24ee-JJ)
-8D	viioD7/V	8AAJ 8A	r
+8D	viioD7/V	8AAJ 8A	24r
 .	.	.	(24g-LL
 .	.	.	24ee-JJ)
 =99	=99	=99	=99
-2D	V7	8BB-L 8B-	r
+2D	V7	8BB-L 8B-	24r
 .	.	.	(24fLL
 .	.	.	24ddJJ)
 *	*	*clefG2	*
-.	.	(8bb-J	r
+.	.	(8bb-J	24r
 .	.	.	(24dLL
 .	.	.	24b-JJ)
-.	.	8cccL	r
+.	.	8cccL	24r
 .	.	.	(24e-LL
 .	.	.	24aJJ)
-.	.	8dddJ	r
+.	.	8dddJ	24r
 .	.	.	(24fLL
 .	.	.	24a-JJ)
 =100	=100	=100	=100
-8D	I	8eee-L)	r
+8D	I	8eee-L)	24r
 .	.	.	(24e-LL
 .	.	.	24g-JJ)
 *	*	*clefF4	*
-8D	i	8EE-J 8E-	r
+8D	i	8EE-J 8E-	24r
 .	.	.	(24e-LL
 .	.	.	24g-JJ)
-8D	-VI	8CC-L 8C-	r
+8D	-VI	8CC-L 8C-	24r
 .	.	.	(24g-LL
 .	.	.	24ee-JJ)
-8D	viioD7/V	8AAAJ 8AA	r
+8D	viioD7/V	8AAAJ 8AA	24r
 .	.	.	(24g-LL
 .	.	.	24ee-JJ)
 =101	=101	=101	=101
-2D	V7	8BBB-L 8BB-	r
+2D	V7	8BBB-L 8BB-	24r
 .	.	.	(24fLL
 .	.	.	24ee-JJ)
 *	*	*clefG2	*
-.	.	8aa-J	r
+.	.	8aa-J	24r
 .	.	.	(24fLL
 .	.	.	24ddJJ)
-.	.	8aa-L	r
+.	.	8aa-L	24r
 .	.	.	(24e-LL
 .	.	.	24ccJJ)
-.	.	8aa-J	r
+.	.	8aa-J	24r
 .	.	.	(24dLL
 .	.	.	24b-JJ)
 *	*	*clefF4	*
 =102	=102	=102	=102
-2D	V7d	8AA-L 8A-	r
+2D	V7d	8AA-L 8A-	24r
 .	.	.	(24fLL
 .	.	.	24ee-JJ)
 *	*	*clefG2	*
-.	.	8aa-J	r
+.	.	8aa-J	24r
 .	.	.	(24fLL
 .	.	.	24ddJJ)
-.	.	8aa-L	r
+.	.	8aa-L	24r
 .	.	.	(24e-LL
 .	.	.	24ccJJ)
-.	.	8aa-J	r
+.	.	8aa-J	24r
 .	.	.	(24dLL
 .	.	.	24b-JJ)
 =103	=103	=103	=103
-4T	I	8ggL	r
+4T	I	8ggL	24r
 .	.	.	(24e-LL
 .	.	.	24b-JJ)
-.	.	8bbJ	r
+.	.	8bbJ	24r
 .	.	.	(24e-LL
 .	.	.	24gJJ)
-8P	IVc	8cccL	r
+8P	IVc	8cccL	24r
 .	.	.	(24e-LL
 .	.	.	24a-JJ)
-8P	viioD7c/V	8aaJ	r
+8P	viioD7c/V	8aaJ	24r
 .	.	.	(24e-LL
 .	.	.	24g-JJ)
 =104	=104	=104	=104
-8D	I	8bb-L	r
+8D	I	8bb-L	24r
 .	.	.	24e-LL
 .	.	.	24gJJ
 *	*	*clefF4	*
-8D	voD7	8B-J 8e	r
+8D	voD7	8B-J 8e	24r
 .	.	.	24gLL
 .	.	.	24b-JJ
-4D	V7	8B-L 8f	r
+4D	V7	8B-L 8f	24r
 .	.	.	24a-LL
 .	.	.	24b-JJ
-.	.	8B-J 8d	r
+.	.	8B-J 8d	24r
 .	.	.	24fLL
 .	.	.	24b-JJ
 =105	=105	=105	=105
-2T	I	8e-L	r
+2T	I	8e-L	24r
 .	.	.	24gLL
 .	.	.	24b-JJ
-.	.	8BB-J 8B-	r
+.	.	8BB-J 8B-	24r
 .	.	.	24b-LL
 .	.	.	24ee-JJ
-.	.	8GGL 8G	r
+.	.	8GGL 8G	24r
 .	.	.	24ee-LL
 .	.	.	24ggJJ
-.	.	8EE-J 8E-	r
+.	.	8EE-J 8E-	24r
 .	.	.	24ggLL
 .	.	.	24bb-JJ
 *-	*-	*-	*-

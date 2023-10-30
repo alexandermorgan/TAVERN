@@ -7,7 +7,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
 =288	=288	=288	=288
-2.T	Ib	4E 4G 4c	r
+2.T	Ib	4E 4G 4c	8r
 .	.	.	[8cc
 .	.	4e	(16ccLL]
 .	.	.	32ddL
@@ -47,9 +47,9 @@
 .	.	.	32eeL
 .	.	.	32ddJJJ
 4D	Ic	8G 8e	8cc
-.	.	r	r
+.	.	8r	8r
 4D	V7	8G 8d	8f 8b
-.	.	r	r
+.	.	8r	8r
 =291	=291	=291	=291
 2.T	I	4C 4c	(2d 2f 2b
 .	.	4GG 4G	.

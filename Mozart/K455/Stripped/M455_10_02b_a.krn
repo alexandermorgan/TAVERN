@@ -13,9 +13,9 @@
 =220	=220	=220	=220
 4.P	i/ii	8A 8c	16aLL
 .	.	.	16b
-.	.	r	16cc
+.	.	8r	16cc
 .	.	.	16ddJ
-.	.	r	8eeJ
+.	.	8r	8eeJ
 *	*	*clefG2	*
 =221	=221	=221	=221
 4.P	V7b/ii	8g#L 8b 8dd	8eeL 8eee
@@ -24,9 +24,9 @@
 =222	=222	=222	=222
 4.P	ii	8a 8cc	16eeeLL
 .	.	.	16ddd
-.	.	r	16ccc
+.	.	8r	16ccc
 .	.	.	16bbJ
-.	.	r	8aaJ
+.	.	8r	8aaJ
 *	*	*clefF4	*
 =223	=223	=223	=223
 4.D	V7b	8F#L 8A 8c	8dL
@@ -35,9 +35,9 @@
 =224	=224	=224	=224
 4.D	I	Gn 8B	16gnLL
 .	.	.	16a
-.	.	r	16b
+.	.	8r	16b
 .	.	.	16ccJ
-.	.	r	8ddJ
+.	.	8r	8ddJ
 *	*	*clefG2	*
 =225	=225	=225	=225
 4.D	V7b	8f#L 8a 8cc	8ddL 8ddd
@@ -46,7 +46,7 @@
 =226	=226	=226	=226
 4.T	I	8g 8b	16dddLL
 .	.	.	16ccc
-.	.	r	16bb
+.	.	8r	16bb
 .	.	.	16aaJ
-.	.	r	8ggJ
+.	.	8r	8ggJ
 *-	*-	*-	*-

@@ -8,7 +8,7 @@
 *G:	*G:	*G:	*G:
 =13	=13	=13	=13
 *	*	*^	*
-2T	I	r	2G	16gLL
+2T	I	4r	2G	16gLL
 .	.	.	.	16a
 .	.	.	.	16g
 .	.	.	.	16f#JJ
@@ -33,7 +33,7 @@
 .	.	.	.	16f#
 .	.	.	.	16g
 .	.	.	.	16eJJ
-2T	V	r	2D	16dLL
+2T	V	4r	2D	16dLL
 .	.	.	.	16e
 .	.	.	.	16d
 .	.	.	.	16c#JJ
@@ -63,5 +63,5 @@
 4D	Ic	4D 4G 4B	4dd 4ddd
 4D	V	4D 4F# 4A	4dd 4ddd
 2T	I	4G	4g 4gg
-.	.	4GG	r
+.	.	4GG	4r
 *-	*-	*-	*-

@@ -6,18 +6,18 @@
 *	*	*k[b-]	*k[b-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *F:	*F:	*F:	*F:
-4T	I	r	4cc
+4T	I	4r	4cc
 =21	=21	=21	=21
 2T	I	8F 8c	(8aL
-.	.	r	8fJ
+.	.	8r	8fJ
 .	.	8F 8c	8aL 8ff
-.	.	r	8ccJ)
+.	.	8r	8ccJ)
 =22	=22	=22	=22
 .	.	.	q8cc
 4T	V7b	8E 8c	(4g 4b-
-.	.	r	.
+.	.	8r	.
 4T	I	8F 8c	4f) 4a
-.	.	r	.
+.	.	8r	.
 =23	=23	=23	=23
 2T	V7	8B-L 8c	8eL 8g
 .	.	8AJ 8c	8fJ
@@ -26,7 +26,7 @@
 .	.	8FJ 8c	8fJ 8a
 =24	=24	=24	=24
 4T	V	4C 4c	4e 4g
-4T	I	r	4cc
+4T	I	4r	4cc
 =25	=25	=25	=25
 2T	I	2F 2c	8aL 8cc
 .	.	.	8aJ

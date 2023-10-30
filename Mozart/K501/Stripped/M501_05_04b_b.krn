@@ -32,7 +32,7 @@
 .	.	.	.	.	32bb
 .	.	.	.	.	32ccc
 .	.	.	.	.	32dddJJJ
-4P	iib	.	r	r	32ddd#LLL
+4P	iib	.	4r	4r	32ddd#LLL
 .	.	.	.	.	32eee
 .	.	.	.	.	32ddd
 .	.	.	.	.	32cccJJ
@@ -67,6 +67,6 @@
 .	.	.	.	.	.	32bb
 .	.	.	.	.	.	32ddd
 .	.	.	.	.	.	32bbJJJ
-.	.	r	r	r	r	8gg
+.	.	8r	8r	8r	8r	8gg
 *	*	*	*v	*v	*	*
 *-	*-	*-	*-	*-	*-

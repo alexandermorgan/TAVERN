@@ -20,32 +20,32 @@
 .	.	16BB	.
 .	.	16C#	8f#'J 8dd'
 .	.	16DJJ	.
-.	.	16ELL	r
+.	.	16ELL	8r
 .	.	16F#	.
-.	.	16G	r
+.	.	16G	16r
 .	.	16G#JJ	16d' 16f#'
 *	*	*clefG2	*
 =59	=59	=59	=59
 2D	V7	16ALL	8c#' 8g'
 .	.	16B	.
-.	.	16c#	r
+.	.	16c#	8r
 .	.	16dJJ	.
 *	*	*	*clefF4
 .	.	16eLL	8G' 8c#'
 .	.	16f#	.
-.	.	16g	r
+.	.	16g	8r
 .	.	16g#JJ	.
 =60	=60	=60	=60
 2D	Ic	16aLL	8F#' 8d'
 .	.	16b	.
-.	.	16cc#	r
+.	.	16cc#	8r
 .	.	16ddJJ	.
-.	.	16eeLL	r
+.	.	16eeLL	4r
 .	.	16ff#	.
 .	.	16gg	.
 .	.	16aaJJ	.
 =61	=61	=61	=61
-2D	V7d	r	16AALL
+2D	V7d	4r	16AALL
 .	.	.	16BB
 .	.	.	16C#
 .	.	.	16DJJ
@@ -60,24 +60,24 @@
 .	.	8FFF#J 8FF#	16c#
 .	.	.	16dJJ
 *	*	*	*clefG2
-.	.	r	16eLL
+.	.	8.r	16eLL
 .	.	.	16f#
 8D	I	.	16g
 .	.	16D' 16F#'	16g#JJ
 =63	=63	=63	=63
 4D	V7b	8G'	16aLL
 .	.	.	16b
-.	.	r	16cc#
+.	.	8r	16cc#
 .	.	.	16ddJJ
 4D	V7	8AA' 8C#' 8E'	16eeLL
 .	.	.	16ff#
-.	.	r	16gg
+.	.	8r	16gg
 .	.	.	16gg#JJ
 =64	=64	=64	=64
 2T	I	8D'	16aaLL
 .	.	.	16bb
-.	.	r	16ccc#
+.	.	8r	16ccc#
 .	.	.	16dddJJ
-.	.	8DD'	r
-.	.	r	.
+.	.	8DD'	4r
+.	.	8r	.
 *-	*-	*-	*-

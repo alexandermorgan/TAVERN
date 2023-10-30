@@ -7,24 +7,24 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *D:	*D:	*D:	*D:
 =197	=197	=197	=197
-2.T	I	r	([4aa
+2.T	I	8r	([4aa
 .	.	(8d' 8f#'	.
 .	.	8d') 8f#'	16aaLL]
 .	.	.	16bb
-.	.	r	16ccc#
+.	.	8r	16ccc#
 .	.	.	16dddJJ
-.	.	r	16eeeLL
+.	.	4r	16eeeLL
 .	.	.	16ddd
 .	.	.	16ccc#
 .	.	.	16dddJJ)
 =198	=198	=198	=198
-2.T	I	r	([4ff#
+2.T	I	8r	([4ff#
 .	.	(8d' 8a'	.
 .	.	8d') 8a'	16ff#LL]
 .	.	.	16gg
-.	.	r	16gg#
+.	.	8r	16gg#
 .	.	.	16aaJJ
-.	.	r	16bbLL
+.	.	4r	16bbLL
 .	.	.	16aa
 .	.	.	16gg#
 .	.	.	16aaJJ)
@@ -44,13 +44,13 @@
 .	.	8f#)	8d]	8dd)
 *	*	*v	*v	*
 *	*	*clefF4	*
-.	.	(16G#LL	r
+.	.	(16G#LL	8r
 .	.	32AJJk)	.
-.	.	r	.
-.	.	(16E#LL	r
+.	.	32r	.
+.	.	(16E#LL	4r
 .	.	32F#JJk)	.
-.	.	r	.
+.	.	32r	.
 .	.	(16C#LL	.
 .	.	32DJJk)	.
-.	.	r	.
+.	.	32r	.
 *-	*-	*-	*-

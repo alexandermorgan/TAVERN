@@ -68,32 +68,32 @@
 .	.	16FJJ	.
 =181	=181	=181	=181
 4.T	V7	16CCLL	32b-
-.	.	.	r
+.	.	.	64r
 .	.	.	(64bb-LKKK
 .	.	16C	48aaLL
 .	.	.	48ccc
 .	.	.	48bb-JJJ)
-.	.	16E	r
-.	.	.	r
+.	.	16E	32r
+.	.	.	64r
 .	.	.	(64ggLKKK
 .	.	16C	48ff#LL
 .	.	.	48aa
 .	.	.	48ggJJJ)
-.	.	16G	r
-.	.	.	r
+.	.	16G	32r
+.	.	.	64r
 .	.	.	(64eeLKKK
 .	.	16CJJ	48dd#LL
 .	.	.	48ff
 .	.	.	48eeJJJ)
 =182	=182	=182	=182
-4.T	V7	16GLL 16B-	r
-.	.	.	r
+4.T	V7	16GLL 16B-	32r
+.	.	.	64r
 .	.	.	(64b-LKKK
 .	.	16CJJ	48aLL
 .	.	.	48cc
 .	.	.	48b-JJJ)
 .	.	8C; 8E; 8G;	[8g;
-.	.	r	64gLLLL]
+.	.	8r	64gLLLL]
 .	.	.	(64a
 .	.	.	64b-
 .	.	.	64bJJJ
@@ -139,11 +139,11 @@
 .	.	.	.	32a'
 .	.	.	.	32b-'
 .	.	.	.	32cc'JJJ
-.	.	r	r	32dd'LLL
+.	.	8r	8r	32dd'LLL
 .	.	.	.	32ee'
 .	.	.	.	32ff'
 .	.	.	.	32gg'JJJ
-.	.	r	r	32aa-'LLL
+.	.	8r	8r	32aa-'LLL
 .	.	.	.	32aa'
 .	.	.	.	32bb-'
 .	.	.	.	32bb'JJJ

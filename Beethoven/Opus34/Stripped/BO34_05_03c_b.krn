@@ -6,7 +6,7 @@
 *	*	*k[b-e-a-]	*k[b-e-a-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *c:	*c:	*c:	*c:
-8T	i	r	16.gLL
+8T	i	8r	16.gLL
 .	.	.	32gJJk
 =119	=119	=119	=119
 *	*	*	*^
@@ -69,11 +69,11 @@
 .	.	.	32gg
 .	.	.	32bb-JJ
 *	*	*^	*
-.	.	16.dL)	r	32dddLL
+.	.	16.dL)	8r	32dddLL
 .	.	.	.	32bb-
 .	.	.	.	32ccc
 .	.	32dJJk	.	32aaJJJ
-.	.	[4d	r	32bb-LLL
+.	.	[4d	8r	32bb-LLL
 .	.	.	.	32dd
 .	.	.	.	32aa
 .	.	.	.	32ccJJ
@@ -86,11 +86,11 @@
 .	.	.	.	32d
 .	.	.	.	32g
 .	.	.	.	32b-JJ
-.	.	16.DLL	r	32ddLL
+.	.	16.DLL	8r	32ddLL
 .	.	.	.	32b-
 .	.	.	.	32cc
 .	.	32DJJk	.	32aJJJ
-.	.	4D	r	32b-LLL
+.	.	4D	8r	32b-LLL
 .	.	.	.	32d
 .	.	.	.	32a
 .	.	.	.	32cJJ

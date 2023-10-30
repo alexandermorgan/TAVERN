@@ -9,29 +9,29 @@
 =160	=160	=160	=160
 *	*	*	*^
 .	.	.	.	q8e
-1D	V	r	r	4f'
+1D	V	16r	4r	4f'
 .	.	(16FFFLL	.	.
 .	.	16AAA	.	.
 .	.	16CCJJ)	.	.
-.	.	4FF'	4F 4A	r
+.	.	4FF'	4F 4A	4r
 .	.	.	.	q8e
-.	.	r	r	4f'
+.	.	16r	4r	4f'
 .	.	(16FFLL	.	.
 .	.	16AA	.	.
 .	.	16CJJ)	.	.
-.	.	4F'	4F 4A	r
+.	.	4F'	4F 4A	4r
 =161	=161	=161	=161	=161
 .	.	.	.	q8e
-4D	viio/V	r	r	4f'
+4D	viio/V	8r	8r	4f'
 .	.	8FF 8E	8G 8B-	.
 .	.	.	.	q8e
-4D	V7	r	r	4f'
+4D	V7	8r	8r	4f'
 .	.	8FF 8E-	8A 8c	.
 .	.	.	.	q8e
-4D	Ic	r	r	4f'
+4D	Ic	8r	8r	4f'
 .	.	8FF 8D	8B- 8d	.
 .	.	.	.	q8e
-4D	V7	r	r	4f'
+4D	V7	8r	8r	4f'
 .	.	8FF 8C	8A 8e-	.
 *	*	*	*v	*v
 =162	=162	=162	=162
@@ -39,44 +39,44 @@
 1D	I	4BBB- 4BB-	8f'L
 .	.	.	8B-'J 8d'
 .	.	.	q8a
-.	.	r	8b-'L
+.	.	4r	8b-'L
 .	.	.	8d'J 8fa'
 .	.	.	q8cc#
-.	.	r	8dd'L
+.	.	2r	8dd'L
 .	.	.	8f'J 8b-'
 .	.	.	q8ee
 .	.	.	8ff'L
 .	.	.	q8ee
 .	.	.	8ff'J
 =163	=163	=163	=163
-2D	Ic	r	1ff
+2D	Ic	4r	1ff
 .	.	4F 4B- 4d	.
-2D	V7	r	.
+2D	V7	4r	.
 .	.	4F 4c 4e-	.
 =164	=164	=164	=164
 .	.	.	q8ee
-1T	I	r	8ff'L
+1T	I	4r	8ff'L
 .	.	.	8b-'J 8dd'
 .	.	.	q8aa
 .	.	4B- 4d	8bb-'L
 .	.	.	8dd'J 8ff'
 .	.	.	q8ccc#
-.	.	r	8ddd'L
+.	.	2r	8ddd'L
 .	.	.	8ff'J 8bb-'
 .	.	.	q8eee
 .	.	.	8fff'L
 .	.	.	q8eee
 .	.	.	8fff'J
 =165	=165	=165	=165
-2T	Ic	1FF	r
+2T	Ic	1FF	4r
 .	.	.	4ff 4bb- 4ddd 4fff
-2T	V7	.	r
+2T	V7	.	4r
 .	.	.	4ff 4aa 4ccc 4fff
 =166	=166	=166	=166
 1T	I	4BBB- 4BB-	4.bb-
-.	.	r	.
+.	.	4r	.
 .	.	.	16aaLL
 .	.	.	16bb-JJ
-.	.	r	4b-
-.	.	.	r
+.	.	2r	4b-
+.	.	.	4r
 *-	*-	*-	*-

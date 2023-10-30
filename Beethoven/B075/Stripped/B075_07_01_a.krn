@@ -6,7 +6,7 @@
 *	*	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4	*M3/4
 *F:	*F:	*F:	*F:
-4T	I	r	(16bbLL
+4T	I	4r	(16bbLL
 .	.	.	16ccc)
 .	.	.	(16bb
 .	.	.	16cccJJ)
@@ -39,7 +39,7 @@
 4T	Ic	8C'L	(4aa
 .	.	8c'J 8f'	.
 4T	V	8C'L	8gg)
-.	.	8c'J 8e'	r
+.	.	8c'J 8e'	8r
 4T	V7d	8C'L	(16bbLL
 .	.	.	16ccc)
 .	.	8B-'J 8e'	(16bb
@@ -73,5 +73,5 @@
 2T	I	8F'L	(4gg
 .	.	8B-'J 8e'	.
 .	.	8F'L	8ff)
-.	.	8A'J 8f'	r
+.	.	8A'J 8f'	8r
 *-	*-	*-	*-

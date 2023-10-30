@@ -6,15 +6,15 @@
 *	*	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4	*M3/4
 *F:	*F:	*F:	*F:
-4T	V	4C	r
+4T	V	4C	4r
 =466	=466	=466	=466
 *	*	*^	*
-2.T	Ib	(4F	2.AA	r
+2.T	Ib	(4F	2.AA	2.r
 .	.	4C	.	.
 .	.	4F)	.	.
 =467	=467	=467	=467	=467
-2.T	V	(4G	4C	r
-.	.	4C)	r	.
+2.T	V	(4G	4C	2r
+.	.	4C)	2r	.
 .	.	4c	.	4ccc
 =468	=468	=468	=468	=468
 2.T	Ib	(4f	2.A	(8bbL
@@ -50,9 +50,9 @@
 2.T	Ib	4AA	(8eenL	4cc
 .	.	.	8ffJ	.
 *	*	*	*v	*v
-.	.	r	8ggL)
+.	.	4r	8ggL)
 .	.	.	8ff'J
-.	.	r	8ee-'L
+.	.	4r	8ee-'L
 .	.	.	8dd'J
 =473	=473	=473	=473
 2.T	V7/IV	(4F 4A	8cc'L
@@ -63,21 +63,21 @@
 .	.	.	8e-'J
 =474	=474	=474	=474
 *	*	*^	*
-2P	IV	r	2.BB-	8dL
+2P	IV	8r	2.BB-	8dL
 .	.	(8A	.	(8cc#J
 .	.	8B-L	.	8ddL
 .	.	8F#J	.	8aJ
 4P	iib	8GL	.	8b-L
 .	.	8B-J)	.	8gJ
 =475	=475	=475	=475	=475
-2P	V	r	2.C	8en'L)
+2P	V	8r	2.C	8en'L)
 .	.	(8B	.	(8dd#J
 .	.	8cL	.	8eeL
 .	.	8G#J	.	8bJ
 4P	iiib	8AL	.	8ccL
 .	.	8cJ)	.	8aJ
 =476	=476	=476	=476	=476
-2P	vi	r	2.D	8f'L)
+2P	vi	8r	2.D	8f'L)
 .	.	(8c#	.	(8eeJ
 .	.	8dL	.	8ffL
 .	.	8AJ	.	8cc#J
@@ -87,7 +87,7 @@
 =477	=477	=477	=477
 2.D	V7b	4E'	4g')
 .	.	4EE'	4cc' 4gg' 4bb-'
-.	.	r	r
+.	.	4r	4r
 =478	=478	=478	=478
-2D	.	r	r
+2D	.	2r	2r
 *-	*-	*-	*-

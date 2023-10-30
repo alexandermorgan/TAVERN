@@ -14,8 +14,8 @@
 8T	Ib	(8BL 8d	16dddLL
 .	.	.	16ccc#
 4T	V7c	16AJk) 16c	16ddd
-.	.	r	16ddJJ
-.	.	r	16dddLL
+.	.	16r	16ddJJ
+.	.	8r	16dddLL
 .	.	.	16ccc#
 8T	I	8G' 8B'	16ddd
 .	.	.	16ddJJ
@@ -23,8 +23,8 @@
 8T	I	(8GL 8B	16dddLL
 .	.	.	16ccc#
 4T	Vb	16F#Jk) 16A	16ddd
-.	.	r	16ddJJ
-.	.	r	16dddLL
+.	.	16r	16ddJJ
+.	.	8r	16dddLL
 .	.	.	16ccc#
 8T	V7d	8c' 8e'	16ddd
 .	.	.	16ddJJ
@@ -32,8 +32,8 @@
 8T	V7d	(8cL 8e	16dddLL
 .	.	.	16ccc#
 4T	Ib	16BJk) 16d	16ddd
-.	.	r	16ddJJ
-.	.	r	16dddLL
+.	.	16r	16ddJJ
+.	.	8r	16dddLL
 .	.	.	16ccc#
 8D	V7c	8A 8c	16ddd
 .	.	.	16ddJJ
@@ -41,5 +41,5 @@
 8D	V7c	(8AL 8c	16dddLL
 .	.	.	16dd
 8T	I	16GJk) 16B	16ee
-.	.	r	16ff#JJ
+.	.	16r	16ff#JJ
 *-	*-	*-	*-

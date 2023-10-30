@@ -44,13 +44,13 @@
 =122	=122	=122	=122
 1P	IV	8f	16aaLL
 .	.	.	16ff
-.	.	r	16cc
+.	.	8r	16cc
 .	.	.	16aJJ
-.	.	r	16ffLL
+.	.	4r	16ffLL
 .	.	.	16cc
 .	.	.	16a
 .	.	.	16fJJ
-.	.	r	16ccLL
+.	.	2r	16ccLL
 .	.	.	16a
 .	.	.	16f
 .	.	.	16cJJ
@@ -59,7 +59,7 @@
 .	.	.	16c
 .	.	.	16AJJ
 =123	=123	=123	=123
-1P	IV	r	16fLL
+1P	IV	1r	16fLL
 .	.	.	16c
 .	.	.	16A
 .	.	.	16FJJ
@@ -82,7 +82,7 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4P	IV	4FFF 4FF	r
+4P	IV	4FFF 4FF	4r
 4P	ii	(4DD 4D	(4A 4d 4f
 4P	ivb/ii	4BBB-) 4BB-	4G) 4d 4g
 =125	=125	=125	=125

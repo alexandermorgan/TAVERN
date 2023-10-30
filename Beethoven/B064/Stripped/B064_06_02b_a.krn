@@ -7,7 +7,7 @@
 *	*	*met(c)	*met(c)
 *M4/4	*M4/4	*M4/4	*M4/4
 *F:	*F:	*F:	*F:
-4T	I/V	r	4c' 4cc'
+4T	I/V	4r	4c' 4cc'
 =70	=70	=70	=70
 1T	I/V	4CC' 4C'	4c' 4cc'
 .	.	4DD' 4D'	4d' 4dd'
@@ -17,7 +17,7 @@
 2P	IV/V	4FF 4F	8fL 8ff
 .	.	.	16aaL
 .	.	.	16ffJJ
-.	.	r	16eeLL
+.	.	4r	16eeLL
 .	.	.	16dd
 .	.	.	16cc
 .	.	.	16bJJ
@@ -38,5 +38,5 @@
 .	.	16GG	.
 .	.	16EE	.
 .	.	16GGJJ	.
-.	.	4CC	r
+.	.	4CC	4r
 *-	*-	*-	*-

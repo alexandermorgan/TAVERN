@@ -6,82 +6,82 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4D	Vb	4B 4d	r
+4D	Vb	4B 4d	4r
 =169	=169	=169	=169
-2.D	Vb	2B 2d	r
+2.D	Vb	2B 2d	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ
 .	.	.	12eeeL
 .	.	.	12ccc#
 .	.	.	12dddJ)
-.	.	(4B 4d	r
+.	.	(4B 4d	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
 =170	=170	=170	=170
-2.D	vi[ii/V]	2A) 2c	r
+2.D	vi[ii/V]	2A) 2c	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ
 .	.	.	12eeeL
 .	.	.	12ccc#
 .	.	.	12dddJ)
-.	.	(4A 4c	r
+.	.	(4A 4c	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
 =171	=171	=171	=171
-2.D	Vb/V	4F#) 4A	r
+2.D	Vb/V	4F#) 4A	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
-.	.	(4F# 4A	r
+.	.	(4F# 4A	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
-.	.	4G 4B-	r
+.	.	4G 4B-	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
 =172	=172	=172	=172
-2D	Vb/V	4G# 4B	r
+2D	Vb/V	4G# 4B	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
-.	.	4A) 4c	r
+.	.	4A) 4c	12r
 .	.	.	(12ccc#L
 .	.	.	12dddJ)
-4D	viiom7c/V	(4C	r
+4D	viiom7c/V	(4C	12r
 .	.	.	(12eeeL
 .	.	.	12ff#J)
 =173	=173	=173	=173
 *	*	*^	*
-2.D	Ib/V	4BB	2.BB	r
+2.D	Ib/V	4BB	2.BB	12r
 .	.	.	.	(12ggL
 .	.	.	.	12bbJ)
-.	.	4D	.	r
+.	.	4D	.	12r
 .	.	.	.	(12ddL
 .	.	.	.	12ggJ)
-.	.	4G	.	r
+.	.	4G	.	12r
 .	.	.	.	(12bL
 .	.	.	.	12ddJ)
 =174	=174	=174	=174	=174
-2.P	ii7b/V	4C	2.C	r
+2.P	ii7b/V	4C	2.C	12r
 .	.	.	.	(12eeL
 .	.	.	.	12ggJ)
-.	.	4E	.	r
+.	.	4E	.	12r
 .	.	.	.	(12ccL
 .	.	.	.	12eeJ)
-.	.	4A)	.	r
+.	.	4A)	.	12r
 .	.	.	.	(12aL
 .	.	.	.	12ccJ)
 =175	=175	=175	=175	=175
-2D	Ic/V	r	2.D	r
+2D	Ic/V	4r	2.D	12r
 .	.	.	.	(12bL
 .	.	.	.	12ddJ)
-.	.	4B	.	r
+.	.	4B	.	12r
 .	.	.	.	(12gL
 .	.	.	.	12bJ)
-4D	V7/V	4c	.	r
+4D	V7/V	4c	.	12r
 .	.	.	.	(12dL
 .	.	.	.	12f#J)
 *	*	*v	*v	*
 =176	=176	=176	=176
 2T	I/V	4G 4B	8gL
 .	.	.	(8ggJ
-.	.	r	8ff#L
+.	.	4r	8ff#L
 .	.	.	8ggJ
 *-	*-	*-	*-

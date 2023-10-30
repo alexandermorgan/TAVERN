@@ -12,29 +12,29 @@
 .	.	16EE	4a
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8f
+.	.	8r	8f
 =291	=291	=291	=291
 2T	V7	(16GGLL	8e 8b- 8cc
 .	.	16FF	.
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =292	=292	=292	=292
 2T	V7	(16GGLL	8e 8b- 8cc
 .	.	16FF	.
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =293	=293	=293	=293
 *	*	*	*^
 2T	I	(16GGLL	(8ccL	4f 4a
 .	.	16FF	.	.
 .	.	16EE	8ffJ)	.
 .	.	16FFJJ)	.	.
-.	.	8FFF	8cc'L	r
-.	.	r	8cc'J	.
+.	.	8FFF	8cc'L	4r
+.	.	8r	8cc'J	.
 *	*	*	*v	*v
 =294	=294	=294	=294
 2T	I	(16GGLL	8A 8c 8f
@@ -42,29 +42,29 @@
 .	.	16EE	4a
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8f
+.	.	8r	8f
 =295	=295	=295	=295
 2T	V7	(16GGLL	8e 8b- 8cc
 .	.	16FF	.
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =296	=296	=296	=296
 2T	V7	(16GGLL	8e 8b- 8cc
 .	.	16FF	.
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =297	=297	=297	=297
 *	*	*	*^
 2T	I	(16GGLL	(8ccL	4f 4a
 .	.	16FF	.	.
 .	.	16EE	8ffJ)	.
 .	.	16FFJJ)	.	.
-.	.	8FFF	8cc'L	r
-.	.	r	8cc'J	.
+.	.	8FFF	8cc'L	4r
+.	.	8r	8cc'J	.
 *	*	*	*v	*v
 =298	=298	=298	=298
 2T	V7	(16GGLL	8e 8b- 8cc
@@ -72,15 +72,15 @@
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =299	=299	=299	=299
 *	*	*	*^
 2T	I	(16GGLL	(8ccL	4f 4a
 .	.	16FF	.	.
 .	.	16EE	8ffJ)	.
 .	.	16FFJJ)	.	.
-.	.	8FFF	8cc'L	r
-.	.	r	8cc'J	.
+.	.	8FFF	8cc'L	4r
+.	.	8r	8cc'J	.
 *	*	*	*v	*v
 =300	=300	=300	=300
 2T	V7	(16GGLL	8e 8b- 8cc
@@ -88,32 +88,32 @@
 .	.	16EE	4e 4b- 4cc
 .	.	16FFJJ)	.
 .	.	8FFF	.
-.	.	r	8e 8b- 8cc
+.	.	8r	8e 8b- 8cc
 =301	=301	=301	=301
 2T	I	8FF	(4.f 4.a 4.cc
-.	.	r	.
-.	.	r	.
+.	.	8r	.
+.	.	4r	.
 .	.	.	8b
 =302	=302	=302	=302
-2D	V	r	4.cc
+2D	V	2r	4.cc
 .	.	.	8b
 =303	=303	=303	=303
-2D	V	r	8ccL
+2D	V	2r	8ccL
 .	.	.	8b
 .	.	.	8cc
 .	.	.	8bJ
 =304	=304	=304	=304
-2D	V	r	8ccL
+2D	V	2r	8ccL
 .	.	.	8b
 .	.	.	8cc
 .	.	.	8bJ
 =305	=305	=305	=305
-2D	V	r	8ccL
+2D	V	2r	8ccL
 .	.	.	8b
 .	.	.	8cc
 .	.	.	8bJ
 =306	=306	=306	=306
-2D	V	r	8ccL
+2D	V	2r	8ccL
 .	.	.	8cc#
 .	.	.	8dd
 .	.	.	8eeJ)

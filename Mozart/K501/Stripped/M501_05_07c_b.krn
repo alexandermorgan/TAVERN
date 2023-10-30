@@ -6,7 +6,7 @@
 *	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
 *G:	*G:	*G:	*G:	*G:	*G:
-8T	vi	r	r	r	32eeLL
+8T	vi	8r	8r	8r	32eeLL
 .	.	.	.	.	32ff#
 .	.	.	.	.	32gg
 .	.	.	.	.	32aaJJJ
@@ -54,7 +54,7 @@
 .	.	.	.	.	.	32a
 .	.	.	.	.	.	32b
 .	.	.	.	.	.	32ccJJJ
-4P	iib	r	r	r	r	32ddLLL
+4P	iib	8r	8r	8r	4r	32ddLLL
 .	.	.	.	.	.	32ee
 .	.	.	.	.	.	32ff#
 .	.	.	.	.	.	32gg#JJ
@@ -76,12 +76,12 @@
 .	.	.	.	.	32aa
 .	.	.	.	.	32gg#
 .	.	.	.	.	32aaJJ
-.	.	r	r	r	32ggLL
+.	.	8r	8r	8r	32ggLL
 .	.	.	.	.	32ff#
 .	.	.	.	.	32ee
 .	.	.	.	.	32ddJJJ
 =121	=121	=121	=121	=121	=121
-2D	vi7d	2DD 2D	(16GLL	r	32dd#LLL
+2D	vi7d	2DD 2D	(16GLL	2r	32dd#LLL
 .	.	.	.	.	32ee
 .	.	.	16A	.	32ff#
 .	.	.	.	.	32eeJJ
@@ -98,7 +98,7 @@
 .	.	.	16gJJ	.	32eee
 .	.	.	.	.	32eeJJJ
 =122	=122	=122	=122	=122	=122
-2D	V7	2DD 2D	16aLL	r	32dddLLL
+2D	V7	2DD 2D	16aLL	4r	32dddLLL
 .	.	.	.	.	32ccc
 .	.	.	16g	.	32bb
 .	.	.	.	.	32cccJJ
@@ -106,7 +106,7 @@
 .	.	.	.	.	32ccc
 .	.	.	16eJJ	.	32gg
 .	.	.	.	.	32cccJJJ
-.	.	.	16dLL	r	32ff#LLL
+.	.	.	16dLL	8r	32ff#LLL
 .	.	.	.	.	32ccc
 .	.	.	16c	.	32ee
 .	.	.	.	.	32cccJJ

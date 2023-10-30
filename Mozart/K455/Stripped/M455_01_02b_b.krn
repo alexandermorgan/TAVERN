@@ -7,7 +7,7 @@
 *M2/2	*M2/2	*M2/2	*M2/2
 *G:	*G:	*G:	*G:
 =17	=17	=17	=17
-2P	V7d/ii	r	(16fLL
+2P	V7d/ii	4r	(16fLL
 .	.	.	16e
 .	.	.	16d#
 .	.	.	16eJJ
@@ -37,10 +37,10 @@
 .	.	.	.	16aa
 .	.	.	.	16gg#
 .	.	.	.	16aaJJ
-4P	ii	r	8AA)	8eee)
-.	.	.	r	r
+4P	ii	4r	8AA)	8eee)
+.	.	.	8r	8r
 =19	=19	=19	=19	=19
-2D	V7d	r	r	(16eLL
+2D	V7d	4r	4r	(16eLL
 .	.	.	.	16d
 .	.	.	.	16c#
 .	.	.	.	16dJJ
@@ -69,7 +69,7 @@
 .	.	.	.	16gg
 .	.	.	.	16ff#
 .	.	.	.	16ggJJ
-4T	I	r	8GG)	8ddd)
-.	.	.	r	r
+4T	I	4r	8GG)	8ddd)
+.	.	.	8r	8r
 *	*	*v	*v	*
 *-	*-	*-	*-

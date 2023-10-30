@@ -25,11 +25,11 @@
 .	.	.	.	.	16ccc
 .	.	.	.	.	16ff#JJ
 =33	=33	=33	=33	=33	=33
-4T	I	4GG 4G	8B 8d 8g	r	16ggLL)
+4T	I	4GG 4G	8B 8d 8g	8r	16ggLL)
 .	.	.	.	.	(16b
-.	.	.	r	8b	16dd
+.	.	.	8r	8b	16dd
 .	.	.	.	.	16ggJJ
-8T	V7	8DDL 8D	r	(16gLL	16bbLL
+8T	V7	8DDL 8D	8r	(16gLL	16bbLL
 .	.	.	.	16f#	16ccc
 8T	V7d	8CCJ 8C	8D	16cc	16aa
 .	.	.	.	16aJJ)	16ff#JJ
@@ -41,7 +41,7 @@
 .	.	.	.	.	16ddd#'JJ
 4P	IV	4CC 4C	8G]) 8c	8g]) 8ee	(16eeeLL
 .	.	.	.	.	16bb
-.	.	.	r	r	16ccc
+.	.	.	8r	8r	16ccc
 .	.	.	.	.	16aaJJ
 *	*	*	*clefG2	*	*
 =35	=35	=35	=35	=35	=35
@@ -49,7 +49,7 @@
 .	.	.	.	.	16bb
 .	.	.	.	.	16ddd)
 .	.	.	.	.	16ddd'JJ
-.	.	r	r	r	(16dddLL
+.	.	8r	8r	8r	(16dddLL
 .	.	.	.	.	16ccc#
 8D	V7	8D	8d 8f#	8a 8dd	16ccc
 .	.	.	.	.	16gg#JJ

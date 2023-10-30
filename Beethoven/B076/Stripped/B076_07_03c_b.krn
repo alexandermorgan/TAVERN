@@ -9,13 +9,13 @@
 =187	=187	=187	=187
 4.D	V7c	16g 16b-	32cccLLL
 .	.	.	32ccc
-.	.	r	32ccc
+.	.	16r	32ccc
 .	.	.	32cccJJJ
 .	.	16e 16g	32cccLLL
 .	.	.	32ccc
-.	.	r	32ccc
+.	.	16r	32ccc
 .	.	.	32cccJJJ
-.	.	r	32cccLLL
+.	.	8r	32cccLLL
 .	.	.	32ccc
 .	.	.	32ccc
 .	.	.	32cccJJJ
@@ -35,67 +35,67 @@
 .	.	16e'JJ 16g'	32ccc
 .	.	.	32cccJJJ
 =189	=189	=189	=189
-4.D	V7c	16gg'LL	r
+4.D	V7c	16gg'LL	32r
 .	.	.	32bb- 32ccc
-.	.	16ee'	r
+.	.	16ee'	32r
 .	.	.	32gg 32ccc
-.	.	16gg'	r
+.	.	16gg'	32r
 .	.	.	32bb- 32ccc
-.	.	16ee'	r
+.	.	16ee'	32r
 .	.	.	32gg 32ccc
-.	.	16gg'	r
+.	.	16gg'	32r
 .	.	.	32bb- 32ccc
-.	.	16ee'JJ	r
+.	.	16ee'JJ	32r
 .	.	.	32gg 32ccc
 =190	=190	=190	=190
-4.D	V7c	32gg'LLL	r
+4.D	V7c	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ee'	r
+.	.	32ee'	64r
 .	.	.	64gg 64ccc
-.	.	32ff'	r
+.	.	32ff'	64r
 .	.	.	64aa- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
-.	.	32gg'LLL	r
+.	.	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ee'	r
+.	.	32ee'	64r
 .	.	.	64gg 64ccc
-.	.	32ff'	r
+.	.	32ff'	64r
 .	.	.	64aa- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
-.	.	32gg'LLL	r
+.	.	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ee'	r
+.	.	32ee'	64r
 .	.	.	64gg 64ccc
-.	.	32ff'	r
+.	.	32ff'	64r
 .	.	.	64aa- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
 =191	=191	=191	=191
-4.D	V7c	32gg'LLL	r
+4.D	V7c	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'	r
+.	.	32ff#'	64r
 .	.	.	64aa 64ccc
-.	.	32gg'	r
+.	.	32gg'	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
-.	.	32gg'LLL	r
+.	.	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'	r
+.	.	32ff#'	64r
 .	.	.	64aa 64ccc
-.	.	32gg'	r
+.	.	32gg'	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
-.	.	32gg'LLL	r
+.	.	32gg'LLL	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'	r
+.	.	32ff#'	64r
 .	.	.	64aa 64ccc
-.	.	32gg'	r
+.	.	32gg'	64r
 .	.	.	64bb- 64ccc
-.	.	32ff#'JJJ	r
+.	.	32ff#'JJJ	64r
 .	.	.	64aa 64ccc
 =192	=192	=192	=192
 4.D	V7c	4.gg;	4.bb-;
@@ -172,7 +172,7 @@
 .	.	.	.	64gJJJJ)
 *	*	*v	*v	*
 =196	=196	=196	=196
-4.T	I	r	(4B- 4c 4g
+4.T	I	32r	(4B- 4c 4g
 .	.	(32FF'LLL	.
 .	.	32GG'	.
 .	.	32AA'	.

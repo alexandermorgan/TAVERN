@@ -49,8 +49,8 @@
 8D	V7	8E'	8d'	8bb'J
 =405	=405	=405	=405	=405
 4T	I	8A	8c#	8aa
-.	.	r	r	r
-8T	IV	16DLL	r	r
+.	.	8r	8r	8r
+8T	IV	16DLL	4r	8r
 .	.	16E	.	.
 8T	viio/V	16F#	.	8a 8aa
 .	.	16D#JJ	.	.
@@ -64,8 +64,8 @@
 8T	V7	8E'	8d'	8b'J
 =407	=407	=407	=407	=407
 4T	I	8A	8c#	8a
-.	.	r	r	r
-8T	IV	r	16dLL	r
+.	.	8r	8r	8r
+8T	IV	4r	16dLL	8r
 .	.	.	16e	.
 8T	viio/V	.	16f#	8a 8aa
 .	.	.	16d#JJ	.
@@ -80,5 +80,5 @@
 *	*	*v	*v	*
 =409	=409	=409	=409
 4.T	I	4A 4c#	4a
-.	.	r	r
+.	.	8r	8r
 *-	*-	*-	*-

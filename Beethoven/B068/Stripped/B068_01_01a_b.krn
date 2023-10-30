@@ -6,8 +6,8 @@
 *	*	*k[]	*k[]
 *M4/4	*M4/4	*M4/4	*M4/4
 *C:	*C:	*C:	*C:
-4.T	V	r	(8gL
-.	.	r	8a
+4.T	V	8r	(8gL
+.	.	4r	8a
 .	.	.	8bJ
 =17	=17	=17	=17
 1T	I	(8eL 8g	8ccL
@@ -16,7 +16,7 @@
 .	.	8dJ) 8f	8ddJ
 .	.	4c 4e	8eeL
 .	.	.	8dd
-.	.	r	8cc
+.	.	4r	8cc
 .	.	.	8eeJ)
 =18	=18	=18	=18
 1P	ii	(8fL 8a	(8ddL
@@ -25,7 +25,7 @@
 .	.	8eJ) 8g	8eeJ
 .	.	4d 4f	8ffL
 .	.	.	8ee
-.	.	r	8dd
+.	.	8r	8dd
 .	.	8e 8g	8ccJ)
 =19	=19	=19	=19
 2D	viiob	(8dL 8f	(8bL

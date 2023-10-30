@@ -17,7 +17,7 @@
 .	.	16dJJ	.
 .	.	16C#LL	8dd) 8ff# 8ddd
 .	.	16c#	.
-.	.	16BB	r
+.	.	16BB	8r
 .	.	16BJJ	.
 =174	=174	=174	=174
 2.T	I	16AALL	(2f# 2dd 2ff#
@@ -30,30 +30,30 @@
 .	.	16EJJ	.
 .	.	16DDLL	8a) 8ff# 8aa
 .	.	16D	.
-.	.	16CC#	r
+.	.	16CC#	8r
 .	.	16C#JJ	.
 =175	=175	=175	=175
-4P	IVb	8BBB 8BB	r
+4P	IVb	8BBB 8BB	16r
 .	.	.	(16gLL
-.	.	r	16dd
+.	.	8r	16dd
 .	.	.	16ggJJ)
-4D	Ic	8AAA 8AA	r
+4D	Ic	8AAA 8AA	16r
 .	.	.	(16f#LL
-.	.	r	16dd
+.	.	8r	16dd
 .	.	.	16ff#JJ)
-4D	V	8AAA	r
+4D	V	8AAA	16r
 .	.	.	(16eLL
-.	.	r	16cc#
+.	.	8r	16cc#
 .	.	.	16eeJJ)
 =176	=176	=176	=176
-2.T	I	r	4dd
+2.T	I	16r	4dd
 .	.	(16DLL	.
 .	.	16F#	.
 .	.	16DJJ	.
-.	.	16AALL	r
+.	.	16AALL	4r
 .	.	16D	.
 .	.	16FF#	.
 .	.	16AAJJ	.
-.	.	8DD)	r
-.	.	r	.
+.	.	8DD)	4r
+.	.	8r	.
 *-	*-	*-	*-

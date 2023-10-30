@@ -8,34 +8,34 @@
 *F:	*F:	*F:	*F:
 =1	=1	=1	=1
 4.T	I	8F 8A 8c	8fL
-.	.	r	8a
+.	.	8r	8a
 .	.	8F 8A 8c	8fJ
 =2	=2	=2	=2
 .	.	.	qdd
 4.T	V	8C 8E 8G 8c	16ccLL
 .	.	.	16b
-.	.	r	16cc
+.	.	8r	16cc
 .	.	.	16ddJ
-.	.	r	8ccJ
+.	.	8r	8ccJ
 =3	=3	=3	=3
 4.T	V7	8C 8E 8G 8c	8b-L
-.	.	r	8g
+.	.	8r	8g
 .	.	8C 8E 8G 8c	8ccJ
 =4	=4	=4	=4
 .	.	.	qb-
 4.T	I	8F 8A 8c	8aL
-.	.	r	16gL
+.	.	8r	16gL
 .	.	.	16aJ
-.	.	r	8fJ
+.	.	8r	8fJ
 =5	=5	=5	=5
 4.T	IV/V[I]	8F 8A 8c	8fL
-.	.	r	8a
+.	.	8r	8a
 .	.	8F 8A 8c	8bJ
 =6	=6	=6	=6
 .	.	.	qdd
 4T	Ib/V	8E 8G 8c	16ccLL
 .	.	.	16b
-.	.	r	16cc
+.	.	8r	16cc
 .	.	.	16ddJ
 8T	I/V	8C	8eeJ
 =7	=7	=7	=7

@@ -6,7 +6,7 @@
 *	*	*k[b-]	*k[b-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *F:	*F:	*F:	*F:
-4T	I	r	(16bLL
+4T	I	4r	(16bLL
 .	.	.	16cc)
 .	.	.	(16b
 .	.	.	16ccJJ)
@@ -51,7 +51,7 @@
 4T	Ic	8C'L	(4a
 .	.	8F'J 8c'	.
 4T	V	8C'L	8g)
-.	.	8E'J 8c'	r
+.	.	8E'J 8c'	8r
 4T	V7	8C'L	(16bLL
 .	.	.	16cc)
 .	.	8E'J 8B-'	(16b

@@ -6,13 +6,13 @@
 *	*	*k[f#c#]	*k[f#c#]
 *M2/4	*M2/4	*M2/4	*M2/4
 *D:	*D:	*D:	*D:
-8.D	V	16d'	r
+8.D	V	16d'	32r
 .	.	.	(64e#LLLL
 .	.	.	64f#JJJJ)
-.	.	16e'	r
+.	.	16e'	32r
 .	.	.	(64f#LLLL
 .	.	.	64gJJJJ)
-.	.	16e#'JJ	r
+.	.	16e#'JJ	32r
 .	.	.	(64gLLLL
 .	.	.	64g#JJJJ)
 =27	=27	=27	=27
@@ -49,7 +49,7 @@
 .	.	.	96ee
 .	.	.	96ggJJJJ)
 .	.	16dJJ 16e 16g 16b-	32bb-LLL
-.	.	.	r
+.	.	.	64r
 .	.	.	64cc#JJJJ
 8T	I	16dLL 16f# 16a	(80ddLLLL
 .	.	.	80ee
@@ -96,18 +96,18 @@
 .	.	16AJJ 16c# 16e 16g	.
 =30	=30	=30	=30
 4T	I	16d 16f#	32dd'LLL)
-.	.	.	r
+.	.	.	64r
 .	.	.	(64aJ
-.	.	r	32f#)
-.	.	.	r
+.	.	16r	32f#)
+.	.	.	64r
 .	.	.	(64aJJJJ
 *	*	*clefF4	*
 .	.	16DD 16D	32dLLL)
 *	*	*	*clefF4
-.	.	.	r
+.	.	.	64r
 .	.	.	(64AJ
-.	.	r	32F#)
-.	.	.	r
+.	.	16r	32F#)
+.	.	.	64r
 .	.	.	(64AJJJJ
 16T	I	16DD	16D)
 *-	*-	*-	*-

@@ -7,7 +7,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *D:	*D:	*D:	*D:
 =213	=213	=213	=213
-2.T	I	r	[2ff# [2aa
+2.T	I	32r	[2ff# [2aa
 .	.	(32DLLL	.
 .	.	32E	.
 .	.	32F#JJ	.
@@ -26,12 +26,12 @@
 .	.	8d)	16ff#] 16aa]
 .	.	.	(32ggLLL
 .	.	.	32bbJJ
-.	.	r	32eeLL
+.	.	8r	32eeLL
 .	.	.	32ccc#
 .	.	.	32ff#
 .	.	.	32dddJJJ)
 =214	=214	=214	=214
-2.T	I	r	[2dd [2ff#
+2.T	I	32r	[2dd [2ff#
 .	.	(32DDLLL	.
 .	.	32EE	.
 .	.	32FF#JJ	.
@@ -50,13 +50,13 @@
 .	.	8D)	16dd] 16ff#]
 .	.	.	(32eeLLL
 .	.	.	32ggJJ
-.	.	r	32ee#LL
+.	.	8r	32ee#LL
 .	.	.	32gg#
 .	.	.	32ff#
 .	.	.	32aaJJJ)
 =215	=215	=215	=215
 *	*	*^	*
-4D	Ic	r	2A	24a'LL
+4D	Ic	4r	2A	24a'LL
 .	.	.	.	24ddd
 .	.	.	.	24ccc#J
 .	.	.	.	(24cccL
@@ -72,11 +72,11 @@
 .	.	8e 8g	8A	16ddLL
 .	.	.	.	16cc#
 *	*	*v	*v	*
-.	.	r	16ggJJ)
-.	.	.	r
+.	.	8r	16ggJJ)
+.	.	.	32r
 .	.	.	32cc#
 =216	=216	=216	=216
 2.T	I	2DD 2D	(4g 4ee
 .	.	.	4f#) 4dd
-.	.	r	r
+.	.	4r	4r
 *-	*-	*-	*-

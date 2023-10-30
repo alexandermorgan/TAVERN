@@ -6,7 +6,7 @@
 *	*	*k[b-]	*k[b-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *F:	*F:	*F:	*F:
-4T	I	r	4aa 4ccc
+4T	I	4r	4aa 4ccc
 =1	=1	=1	=1
 2T	I	2f	8ff'L 8aa'
 .	.	.	8cc'J 8ff'
@@ -22,8 +22,8 @@
 .	.	.	8dd'J 8ff'
 =4	=4	=4	=4
 4T	V	8c	8ee 8gg
-.	.	r	r
-4T	I	r	4aa 4ccc
+.	.	8r	8r
+4T	I	4r	4aa 4ccc
 =5	=5	=5	=5
 2T	I	2f	8ff'L 8aa'
 .	.	.	8cc'J 8ff'
@@ -41,5 +41,5 @@
 *	*	*clefF4	*
 =8	=8	=8	=8
 4T	I	4F	8a 8ff
-.	.	.	r
+.	.	.	8r
 *-	*-	*-	*-

@@ -10,18 +10,18 @@
 =459	=459	=459	=459
 2D	I	4A	(8b#L
 .	.	.	8cc#
-.	.	r	8ff#
+.	.	8r	8ff#
 .	.	8A	8eeJ)
 4D	V/V	4B	(8eeL
 .	.	.	8dd#
-4D	V7/V	r	8gg#
+4D	V7/V	8r	8gg#
 .	.	8B 8a	8ff#J)
 =460	=460	=460	=460
 4D	V	4e 4g#	(8ff#L
 .	.	.	8ee)
-2.T	V	r	(8aa#
+2.T	V	4r	(8aa#
 .	.	.	8bbJ)
-.	.	r	(8aa#L
+.	.	2r	(8aa#L
 .	.	.	8bb)
 .	.	.	(8aa#
 .	.	.	8bbJ)
@@ -30,22 +30,22 @@
 .	.	.	16cc#
 .	.	.	16dd#
 .	.	.	16cc#JJ
-.	.	r	8ff#L
+.	.	8r	8ff#L
 .	.	8A	8eeJ)
-4D	V/V	4B	r
+4D	V/V	4B	16r
 .	.	.	(16dd#LL
 .	.	.	16cc##
 .	.	.	16dd#JJ)
-4D	V7/V	r	(8gg#L
+4D	V7/V	8r	(8gg#L
 .	.	8B 8a	8ff#J)
 =462	=462	=462	=462
-4D	V	4e 4g#	r
+4D	V	4e 4g#	16r
 .	.	.	(16eeLL
 .	.	.	16dd#
 .	.	.	16eeJJ)
-2.T	V	r	(8aa#L
+2.T	V	4r	(8aa#L
 .	.	.	8bbJ)
-.	.	r	(8aa#L
+.	.	2r	(8aa#L
 .	.	.	8bb)
 .	.	.	(8aa#
 .	.	.	8bbJ)
@@ -55,28 +55,28 @@
 .	.	.	16cc#
 .	.	.	16dd#
 .	.	.	16cc#JJ
-.	.	r	16ff#LL
+.	.	8r	16ff#LL
 .	.	.	16ee
 .	.	8A	16ff#
 .	.	.	16eeJJ
-4D	V/V	4B	r
+4D	V/V	4B	16r
 .	.	.	16dd#LL
 .	.	.	16cc##
 .	.	.	16dd#JJ
-4D	V7/V	r	16gg#LL
+4D	V7/V	8r	16gg#LL
 .	.	.	16ff#
 .	.	8B 8a	16gg#
 .	.	.	16ff#JJ
 =464	=464	=464	=464
-4D	V	4e 4g#	r
+4D	V	4e 4g#	16r
 .	.	.	16eeLL
 .	.	.	16dd#
 .	.	.	16eeJJ
-2.T	V	r	16aa#LL
+2.T	V	4r	16aa#LL
 .	.	.	16bb
 .	.	.	16aa#
 .	.	.	16bbJJ
-.	.	r	16aa#LL
+.	.	2r	16aa#LL
 .	.	.	16bb
 .	.	.	16aa#
 .	.	.	16bbJJ
@@ -93,7 +93,7 @@
 .	.	.	16ee
 .	.	8aJ	16ff#
 .	.	.	16eeJJ
-2D	V7d/V	8aL 8b	r
+2D	V7d/V	8aL 8b	16r
 .	.	.	16dd#LL
 .	.	8a 8b	16cc##
 .	.	.	16dd#JJ
@@ -102,7 +102,7 @@
 .	.	8aJ 8b	16gg#
 .	.	.	16ff#JJ
 =466	=466	=466	=466
-2D	Vb	8g#L 8b	r
+2D	Vb	8g#L 8b	16r
 .	.	.	16eeLL
 .	.	8g# 8b	16dd#
 .	.	.	16eeJJ
@@ -110,7 +110,7 @@
 .	.	.	16gg#
 .	.	8g#J 8b	16aa
 .	.	.	16gg#JJ
-2D	Vb/V	8d#L 8b	r
+2D	Vb/V	8d#L 8b	16r
 .	.	.	16ff#LL
 .	.	8d# 8b	16ee#
 .	.	.	16ff#JJ
@@ -136,21 +136,21 @@
 .	.	8BJ 8a	16dd#
 .	.	.	16bJJ
 =468	=468	=468	=468
-1D	.	r;	r;
+1D	.	1r;	1r;
 =469	=469	=469	=469
 *	*	*clefF4	*
-1D	V	(4.EE	r
+1D	V	(4.EE	1r
 .	.	8FF#	.
 .	.	8GG#L	.
 .	.	8AA	.
 .	.	8BB	.
 .	.	8C#J	.
 =470	=470	=470	=470
-1D	V	8D#L	r
+1D	V	8D#L	4r
 .	.	8E	.
-.	.	r	8F#
+.	.	4r	8F#
 .	.	.	8G#J
-.	.	r	8A#L
+.	.	2r	8A#L
 .	.	.	8B
 .	.	.	8c#
 .	.	.	8d#J)

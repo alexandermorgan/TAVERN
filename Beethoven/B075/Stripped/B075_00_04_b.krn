@@ -43,24 +43,24 @@
 =32	=32	=32	=32	=32
 4D	I/V	8C	8E	8cc
 *	*	*v	*v	*
-.	.	r	r
-4D	I/V	r	4a 4cc
+.	.	8r	8r
+4D	I/V	4r	4a 4cc
 =33	=33	=33	=33
 2D	V/V/V	8D 8d	(8b-L 8dd
-.	.	r	8aJ) 8cc
+.	.	8r	8aJ) 8cc
 .	.	8D 8d	8g'L 8b-'
-.	.	r	8f#'J 8a'
+.	.	8r	8f#'J 8a'
 =34	=34	=34	=34
 2D	V/V	8G 8d	8g 8b-
-.	.	r	r
+.	.	8r	8r
 .	.	8G	4g 4b-
-.	.	r	.
+.	.	8r	.
 =35	=35	=35	=35
 2D	V	8C 8c	(8aL 8cc
-.	.	r	8gJ) 8b-
+.	.	8r	8gJ) 8b-
 .	.	8C 8c	8f'L 8a'
-.	.	r	8e'J 8g'
+.	.	8r	8e'J 8g'
 =36	=36	=36	=36
 4T	I	8F 8c	4f 4a
-.	.	r	.
+.	.	8r	.
 *-	*-	*-	*-

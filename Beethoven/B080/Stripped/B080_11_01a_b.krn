@@ -21,15 +21,15 @@
 .	.	.	32BJJ
 .	.	16FF	32cLL
 .	.	.	32G
-.	.	r	32A
+.	.	16r	32A
 .	.	.	32BJJJ
 .	.	16EE-	32cLLL
 .	.	.	32G
-.	.	r	32A
+.	.	16r	32A
 .	.	.	32BJJ
 .	.	16CC	32cLL
 .	.	.	32d
-.	.	r	32e-
+.	.	16r	32e-
 .	.	.	32f#JJJ
 =90	=90	=90	=90
 2.T	Vb	8BBB	32gLLL
@@ -46,18 +46,18 @@
 .	.	.	32f#JJ
 .	.	16CC 16C	32gLL
 .	.	.	32d
-.	.	r	32e
+.	.	16r	32e
 .	.	.	32f#JJJ
 .	.	16BBB 16BB	32gLLL
 .	.	.	32d
-.	.	r	32e
+.	.	16r	32e
 .	.	.	32f#JJ
 .	.	16GGG 16GG	32gLL
 .	.	.	32a
-.	.	r	32b
+.	.	16r	32b
 .	.	.	32gJJJ
 =91	=91	=91	=91
-2.T	V/IV	r	32ccLLL
+2.T	V/IV	8r	32ccLLL
 .	.	.	32g
 .	.	.	32a
 .	.	.	32bJJ
@@ -71,18 +71,18 @@
 .	.	.	32bJJ
 .	.	16FF 16F	32ccLL
 .	.	.	32g
-.	.	r	32a
+.	.	16r	32a
 .	.	.	32bJJJ
 .	.	16EE 16E	32ccLLL
 .	.	.	32g
-.	.	r	32a
+.	.	16r	32a
 .	.	.	32bJJ
 .	.	16CC 16C	32ccLL
 .	.	.	32dd
-.	.	r	32ee
+.	.	16r	32ee
 .	.	.	32ccJJJ
 =92	=92	=92	=92
-2.P	IV	r	32ffLLL
+2.P	IV	8r	32ffLLL
 .	.	.	32cc
 .	.	.	32dd
 .	.	.	32eeJJ
@@ -96,18 +96,18 @@
 .	.	.	32eeJJ
 .	.	16BB- 16B-	32ffLL
 .	.	.	32cc
-.	.	r	32dd
+.	.	16r	32dd
 .	.	.	32eeJJJ
 .	.	16AA 16A	32ffLLL
 .	.	.	32cc
-.	.	r	32dd
+.	.	16r	32dd
 .	.	.	32eeJJ
 .	.	16FF 16F	32ffLL
 .	.	.	32gg
-.	.	r	32aa
+.	.	16r	32aa
 .	.	.	32ffJJJ
 =93	=93	=93	=93
-2.P	viioD7b/V	r	32ff#LLL
+2.P	viioD7b/V	8r	32ff#LLL
 .	.	.	32gg
 .	.	.	32aa
 .	.	.	32bbJJ
@@ -121,18 +121,18 @@
 .	.	.	32bbJJ
 .	.	16D 16d	32cccLL
 .	.	.	32ff#
-.	.	r	32aa
+.	.	16r	32aa
 .	.	.	32bbJJJ
 .	.	16C 16c	32cccLLL
 .	.	.	32ff#
-.	.	r	32aa
+.	.	16r	32aa
 .	.	.	32bbJJ
 .	.	16AA 16A	32cccLL
 .	.	.	32ff#
-.	.	r	32aa
+.	.	16r	32aa
 .	.	.	32cccJJJ
 =94	=94	=94	=94
-2.D	viioD7b	r	32bbLLL
+2.D	viioD7b	8r	32bbLLL
 .	.	.	32ccc
 .	.	.	32ddd
 .	.	.	32eee-JJ
@@ -188,11 +188,11 @@
 .	.	.	32cc
 .	.	.	32b
 .	.	.	32a-JJ
-.	.	r	32gLL
+.	.	8r	32gLL
 .	.	.	32f
 .	.	.	32e-
 .	.	.	32dJJJ
-.	.	28cLL	r
+.	.	28cLL	2r
 .	.	28B	.
 .	.	28A-	.
 .	.	28G	.

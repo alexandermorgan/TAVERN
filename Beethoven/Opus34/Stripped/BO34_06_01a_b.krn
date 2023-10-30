@@ -6,7 +6,7 @@
 *	*	*k[b-]	*k[b-]
 *M6/8	*M6/8	*M6/8	*M6/8
 *F:	*F:	*F:	*F:
-8T	I	r	8cc 8ccc
+8T	I	8r	8cc 8ccc
 =139	=139	=139	=139
 *	*	*^	*
 2.T	I	16ALL	8FL	4cc' 4ccc'
@@ -31,7 +31,7 @@
 *	*	*v	*v	*
 4.T	Ib	16ALL	8ff') 8fff'
 .	.	16c	.
-.	.	16G#	r
+.	.	16G#	8r
 .	.	16c	.
 .	.	16A	8cc' 8ccc'
 .	.	16cJJ	.

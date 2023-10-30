@@ -7,7 +7,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *D:	*D:	*D:	*D:
 =57	=57	=57	=57
-2.D	V	r	4a 4cc# 4ee
+2.D	V	16r	4a 4cc# 4ee
 .	.	16AA'LL	.
 .	.	16BB'	.
 .	.	16C#'JJ	.
@@ -30,10 +30,10 @@
 .	.	16EJJ	16ddJJ 16ff#
 .	.	16DLL	8ee 8gg
 .	.	16C#	.
-.	.	16BB	r
+.	.	16BB	8r
 .	.	16AAJJ)	.
 =59	=59	=59	=59
-2.T	I	r	4a 4dd 4ff#
+2.T	I	16r	4a 4dd 4ff#
 .	.	16D'LL	.
 .	.	16E'	.
 .	.	16F#'JJ	.
@@ -56,10 +56,10 @@
 .	.	16AJJ	16eeJJ 16gg
 .	.	16GLL	8ff# 8aa
 .	.	16F#	.
-.	.	16E	r
+.	.	16E	8r
 .	.	16DJJ)	.
 =61	=61	=61	=61
-2.T	I	r	(4ddd
+2.T	I	16r	(4ddd
 .	.	16dLL	.
 .	.	16c#	.
 .	.	16dJJ	.
@@ -88,25 +88,25 @@
 4T	Ib	16F#LL	(8bbL
 .	.	16d	.
 .	.	16A	16aaJk)
-.	.	16dJJ	r
+.	.	16dJJ	16r
 4T	V7c	16ELL	(8aaL
 .	.	16c#	.
 .	.	16A	16ggJk)
-.	.	16c#JJ	r
+.	.	16c#JJ	16r
 4T	I	16DLL	(8ggL
 .	.	16d	.
 .	.	16A	16ff#Jk)
-.	.	16dJJ	r
+.	.	16dJJ	16r
 =64	=64	=64	=64
 2.D	V	4A 4c#	(16eeLL
 .	.	.	16a
 .	.	.	16b
 .	.	.	16ccJJ
-.	.	r	16cc#LL
+.	.	4r	16cc#LL
 .	.	.	16dd
 .	.	.	16dd#
 .	.	.	16eeJJ
-.	.	r	16ee#LL
+.	.	4r	16ee#LL
 .	.	.	16ff#
 .	.	.	16gg
 .	.	.	16gg#JJ)

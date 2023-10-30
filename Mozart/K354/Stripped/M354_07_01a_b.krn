@@ -11,10 +11,10 @@
 .	.	4EE- 4GG 4BB- 4E-	4g 4b- 4ee- 4gg
 =156	=156	=156	=156
 4T	I	4EE- 4GG 4BB- 4E-	4e- 4g 4b- 4ee-
-4T	Ib	8GG 8BB- 8E-	r
+4T	Ib	8GG 8BB- 8E-	16r
 .	.	.	(32ee-LLL
 .	.	.	32ddJJ
-.	.	r	32ccLL
+.	.	8r	32ccLL
 .	.	.	32b-
 .	.	.	32a-
 .	.	.	32gJJJ
@@ -39,7 +39,7 @@
 4T	I	16E-LL 16G 16B-	8b- 8ee- 8gg
 .	.	(32GL	.
 .	.	32A-JJ	.
-.	.	32B-LL	r
+.	.	32B-LL	8r
 .	.	32c	.
 .	.	32d	.
 .	.	32B-JJJ	.

@@ -18,7 +18,7 @@
 .	.	16DDJJ)	16dJJ) 16f#
 .	.	(16CC#LL	(16eLL 16a
 .	.	16DDJJ)	16dJJ) 16f#
-.	.	r	24fff#LL
+.	.	8r	24fff#LL
 .	.	.	24eee
 .	.	.	24dddJJ
 =67	=67	=67	=67
@@ -39,7 +39,7 @@
 8T	I	8d'L 8f#'	8dd'L
 8T	V7	8A'J 8e' 8g'	8cc#'J 8ee'
 4T	I	8d' 8f#'	8dd' 8ff#'
-.	.	r	r
+.	.	8r	8r
 =69	=69	=69	=69
 *	*	*clefF4	*
 2T	I	(8CC#L	(8eL 8a
@@ -53,7 +53,7 @@
 .	.	16DDJJ)	16dJJ) 16f#
 .	.	(16CC#LL	(16eLL 16a
 .	.	16DDJJ)	16dJJ) 16f#
-.	.	r	24gggLL
+.	.	8r	24gggLL
 .	.	.	24fff#
 .	.	.	24eeeJJ
 =71	=71	=71	=71
@@ -76,5 +76,5 @@
 2T	vi	8B'L 8d'	8b'L
 .	.	8B'J 8d'	8b'J
 .	.	8B' 8d'	8b'
-.	.	r	r
+.	.	8r	8r
 *-	*-	*-	*-

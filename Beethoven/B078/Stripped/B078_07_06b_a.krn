@@ -7,15 +7,15 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
 =136	=136	=136	=136
-2.T	V7/IV	r	4b- 4gg
+2.T	V7/IV	16r	4b- 4gg
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
-.	.	r	4b- 4gg
+.	.	16r	4b- 4gg
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
-.	.	r	4b- 4gg
+.	.	16r	4b- 4gg
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
@@ -33,15 +33,15 @@
 .	.	16C	8g#J 8ee
 .	.	16cJJ	.
 =138	=138	=138	=138
-2.T	IVc	r	4a 4cc 4ff
+2.T	IVc	16r	4a 4cc 4ff
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
-.	.	r	4a 4cc 4ff
+.	.	16r	4a 4cc 4ff
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
-.	.	r	4a 4cc 4ff
+.	.	16r	4a 4cc 4ff
 .	.	(16CLL	.
 .	.	16c)	.
 .	.	16c'JJ	.
@@ -59,7 +59,7 @@
 .	.	16C	8f#J 8cc 8dd#
 .	.	16cJJ	.
 =140	=140	=140	=140
-2.T	I	16CLL	r
+2.T	I	16CLL	24r
 .	.	.	24eLL
 .	.	16c	.
 .	.	.	24ccJ
@@ -67,24 +67,24 @@
 .	.	.	24cc
 .	.	16cJJ	.
 .	.	.	24eJJ
-.	.	16ALL	r
+.	.	16ALL	24r
 .	.	.	24fLL
 .	.	16c	.
 .	.	.	24ffJJ
-.	.	16G	r
+.	.	16G	24r
 .	.	.	24eLL
 .	.	16BJJ	.
 .	.	.	24eeJJ
-.	.	16FLL	r
+.	.	16FLL	24r
 .	.	.	24dLL
 .	.	16A	.
 .	.	.	24ddJJ
-.	.	16E	r
+.	.	16E	24r
 .	.	.	24cLL
 .	.	16GJJ	.
 .	.	.	24ccJJ
 =141	=141	=141	=141
-4.T	I	16CLL	r
+4.T	I	16CLL	24r
 .	.	.	24eLL
 .	.	16c	.
 .	.	.	24ccJ
@@ -92,19 +92,19 @@
 .	.	.	24cc
 .	.	16cJJ	.
 .	.	.	24eJJ
-.	.	16CLL	r
+.	.	16CLL	24r
 .	.	.	24eLL
 .	.	16c	.
 .	.	.	24eeJJ
-8T	IVb	16AA	r
+8T	IVb	16AA	24r
 .	.	.	24fLL
 .	.	16AJJ	.
 .	.	.	24ffJJ
-4T	Ib	16EELL	r
+4T	Ib	16EELL	24r
 .	.	.	24gLL
 .	.	16E	.
 .	.	.	24ggJJ
-.	.	16EE	r
+.	.	16EE	24r
 .	.	.	24g#LL
 .	.	16EJJ	.
 .	.	.	24gg#JJ
@@ -136,14 +136,14 @@
 =143	=143	=143	=143
 2.T	I	16CCLL	8ccc
 .	.	16C	.
-.	.	16D	r
+.	.	16D	8r
 .	.	16EJJ	.
-.	.	16FLL	r
+.	.	16FLL	4r
 .	.	16G	.
 .	.	16A	.
 .	.	16BJJ	.
 *	*	*clefG2	*
-.	.	16cLL	r
+.	.	16cLL	4r
 .	.	16d	.
 .	.	16e	.
 .	.	16fJJ	.

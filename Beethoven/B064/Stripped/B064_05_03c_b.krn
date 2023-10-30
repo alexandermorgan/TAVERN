@@ -12,19 +12,19 @@
 =62	=62	=62	=62
 2T	Ib	4AA)	(8ffL
 .	.	.	8f
-.	.	r	8ee
+.	.	8r	8ee
 .	.	(8c	8fJ)
-4T	IV	4B-')	r
+4T	IV	4B-')	8r
 .	.	.	(8dd
 4T	Ib	4A'	8fL
 .	.	.	8ccJ)
 =63	=63	=63	=63
-2T	Ib	r	(8ffL
+2T	Ib	4r	(8ffL
 .	.	.	8f
-.	.	r	8ee
+.	.	8r	8ee
 .	.	(8c	8fJ)
 *	*	*	*^
-4T	IV	4B-')	r	r
+4T	IV	4B-')	8r	4r
 .	.	.	(8dd	.
 4T	V7c	(4G	8ccL	4e
 .	.	.	8b-J)	.
@@ -39,7 +39,7 @@
 4P	iib	8B-	8dd
 .	.	8dJ)	8ggJ)
 =65	=65	=65	=65
-2D	Ic	2c	r
+2D	Ic	2c	8r
 .	.	.	(8a 8ff
 .	.	.	8ccL 8ee
 .	.	.	8b-J 8dd

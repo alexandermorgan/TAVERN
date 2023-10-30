@@ -6,80 +6,80 @@
 *	*	*k[b-e-]	*k[b-e-]
 *M6/8	*M6/8	*M6/8	*M6/8
 *B-:	*B-:	*B-:	*B-:
-8T	I	r	(16fLL
+8T	I	8r	(16fLL
 .	.	.	16B-JJ
 =53	=53	=53	=53
-2.T	IV	r	8g')
+2.T	IV	16r	8g')
 .	.	16E-LL	.
-.	.	16G	r
+.	.	16G	16r
 .	.	16B-JJ	16f#LL
 .	.	8E-	16g
 .	.	.	16aJJ
 *	*	*clefG2	*
-.	.	r	8b-
+.	.	16r	8b-
 .	.	16e-LL	.
-.	.	16g	r
+.	.	16g	16r
 .	.	16b-JJ	16aaLL
 .	.	8e-	16bb-
 .	.	.	16ggJJ
 =54	=54	=54	=54
-2.T	Ib	r	16ff
-.	.	16d	r
-.	.	r	16bb-
-.	.	16dd	r
-.	.	r	16aa
-.	.	16ee-	r
-.	.	r	16bb-
-.	.	16dd	r
-.	.	r	16ccc
-.	.	16a	r
-.	.	r	16ddd
-.	.	16b-	r
+2.T	Ib	16r	16ff
+.	.	16d	16r
+.	.	16r	16bb-
+.	.	16dd	16r
+.	.	16r	16aa
+.	.	16ee-	16r
+.	.	16r	16bb-
+.	.	16dd	16r
+.	.	16r	16ccc
+.	.	16a	16r
+.	.	16r	16ddd
+.	.	16b-	16r
 =55	=55	=55	=55
-4T	Vb	r	16ccc
-.	.	16a	r
-.	.	r	16fff
-.	.	16A	r
-8P	viiob/V	r	16g#
-.	.	16B	r
-8D	Ic/V	r	16a
+4T	Vb	16r	16ccc
+.	.	16a	16r
+.	.	16r	16fff
+.	.	16A	16r
+8P	viiob/V	16r	16g#
+.	.	16B	16r
+8D	Ic/V	16r	16a
 *	*	*clefF4	*
-.	.	16c	r
-4D	V7/V	r	16b-
-.	.	16C	r
-.	.	r	16c 16e 16g
-.	.	16CC	r
+.	.	16c	16r
+4D	V7/V	16r	16b-
+.	.	16C	16r
+.	.	16r	16c 16e 16g
+.	.	16CC	16r
 =56	=56	=56	=56
 2.T	I/V	8FFL	8A 8f
-.	.	16FJk	r
-.	.	r	16a 16cc
-.	.	16f	r
-.	.	r	16cc 16aa
-.	.	16F	r
-.	.	r	16b 16gg#
-.	.	16f	r
-.	.	r	16cc 16aa
-.	.	16F	r
-.	.	r	16b- 16gg
+.	.	16FJk	16r
+.	.	16r	16a 16cc
+.	.	16f	16r
+.	.	16r	16cc 16aa
+.	.	16F	16r
+.	.	16r	16b 16gg#
+.	.	16f	16r
+.	.	16r	16cc 16aa
+.	.	16F	16r
+.	.	16r	16b- 16gg
 =57	=57	=57	=57
-2.T	I/V	16f	r
-.	.	r	16a 16ff
-.	.	16FF	r
-.	.	r	16A 16c
-.	.	16F	r
-.	.	r	16c 16a
-.	.	16FF	r
-.	.	r	16B 16g#
-.	.	16F	r
-.	.	r	16c 16a
-.	.	16FF	r
-.	.	r	16B- 16g
+2.T	I/V	16f	16r
+.	.	16r	16a 16ff
+.	.	16FF	16r
+.	.	16r	16A 16c
+.	.	16F	16r
+.	.	16r	16c 16a
+.	.	16FF	16r
+.	.	16r	16B 16g#
+.	.	16F	16r
+.	.	16r	16c 16a
+.	.	16FF	16r
+.	.	16r	16B- 16g
 =58	=58	=58	=58
-4T	I/V	16F	r
-.	.	r	16A 16f
-.	.	16E	r
+4T	I/V	16F	16r
+.	.	16r	16A 16f
+.	.	16E	16r
 *	*	*	*clefF4
-.	.	r	16F
-8D	V	16E-	r
-.	.	r	16F
+.	.	16r	16F
+8D	V	16E-	16r
+.	.	16r	16F
 *-	*-	*-	*-

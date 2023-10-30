@@ -6,11 +6,11 @@
 *	*	*k[f#c#]	*k[f#c#]
 *M2/2	*M2/2	*M2/2	*M2/2
 *D:	*D:	*D:	*D:
-4T	V	r	4a
+4T	V	4r	4a
 =79	=79	=79	=79
-1T	I	r	8.ddL
+1T	I	4r	8.ddL
 .	.	.	16cc#Jk
-.	.	r	8.ddL
+.	.	8.r	8.ddL
 .	.	16AA	16eeJk
 .	.	8.DL	8.ff#L
 .	.	16C#k	16eek
@@ -32,8 +32,8 @@
 .	.	16GJk	.
 2T	V	8.AL	4ee
 .	.	16AAJk	.
-.	.	8.BBL	r
-.	.	.	r
+.	.	8.BBL	8r
+.	.	.	16r
 .	.	16C#Jk	16a
 =82	=82	=82	=82
 1T	I	1D	8.ddL
@@ -54,7 +54,7 @@
 8P	iib	8G	8eeL 8gg
 8P	viiom7/V	8G#J)	8ddJ) 8ff#
 =84	=84	=84	=84
-2.D	V	r	(4dd 4ff#
+2.D	V	8.r	(4dd 4ff#
 .	.	16A	.
 .	.	8.EL	2cc#) 2ee
 .	.	16C#Jk	.

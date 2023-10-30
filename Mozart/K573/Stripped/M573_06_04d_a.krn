@@ -7,12 +7,12 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *d:	*d:	*d:	*d:
 =161	=161	=161	=161
-2.T	i	r	4aa
+2.T	i	4r	4aa
 .	.	4d 4f 4a	(4.aa
 .	.	4d 4f 4a	.
 .	.	.	8ddd)
 =162	=162	=162	=162
-2.T	i	r	(8.dddL
+2.T	i	4r	(8.dddL
 .	.	.	16ffJk)
 .	.	4d 4f 4a	(4.ff
 .	.	4d 4f 4a	.
@@ -32,11 +32,11 @@
 .	.	.	.	16cc#')
 .	.	.	.	16dd'JJ
 *	*	*v	*v	*
-.	.	r	16ee'LL
+.	.	4r	16ee'LL
 .	.	.	16ff'
 .	.	.	16gg'
 .	.	.	16aa'JJ
-.	.	r	16bb'LL
+.	.	4r	16bb'LL
 .	.	.	16ccc#'
 .	.	.	16ddd'
 .	.	.	16eee'JJ

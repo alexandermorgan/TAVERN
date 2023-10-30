@@ -25,7 +25,7 @@
 .	.	8g	16gg
 .	.	.	16bbJJ
 .	.	8G	8ddd
-.	.	8gJ)	r
+.	.	8gJ)	8r
 =331	=331	=331	=331
 2T	IVc	(8GL	4ee 4ccc
 .	.	8g	.
@@ -48,7 +48,7 @@
 .	.	16F#	.	.
 .	.	16GJJ	.	.
 *	*	*	*v	*v
-.	.	16GGLL	r
+.	.	16GGLL	4r
 .	.	16G	.
 .	.	16F#	.
 .	.	16GJJ	.
@@ -84,7 +84,7 @@
 .	.	16GJJ	16bJJ
 .	.	16GGLL	8dd
 .	.	16G	.
-.	.	16F#	r
+.	.	16F#	8r
 .	.	16GJJ	.
 =335	=335	=335	=335
 2T	IVc	16GGLL	4e 4cc
@@ -115,8 +115,8 @@
 .	.	16F#	.	8bJ)
 .	.	16GJJ	.	.
 2T	I	4GG	8B	8gL
-.	.	.	r	8gJ
-.	.	r	r	16gLL
+.	.	.	8r	8gJ
+.	.	4r	4r	16gLL
 .	.	.	.	16a
 .	.	.	.	16b
 .	.	.	.	16ccJJ
@@ -125,12 +125,12 @@
 =337	=337	=337	=337
 2T	V7	4d 4a 4cc	8ddL
 .	.	.	8ddJ
-.	.	r	8ddL
+.	.	4r	8ddL
 .	.	.	16eeL
 .	.	.	16ff#JJ
 2T	I	4g 4b	8ggL
 .	.	.	8ggJ
-.	.	r	16aaLL
+.	.	4r	16aaLL
 .	.	.	16gg
 .	.	.	16ff#
 .	.	.	16eeJJ
@@ -139,14 +139,14 @@
 .	.	.	16ee
 .	.	.	16cc
 .	.	.	16ddJJ
-.	.	r	16bLL
+.	.	4r	16bLL
 .	.	.	16cc
 .	.	.	16a
 .	.	.	16bJJ
 *	*	*clefF4	*
 2T	I	4G 4B	8gL
 .	.	.	8gJ
-.	.	r	8gL)
+.	.	4r	8gL)
 .	.	.	16f#L
 .	.	.	16eJJ
 =339	=339	=339	=339
@@ -155,13 +155,13 @@
 .	.	.	16c
 .	.	.	16dJJ
 *	*	*	*clefF4
-.	.	r	16BLL
+.	.	4r	16BLL
 .	.	.	16c
 .	.	.	16A
 .	.	.	16BJJ
 2T	I	4GG 4BB	8GL
 .	.	.	8GJ
-.	.	r	8GL)
+.	.	4r	8GL)
 .	.	.	16F#L
 .	.	.	16EJJ
 =340	=340	=340	=340
@@ -169,14 +169,14 @@
 .	.	.	16E
 .	.	.	16C
 .	.	.	16DJJ
-.	.	r	16BBLL
+.	.	4r	16BBLL
 .	.	.	16C
 .	.	.	16AA
 .	.	.	16BBJJ
 *	*	*clefG2	*
 2T	I	4B 4g	8GGL
 .	.	.	8GGJ
-.	.	r	8GGL)
+.	.	4r	8GGL)
 .	.	.	16FF#L
 .	.	.	16EEJJ
 =341	=341	=341	=341
@@ -184,14 +184,14 @@
 .	.	.	16EE
 .	.	.	16CC
 .	.	.	16DDJJ
-.	.	r	16BBBLL
+.	.	4r	16BBBLL
 .	.	.	16CC
 .	.	.	16AAA
 .	.	.	16BBBJJ
 2T	I	4g 4b	8GGGL
 .	.	.	16AAAL
 .	.	.	16BBBJJ
-.	.	r	16CCLL
+.	.	4r	16CCLL
 .	.	.	16DD
 .	.	.	16EE
 .	.	.	16FF#JJ
@@ -215,6 +215,6 @@
 =343	=343	=343	=343
 1T	I	4G	4g
 .	.	4GGG 4GG	4b 4dd 4gg
-.	.	r;	r;
+.	.	2r;	2r;
 ==	==	==	==
 *-	*-	*-	*-

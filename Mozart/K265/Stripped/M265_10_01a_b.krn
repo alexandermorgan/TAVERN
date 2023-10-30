@@ -7,71 +7,71 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *C:	*C:	*C:	*C:
 =241	=241	=241	=241
-2T	I	4CC 4C	r
+2T	I	4CC 4C	16r
 .	.	.	(16eLL
 .	.	.	16cc
 .	.	.	16eJJ)
 *	*	*clefG2	*
-.	.	4cc	r
+.	.	4cc	16r
 .	.	.	(16eLL
 .	.	.	16g
 .	.	.	16eJJ)
 =242	=242	=242	=242
-2T	Ib	4gg	r
+2T	Ib	4gg	16r
 .	.	.	(16eLL
 .	.	.	16cc
 .	.	.	16eJJ)
-.	.	4gg	r
+.	.	4gg	16r
 .	.	.	(16eLL
 .	.	.	16cc
 .	.	.	16eJJ)
 =243	=243	=243	=243
-2T	IV	4aa	r
+2T	IV	4aa	16r
 .	.	.	(16fLL
 .	.	.	16cc
 .	.	.	16fJJ)
-.	.	4aa	r
+.	.	4aa	16r
 .	.	.	(16fLL
 .	.	.	16cc
 .	.	.	16fJJ)
 =244	=244	=244	=244
-4T	Ib	4gg	r
+4T	Ib	4gg	16r
 .	.	.	(16eLL
 .	.	.	16cc
 .	.	.	16eJJ)
 *	*	*clefF4	*
-4T	viioD7/ii	4C# 4c#	r
+4T	viioD7/ii	4C# 4c#	16r
 .	.	.	(16b-LL
 .	.	.	16ee 16gg
 .	.	.	16b-JJ)
 =245	=245	=245	=245
-4T	V/V	4D 4d	r
+4T	V/V	4D 4d	16r
 .	.	.	(16aLL
 .	.	.	16dd 16ff#
 .	.	.	16aJJ)
-4T	viioD7	4BB 4B	r
+4T	viioD7	4BB 4B	16r
 .	.	.	(16a-LL
 .	.	.	16dd 16ff
 .	.	.	16a-JJ)
 =246	=246	=246	=246
-4T	I	4C 4c	r
+4T	I	4C 4c	16r
 .	.	.	(16gLL
 .	.	.	16cc 16ee
 .	.	.	16gJJ)
-4P	viioD7/V	4FF# 4F#	r
+4P	viioD7/V	4FF# 4F#	16r
 .	.	.	(16aLL
 .	.	.	16cc 16ee-
 .	.	.	16aJJ)
 =247	=247	=247	=247
-2D	V7	4GG 4G	r
+2D	V7	4GG 4G	16r
 .	.	.	(16gLL
 .	.	.	16cc 16dd
 .	.	.	16gJJ)
-.	.	4GG	r
+.	.	4GG	16r
 .	.	.	(16fLL
 .	.	.	16b 16dd
 .	.	.	16fJJ)
 =248	=248	=248	=248
 2T	I	4C	4e 4cc
-.	.	4CC	r
+.	.	4CC	4r
 *-	*-	*-	*-

@@ -7,78 +7,78 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *F:	*F:	*F:	*F:
 =188	=188	=188	=188
-2T	V7	r	8g' 8b-' 8cc'
+2T	V7	16r	8g' 8b-' 8cc'
 .	.	16C'LL	.
-.	.	16E'	r
+.	.	16E'	8r
 .	.	16D'JJ	.
-.	.	r	8g' 8b-' 8cc'
+.	.	16r	8g' 8b-' 8cc'
 .	.	16C'LL	.
-.	.	16D'	r
+.	.	16D'	8r
 .	.	16E'JJ	.
 =189	=189	=189	=189
-2T	I	r	8f' 8a' 8cc'
+2T	I	16r	8f' 8a' 8cc'
 .	.	16F'LL	.
-.	.	16A'	r
+.	.	16A'	8r
 .	.	16G'JJ	.
-.	.	r	8f' 8a' 8cc'
+.	.	16r	8f' 8a' 8cc'
 .	.	16F'LL	.
-.	.	16E'	r
+.	.	16E'	8r
 .	.	16D'JJ	.
 =190	=190	=190	=190
-4T	V	r	8g' 8cc' 8ee'
+4T	V	16r	8g' 8cc' 8ee'
 .	.	16C'LL	.
-.	.	16BB'	r
+.	.	16BB'	8r
 .	.	16C'JJ	.
-4T	V7d	r	8g' 8cc' 8ee'
+4T	V7d	16r	8g' 8cc' 8ee'
 .	.	16C'LL	.
-.	.	16D'	r
+.	.	16D'	8r
 .	.	16BB-'JJ	.
 =191	=191	=191	=191
-2T	Ib	r	8a' 8cc' 8ff'
+2T	Ib	16r	8a' 8cc' 8ff'
 .	.	16AA'LL	.
-.	.	16C'	r
+.	.	16C'	8r
 .	.	16BB-'JJ	.
-.	.	r	8a' 8cc' 8ff'
+.	.	16r	8a' 8cc' 8ff'
 .	.	16AA'LL	.
-.	.	16GG'	r
+.	.	16GG'	8r
 .	.	16FF'JJ	.
 =192	=192	=192	=192
-2T	V7	r	8b-' 8cc' 8gg'
+2T	V7	16r	8b-' 8cc' 8gg'
 .	.	16C'LL	.
-.	.	16E'	r
+.	.	16E'	8r
 .	.	16D'JJ	.
-.	.	r	8g' 8b-' 8cc'
+.	.	16r	8g' 8b-' 8cc'
 .	.	16C'LL	.
-.	.	16D'	r
+.	.	16D'	8r
 .	.	16E'JJ	.
 =193	=193	=193	=193
-4T	I	r	8f' 8a' 8cc'
+4T	I	16r	8f' 8a' 8cc'
 .	.	16F'LL	.
-.	.	16G'	r
+.	.	16G'	8r
 .	.	16A'JJ	.
-4T	vi	r	8f' 8a' 8ff'
+4T	vi	16r	8f' 8a' 8ff'
 .	.	16D'LL	.
-.	.	16E'	r
+.	.	16E'	8r
 .	.	16F'JJ	.
 =194	=194	=194	=194
-4P	ii7	r	8g' 8dd' 8ff'
+4P	ii7	16r	8g' 8dd' 8ff'
 .	.	16BB-'LL	.
-.	.	16AA'	r
+.	.	16AA'	8r
 .	.	16GG'JJ	.
-4D	V7	r	8g' 8b-' 8ee'
+4D	V7	16r	8g' 8b-' 8ee'
 .	.	16C'LL	.
-.	.	16BB'	r
+.	.	16BB'	8r
 .	.	16C'JJ	.
 =195	=195	=195	=195
-4T	I	r	8a' 8ff'
+4T	I	16r	8a' 8ff'
 .	.	16FF'LL	.
-.	.	16EE'	r
+.	.	16EE'	8r
 .	.	16FF'JJ	.
-4T	V	r	8bb-' 8eee'
+4T	V	16r	8bb-' 8eee'
 .	.	16CC'LL	.
-.	.	16BBB'	r
+.	.	16BBB'	8r
 .	.	16CC'JJ	.
 =196	=196	=196	=196
-4T	I	r	8aa' 8fff'
-.	.	8FFF	r
+4T	I	8r	8aa' 8fff'
+.	.	8FFF	8r
 *-	*-	*-	*-

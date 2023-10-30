@@ -7,7 +7,7 @@
 *M2/4	*M2/4	*M2/4	*M2/4
 *A:	*A:	*A:	*A:
 *	*	*	*^
-4T	I	r	(8gL	[4ee
+4T	I	8r	(8gL	[4ee
 .	.	(32AAALLL	8aJ	.
 .	.	32GGG#	.	.
 .	.	32AAA	.	.
@@ -25,8 +25,8 @@
 .	.	32G#JJJ	.	.
 =192	=192	=192	=192	=192
 4T	I	8A')	8eL	4cc#
-.	.	r	8aJ)	.
-8T	vb	r	(8gL	[4ee
+.	.	8r	8aJ)	.
+8T	vb	8r	(8gL	[4ee
 *	*	*clefG2	*	*
 8T	I	(32aaLLL	8aJ	.
 .	.	32gg#	.	.
@@ -45,6 +45,6 @@
 .	.	32gg#JJJ	.	.
 =194	=194	=194	=194	=194
 4T	Ib	8aa')	8eL	4cc#
-.	.	r	8aJ)	.
+.	.	8r	8aJ)	.
 *	*	*	*v	*v
 *-	*-	*-	*-

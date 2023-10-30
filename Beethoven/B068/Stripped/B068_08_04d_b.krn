@@ -6,69 +6,69 @@
 *	*	*k[]	*k[]
 *M4/4	*M4/4	*M4/4	*M4/4
 *C:	*C:	*C:	*C:
-4.T	V	r	(16f#LL
+4.T	V	4.r	(16f#LL
 .	.	.	16gJJ
 .	.	.	16aLL
 .	.	.	16g
 .	.	.	16f#
 .	.	.	16gJJ)
 =141	=141	=141	=141
-1T	Ib	r	(8.ggL
+1T	Ib	16r	(8.ggL
 .	.	16EELK	.
 .	.	8CJ	.
 .	.	.	16gJk
-.	.	r	8.ff#L
+.	.	16r	8.ff#L
 .	.	16ELK	.
 .	.	8GJ 8c	.
 .	.	.	16gJk
-.	.	r	8.ffL
+.	.	16r	8.ffL
 .	.	16ELK	.
 .	.	8GJ 8c	.
 .	.	.	16gJk
-.	.	r	8.eeL
+.	.	16r	8.eeL
 .	.	16ELK	.
 .	.	8GJ 8c	.
 .	.	.	16gJk)
 =142	=142	=142	=142
-1P	iib	r	(8.ddL
+1P	iib	16r	(8.ddL
 .	.	16FFLK	.
 .	.	8FJ	.
 .	.	.	16aJk
-.	.	r	8.eeL
+.	.	16r	8.eeL
 .	.	16FLK	.
 .	.	8AJ 8d	.
 .	.	.	16aJk
-.	.	r	8.ffL
+.	.	16r	8.ffL
 .	.	16FLK	.
 .	.	8AJ 8d	.
 .	.	.	16aJk
-.	.	r	8.ddL
+.	.	16r	8.ddL
 .	.	16FLK	.
 .	.	8AJ 8d	.
 .	.	.	16aJk)
 =143	=143	=143	=143
-1D	V7	r	(8.ccL
+1D	V7	16r	(8.ccL
 .	.	16GLK	.
 .	.	8dJ	.
 .	.	.	16fJk
-.	.	r	8.bL
+.	.	16r	8.bL
 .	.	16GLK	.
 .	.	8dJ	.
 .	.	.	16fJk
-.	.	r	8.aL
+.	.	16r	8.aL
 .	.	16GLK	.
 .	.	8BJ	.
 .	.	.	16fJk
-.	.	r	8.gL
+.	.	16r	8.gL
 .	.	16GLK	.
 .	.	8BJ	.
 .	.	.	16fJk)
 =144	=144	=144	=144
-2T	I	r	(8.eL 8.cc
+2T	I	16r	(8.eL 8.cc
 .	.	16CLK	.
 .	.	8cJ	.
 .	.	.	16gJk
-.	.	r	8.eL 8.cc
+.	.	16r	8.eL 8.cc
 .	.	16CLK	.
 .	.	8cJ	.
 .	.	.	16gJk

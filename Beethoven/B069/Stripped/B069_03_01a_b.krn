@@ -6,7 +6,7 @@
 *	*	*k[f#c#g#]	*k[f#c#g#]
 *M2/4	*M2/4	*M2/4	*M2/4
 *A:	*A:	*A:	*A:
-8T	V	r	8e
+8T	V	8r	8e
 =73	=73	=73	=73
 2T	I	24AALL	(8cc#L
 .	.	24C#	.
@@ -15,9 +15,9 @@
 .	.	24F#	.
 .	.	24G#JJ	.
 .	.	8A	8cc#L
-.	.	r	8eJ
+.	.	8r	8eJ
 =74	=74	=74	=74
-4T	V7	r	8dL 8b
+4T	V7	2r	8dL 8b
 .	.	.	8eJ
 4T	Ib	.	8c#L 8a
 .	.	.	8eJ)
@@ -29,9 +29,9 @@
 .	.	24F#	.
 .	.	24G#JJ	.
 .	.	8A	8cc#L 8ee
-.	.	r	8eJ
+.	.	8r	8eJ
 =76	=76	=76	=76
-4D	V7	r	8bL 8dd
+4D	V7	2r	8bL 8dd
 .	.	.	8eJ
 4D	Ic	.	8aL 8cc#
 .	.	.	8eJ)
@@ -43,7 +43,7 @@
 .	.	24D	.
 .	.	24BBJJ	.
 4D	Ib	8C#	8aL
-.	.	r	8eJ
+.	.	8r	8eJ
 =78	=78	=78	=78
 4D	V7d	24DLL	8g#L 8b
 .	.	24C#	.
@@ -52,7 +52,7 @@
 .	.	24D	.
 .	.	24BBJJ	.
 4D	Ib	8C#	8aL
-.	.	r	8eJ)
+.	.	8r	8eJ)
 =79	=79	=79	=79
 4D	Ic/V	[4BB	(8g#L 8ee
 .	.	.	8eJ

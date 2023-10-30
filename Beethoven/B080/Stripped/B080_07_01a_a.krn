@@ -7,7 +7,7 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *c:	*c:	*c:	*c:
 =57	=57	=57	=57
-2.T	i	16CCLL	r
+2.T	i	16CCLL	8r
 .	.	16C 16E-	.
 .	.	16GG 16G	(8g 8gg
 .	.	16CJJ 16E-	.
@@ -20,7 +20,7 @@
 .	.	16GG 16G	8cJ) 8cc
 .	.	16CJJ 16E-	.
 =58	=58	=58	=58
-2.T	V	16GGGLL	r
+2.T	V	16GGGLL	8r
 .	.	16BB 16D	.
 .	.	16GG 16G	(8dd 8ddd
 .	.	16BBJJ 16D	.
@@ -33,7 +33,7 @@
 .	.	16GG 16G	8gJ) 8gg
 .	.	16BBJJ 16D	.
 =59	=59	=59	=59
-2.T	V7/IV	16CCLL	r
+2.T	V7/IV	16CCLL	8r
 .	.	16BB- 16C	.
 .	.	16GG 16E	(8dd- 8ddd-
 .	.	16BB-JJ 16C	.
@@ -46,7 +46,7 @@
 .	.	16GG 16E	8gJ) 8gg
 .	.	16BB-JJ 16C	.
 =60	=60	=60	=60
-2.P	IV	16FFFLL	r
+2.P	IV	16FFFLL	8r
 .	.	16AA 16C	.
 .	.	16FF 16F	(8cc 8ccc
 .	.	16AAJJ 16C	.
@@ -59,7 +59,7 @@
 .	.	16FF 16F	8fJ) 8ff
 .	.	16AAJJ 16C	.
 =61	=61	=61	=61
-2.P	V7/V	16DDLL	r
+2.P	V7/V	16DDLL	8r
 .	.	16C 16D	.
 .	.	16AA 16F#	(8ee- 8eee-
 .	.	16CJJ 16D	.
@@ -107,5 +107,5 @@
 .	.	16GG	8bJ) 8bb
 .	.	16GGGJJ	.
 .	.	8CC	8cc 8ccc
-.	.	r	r
+.	.	8r	8r
 *-	*-	*-	*-

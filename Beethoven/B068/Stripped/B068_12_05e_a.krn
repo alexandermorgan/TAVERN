@@ -6,25 +6,25 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4.D	I	r	8gL 8gg
-.	.	r	8cc 8ccc
+4.D	I	8r	8gL 8gg
+.	.	4r	8cc 8ccc
 .	.	.	8eeJ 8eee
 =209	=209	=209	=209
-2.D	V7	r	8ffL 8fff
+2.D	V7	8r	8ffL 8fff
 .	.	8GGL 8G	8dd 8ddd
 .	.	8BB 8B	8b 8bb
 .	.	8DJ 8d	8g 8gg
 .	.	8GG 8G	8b 8bb
-.	.	r	8ddJ 8ddd
+.	.	8r	8ddJ 8ddd
 =210	=210	=210	=210
-2.D	Ic	r	8eeL 8eee
+2.D	Ic	8r	8eeL 8eee
 .	.	8GGL 8G	8cc 8ccc
 .	.	8C 8c	8g 8gg
 .	.	8EJ 8e	8g 8gg
 .	.	8GG 8G	8cc 8ccc
-.	.	r	8eeJ 8eee
+.	.	8r	8eeJ 8eee
 =211	=211	=211	=211
-2D	V7	r	8ffL 8fff
+2D	V7	8r	8ffL 8fff
 .	.	8GGL 8G	8dd 8ddd
 .	.	8BB 8B	8b 8bb
 .	.	8D 8d	8g 8gg

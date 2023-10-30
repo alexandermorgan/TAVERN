@@ -6,9 +6,9 @@
 *	*	*k[b-]	*k[b-]
 *M2/4	*M2/4	*M2/4	*M2/4
 *F:	*F:	*F:	*F:
-8T	V	r	8cc'
+8T	V	8r	8cc'
 =373	=373	=373	=373
-2T	I	r	(8ff
+2T	I	8r	(8ff
 .	.	(8a	4cc)
 .	.	8gL	.
 .	.	.	(q32gg
@@ -16,7 +16,7 @@
 .	.	.	q32ee
 .	.	8fJ)	(8ff)
 =374	=374	=374	=374
-2T	V	r	8gg
+2T	V	8r	8gg
 .	.	(8e	4cc)
 .	.	8dL	.
 .	.	.	(q32aa
@@ -31,7 +31,7 @@
 =376	=376	=376	=376
 4T	Ic	4.c	(4ff 4aa
 4T	V	.	8eeL) 8gg
-.	.	r	8ccc'J
+.	.	8r	8ccc'J
 =377	=377	=377	=377
 8T	I	8F' 8f'	8cc' 8aa' 8ccc'
 4T	viiob	(4G 4g	(4cc 4ee 4bb-
@@ -52,5 +52,5 @@
 4.T	I	8fL 8a	4ff	4ff
 *	*	*	*v	*v
 .	.	8cJ	.
-.	.	8F	r
+.	.	8F	8r
 *-	*-	*-	*-

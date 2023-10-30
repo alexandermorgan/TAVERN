@@ -6,7 +6,7 @@
 *	*	*k[f#]	*k[f#]
 *M2/4	*M2/4	*M2/4	*M2/4
 *G:	*G:	*G:	*G:
-4T	I	(4g	r
+4T	I	(4g	16r
 .	.	.	(16ddLL
 .	.	.	16gg
 .	.	.	16bbJJ
@@ -16,7 +16,7 @@
 .	.	.	16aa
 .	.	.	16cccJJ)
 *	*	*clefF4	*
-4T	V7	(4D	r
+4T	V7	(4D	16r
 .	.	.	(16cLL
 .	.	.	16f#
 .	.	.	16aJJ
@@ -25,18 +25,18 @@
 .	.	.	16a
 .	.	.	16g
 .	.	.	16bJJ)
-4T	V	4D	r
+4T	V	4D	16r
 .	.	.	(16dLL
 .	.	.	16g 16b
 .	.	.	16f#JJ) 16a
 =23	=23	=23	=23
-4T	I	4G)	r
+4T	I	4G)	16r
 .	.	.	(16dLL
 .	.	.	16a 16cc
 .	.	.	16gJJ) 16b
-8P	Ic/V	8AL	r
+8P	Ic/V	8AL	16r
 .	.	.	16d 16f#
-8P	V7/V	8AAJ 8G	r
+8P	V7/V	8AAJ 8G	16r
 .	.	.	16c 16e
 =24	=24	=24	=24
 4D	V	4D 4F#	4d

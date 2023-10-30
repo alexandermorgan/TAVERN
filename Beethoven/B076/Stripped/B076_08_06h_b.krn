@@ -35,11 +35,11 @@
 .	.	.	.	32cc'
 .	.	.	.	32dd'
 .	.	.	.	32ee'JJJ
-.	.	r	r	32ff'LLL
+.	.	8r	8r	32ff'LLL
 .	.	.	.	32gg'
 .	.	.	.	32aa'
 .	.	.	.	32bb-'JJJ
-.	.	r	r	32ccc'LLL
+.	.	8r	8r	32ccc'LLL
 .	.	.	.	32ddd'
 .	.	.	.	32eee-'
 .	.	.	.	32eee'JJJ
@@ -75,11 +75,11 @@
 .	.	.	(32ff
 .	.	.	32aa)
 .	.	.	(32gg#JJ
-.	.	r	32bb-LL)
+.	.	8r	32bb-LL)
 .	.	.	(32aa
 .	.	.	32gg)
 .	.	.	(32ffJJ
-.	.	r	32eeLL)
+.	.	8r	32eeLL)
 .	.	.	(32dd
 .	.	.	32cc)
 .	.	.	(32bJJJ
@@ -88,21 +88,21 @@
 .	.	.	(32cc
 .	.	.	32b-)
 .	.	.	(32aJJ
-.	.	r	32gLL)
+.	.	8r	32gLL)
 .	.	.	(32f
 .	.	.	32e)
 .	.	.	(32dJJ
-.	.	r	32cLL)
+.	.	8r	32cLL)
 .	.	.	(32B-
 .	.	.	32A)
 .	.	.	(32GJJJ
 =315	=315	=315	=315
 4.T	I	8FF	8F)
-.	.	r	r
+.	.	8r	8r
 .	.	8FF' 8AA' 8C' 8F'	8f' 8a' 8cc' 8ff'
 =316	=316	=316	=316
 4.T	I	8FFF' 8FF'	8ff' 8aa' 8ccc' 8fff'
-.	.	r	r
-.	.	r	r
+.	.	8r	8r
+.	.	8r	8r
 ==	==	==	==
 *-	*-	*-	*-

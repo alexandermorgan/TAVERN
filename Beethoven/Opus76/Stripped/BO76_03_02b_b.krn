@@ -7,7 +7,7 @@
 *M6/8	*M6/8	*M6/8	*M6/8
 *D:	*D:	*D:	*D:
 *	*	*^	*
-4T	vi	8b	r	(8ddL 8bb
+4T	vi	8b	4r	(8ddL 8bb
 .	.	8f#J	.	8eeJ 8ccc#
 =57	=57	=57	=57	=57
 2.T	vi	8dL	4.B	8ff#L 8ddd
@@ -74,6 +74,6 @@
 .	.	8c#	.	.
 .	.	8dJ)	8D	8ff#) 8ddd
 .	.	4d	4D	4ff# 4ddd
-.	.	r	r	r
+.	.	8r	8r	8r
 *	*	*v	*v	*
 *-	*-	*-	*-

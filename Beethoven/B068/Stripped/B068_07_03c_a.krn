@@ -6,7 +6,7 @@
 *	*	*k[b-e-a-]	*k[b-e-a-]
 *M4/4	*M4/4	*M4/4	*M4/4
 *c:	*c:	*c:	*c:
-4.T	i	r	r
+4.T	i	4.r	16r
 .	.	.	16e-
 .	.	.	8.dL
 .	.	.	16cJk
@@ -17,7 +17,7 @@
 .	.	8.FL	.	8.a-L	.
 .	.	16E-Jk)	.	16gJk)	.
 .	.	4D'	.	4f'	.
-.	.	r	r	4b' 4dd' 4ff' 4aa-' 4bb'	r
+.	.	4r	4r	4b' 4dd' 4ff' 4aa-' 4bb'	4r
 =122	=122	=122	=122	=122	=122
 1D	ic	(8.E-L	2.GG	(8.gL	2.c
 .	.	16FJk	.	16a-Jk	.
@@ -25,7 +25,7 @@
 .	.	16DJk)	.	16f#Jk)	.
 .	.	4E-'	.	4g'	.
 *	*	*v	*v	*	*
-.	.	r	4cc 4ee- 4gg 4ccc	r
+.	.	4r	4cc 4ee- 4gg 4ccc	4r
 *	*	*	*v	*v
 =123	=123	=123	=123
 1D	V7m9	4GG'	(8.bL 8.dd

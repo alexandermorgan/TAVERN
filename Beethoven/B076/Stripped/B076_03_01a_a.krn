@@ -7,83 +7,83 @@
 *M3/8	*M3/8	*M3/8	*M3/8
 *F:	*F:	*F:	*F:
 =73	=73	=73	=73
-4.T	I	16FFLL	r
-.	.	r	16f 16a 16cc
+4.T	I	16FFLL	16r
+.	.	32r	16f 16a 16cc
 .	.	(32GGJ	.
-.	.	16AA)	r
-.	.	r	16f 16a 16cc
+.	.	16AA)	16r
+.	.	32r	16f 16a 16cc
 .	.	(32GGJ	.
-.	.	16AA)	r
-.	.	r	16f 16a 16cc
+.	.	16AA)	16r
+.	.	32r	16f 16a 16cc
 .	.	(32FFJJJ	.
 =74	=74	=74	=74
-4.T	V	16CLL)	r
-.	.	r	16e 16g 16cc
+4.T	V	16CLL)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJ	.
-.	.	16BB)	r
-.	.	r	16e 16g 16cc
+.	.	16BB)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJ	.
-.	.	16D)	r
-.	.	r	16e 16g 16cc
+.	.	16D)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJJJ	.
 =75	=75	=75	=75
-4.T	V7d	16BB-LL)	r
-.	.	r	16e 16g 16cc
+4.T	V7d	16BB-LL)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32AAJ	.
-.	.	16GG)	r
-.	.	r	16e 16g 16cc
+.	.	16GG)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJ	.
-.	.	16BB)	r
-.	.	r	16e 16g 16cc
+.	.	16BB)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJJJ	.
 =76	=76	=76	=76
-4T	Ib	16BB-LL)	r
-.	.	r	16f 16a 16cc
+4T	Ib	16BB-LL)	16r
+.	.	32r	16f 16a 16cc
 .	.	(32AAJ	.
-.	.	16GG)	r
-.	.	r	16f 16a 16cc
+.	.	16GG)	16r
+.	.	32r	16f 16a 16cc
 .	.	(32FFJ	.
-8T	I	16EE)	r
-.	.	r	16f 16a 16cc
+8T	I	16EE)	16r
+.	.	32r	16f 16a 16cc
 .	.	(32FFJJJ	.
 =77	=77	=77	=77
-4.T	IV/V[I]	16FFFLL)	r
-.	.	r	16a 16cc 16ff
+4.T	IV/V[I]	16FFFLL)	16r
+.	.	32r	16a 16cc 16ff
 .	.	(32FFJ	.
-.	.	16AA)	r
-.	.	r	16a 16cc 16ff
+.	.	16AA)	16r
+.	.	32r	16a 16cc 16ff
 .	.	(32FFJ	.
-.	.	16AA)	r
-.	.	r	16a 16cc 16ff
+.	.	16AA)	16r
+.	.	32r	16a 16cc 16ff
 .	.	(32BBJJJ	.
 =78	=78	=78	=78
-4.T	I/V	16CLL)	r
-.	.	r	16g 16cc 16ee
+4.T	I/V	16CLL)	16r
+.	.	32r	16g 16cc 16ee
 .	.	(32BBJ	.
-.	.	16C)	r
-.	.	r	16g 16cc 16ee
+.	.	16C)	16r
+.	.	32r	16g 16cc 16ee
 .	.	(32DJ	.
-.	.	16E)	r
-.	.	r	16g 16cc 16ee
+.	.	16E)	16r
+.	.	32r	16g 16cc 16ee
 .	.	(32CJJJ	.
 =79	=79	=79	=79
-8P	iib/V	16FLL)	r
-.	.	r	16f 16a 16dd
+8P	iib/V	16FLL)	16r
+.	.	32r	16f 16a 16dd
 .	.	(32DJ	.
-8P	Ic/V	16G)	r
-.	.	r	16e 16g 16cc
+8P	Ic/V	16G)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32F#J	.
-8P	V7/V	16G)	r
-.	.	r	16d 16f 16g 16b
+8P	V7/V	16G)	16r
+.	.	32r	16d 16f 16g 16b
 .	.	(32GGJJJ	.
 =80	=80	=80	=80
-4.D	V	16CLL)	r
-.	.	r	16e 16g 16cc
+4.D	V	16CLL)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJ	.
-.	.	16BB)	r
-.	.	r	16e 16g 16cc
+.	.	16BB)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJ	.
-.	.	16BB-)	r
-.	.	r	16e 16g 16cc
+.	.	16BB-)	16r
+.	.	32r	16e 16g 16cc
 .	.	(32CJJJ	.
 *-	*-	*-	*-

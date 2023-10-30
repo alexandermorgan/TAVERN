@@ -9,7 +9,7 @@
 .	.	.	q16bn
 .	.	.	q16dd
 .	.	.	q16cc
-4T	I	r	[4cc
+4T	I	4r	[4cc
 =217	=217	=217	=217
 2T	I	8cL 8f	24ccLL]
 .	.	.	24a
@@ -57,7 +57,7 @@
 .	.	8CJ	8EJ)	24eeL
 .	.	.	.	24dd
 .	.	.	.	24ccJJ
-.	.	r	r	24bLL
+.	.	4r	4r	24bLL
 .	.	.	.	24dd
 .	.	.	.	24ccJ
 .	.	.	.	24bL

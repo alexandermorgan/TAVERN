@@ -6,15 +6,15 @@
 *	*	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4	*M3/4
 *F:	*F:	*F:	*F:
-4T	I	r	4a 4cc
+4T	I	4r	4a 4cc
 =479	=479	=479	=479
 2.T	I	(4F 4A	(4a 4cc
 .	.	4G 4B-	4g 4b-
 .	.	4A) 4c	4f) 4a
 =480	=480	=480	=480
 2T	IV	4B- 4d	(4f 4dd
-.	.	r	4d 4b-
-4T	iib	r	4B-) 4g
+.	.	4r	4d 4b-
+4T	iib	4r	4B-) 4g
 =481	=481	=481	=481
 *	*	*^	*
 2T	Ic	(4A	2.C	(4f
@@ -32,14 +32,14 @@
 .	.	4a) 4cc	4ff) 4aa
 =484	=484	=484	=484
 4T	IV	4B- 4b-	4dd 4ff 4bb- 4ddd
-4T	viioD7c	r	4ee 4gg 4ddd- 4eee
+4T	viioD7c	4r	4ee 4gg 4ddd- 4eee
 4T	viioD7/V	4B 4b	4ff 4aa- 4ddd 4fff
 =485	=485	=485	=485
-2T	.	r	r
-.	.	.	r
+2T	.	2.r	4r
+.	.	.	4r
 4T	V	.	4cc
 =486	=486	=486	=486
-2.T	V	r	(8ddL
+2.T	V	2.r	(8ddL
 .	.	.	8ccJ
 .	.	.	8bL)
 .	.	.	8cc'J
@@ -47,7 +47,7 @@
 .	.	.	8ee'J
 *	*	*clefF4	*
 =487	=487	=487	=487
-2T	I	r	8ff'L
+2T	I	2r	8ff'L
 .	.	.	8gg'J
 .	.	.	8aa'L
 .	.	.	8bb-'J
@@ -57,16 +57,16 @@
 *	*	*	*^
 2.T	V7b/V	(8BL	2.ddd	4dd 4ff 4gg
 .	.	8cJ	.	.
-.	.	8dL)	.	r
+.	.	8dL)	.	4r
 .	.	8c'J	.	.
-.	.	8B-'L	.	r
+.	.	8B-'L	.	4r
 .	.	8A'J	.	.
 =489	=489	=489	=489	=489
 2T	V7c	8G'L	2.eee	4ee 4gg 4cccn
 .	.	8F'J	.	.
-.	.	8E'L	.	r
+.	.	8E'L	.	4r
 .	.	8D'J	.	.
-4T	V7d	8C'L	.	r
+4T	V7d	8C'L	.	4r
 .	.	8BB-'J	.	.
 *	*	*	*v	*v
 =490	=490	=490	=490
@@ -75,8 +75,8 @@
 4D	V7	4C 4c	4g 4b- 4cc 4ee
 =491	=491	=491	=491
 2.T	I	4FF 4F	4f 4a 4cc 4ff
-.	.	r	r
-.	.	r	4cc
+.	.	4r	4r
+.	.	4r	4cc
 =492	=492	=492	=492
 2.T	V7	(2.C 2.G 2.B- 2.c	(8bL
 .	.	.	8ccJ
@@ -86,8 +86,8 @@
 .	.	.	8ee'J
 =493	=493	=493	=493
 2.T	I	4F) 4A 4c	4ff
-.	.	r	r
-.	.	r	4cc'
+.	.	4r	4r
+.	.	4r	4cc'
 =494	=494	=494	=494
 2.T	V7	(2.C 2.E 2.B- 2.c	(8ddL
 .	.	.	8ccJ
@@ -97,7 +97,7 @@
 .	.	.	8g'J
 =495	=495	=495	=495
 2.T	I	4F) 4A 4c	4f
-.	.	r	r
-.	.	r	r
+.	.	4r	4r
+.	.	4r	4r
 ==	==	==	==
 *-	*-	*-	*-

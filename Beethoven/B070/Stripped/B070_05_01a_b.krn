@@ -6,16 +6,16 @@
 *	*	*k[f#]	*k[f#]
 *M6/8	*M6/8	*M6/8	*M6/8
 *G:	*G:	*G:	*G:
-8T	I	8b 8dd	r
+8T	I	8b 8dd	8r
 =101	=101	=101	=101
-4.T	I	4g' 4b'	r
+4.T	I	4g' 4b'	24r
 .	.	.	24dddLL
 .	.	.	24cccJ
 .	.	.	24bbL
 .	.	.	24bb-
 .	.	.	24aaJ
 .	.	8g' 8b'	8ggJ
-4.T	V7	4d' 4a'	r
+4.T	V7	4d' 4a'	24r
 .	.	.	24cccLL
 .	.	.	24bbJ
 .	.	.	24aaL
@@ -23,16 +23,16 @@
 .	.	.	24ggJ
 .	.	8d' 8a'	8ff#J
 =102	=102	=102	=102
-2.T	I	4B 4g	r
+2.T	I	4B 4g	24r
 .	.	.	24bbLL
 .	.	.	24aaJ
 .	.	.	24ggL
 .	.	.	24ff#
 .	.	.	24eeJ
-.	.	r	24ddL
+.	.	8r	24ddL
 .	.	.	24cc
 .	.	.	24bJJ
-.	.	r	24aLL
+.	.	4.r	24aLL
 .	.	.	24g
 .	.	.	24f#J
 .	.	.	24gL
@@ -40,14 +40,14 @@
 .	.	.	24ddJ
 .	.	.	8ggJ
 =103	=103	=103	=103
-4.T	Ib	4b' 4dd'	r
+4.T	Ib	4b' 4dd'	24r
 .	.	.	24ggLL
 .	.	.	24aaJ
 .	.	.	24bbL
 .	.	.	24ccc
 .	.	.	24ccc#J
 .	.	8b' 8dd'	8dddJ
-4.P	IV	4cc' 4ee'	r
+4.P	IV	4cc' 4ee'	24r
 .	.	.	24aaLL
 .	.	.	24bbJ
 .	.	.	24cccL
@@ -55,16 +55,16 @@
 .	.	.	24ddd#J
 .	.	8cc' 8ee'	8eeeJ
 =104	=104	=104	=104
-2D	V	4d 4a	r
+2D	V	4d 4a	24r
 .	.	.	24aaLL
 .	.	.	24ggJ
 .	.	.	24ff#L
 .	.	.	24ee
 .	.	.	24ddJ
-.	.	r	24cc#L
+.	.	8r	24cc#L
 .	.	.	24b
 .	.	.	24aJJ
-.	.	r	24gLL
+.	.	4r	24gLL
 .	.	.	24f#
 .	.	.	24eJ
 8D	V	.	8dJ

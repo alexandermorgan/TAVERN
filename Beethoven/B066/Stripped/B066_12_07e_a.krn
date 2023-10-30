@@ -52,36 +52,36 @@
 =491	=491	=491	=491
 4.T	I	(8AAL 8C#	4ccc#)
 .	.	8E	.
-.	.	8EEJ	r
-4.T	V7	8GG#L 8D	r
+.	.	8EEJ	8r
+4.T	V7	8GG#L 8D	4r
 .	.	8E	.
 .	.	8EEJ)	(8bb
 =492	=492	=492	=492
 4.T	I	(8AAL 8C#	4aa)
 .	.	8E	.
-.	.	8EEJ	r
-4.T	V7	8GG#L 8BB	r
+.	.	8EEJ	8r
+4.T	V7	8GG#L 8BB	4r
 .	.	8E	.
 .	.	8EEJ)	(8dd
 =493	=493	=493	=493
 4.T	I	(8AAL 8C#	4cc#)
 .	.	8E	.
-.	.	8EEJ	r
-4.T	V7	8GG#L 8D	r
+.	.	8EEJ	8r
+4.T	V7	8GG#L 8D	4r
 .	.	8E	.
 .	.	8EEJ)	(8b
 =494	=494	=494	=494
 4.T	I	(8AAL 8C#	4a)
 .	.	8E	.
-.	.	8EEJ	r
-4.T	V7	8GG#L 8BB	r
+.	.	8EEJ	8r
+4.T	V7	8GG#L 8BB	4r
 .	.	8E	.
 .	.	8EEJ)	(8d
 =495	=495	=495	=495
 4.T	I	(8AAL 8C#	4c#)
 .	.	8E	.
-.	.	8EEJ	r
-4.D	V7	8GG#L 8D	r
+.	.	8EEJ	8r
+4.D	V7	8GG#L 8D	4r
 .	.	8E	.
 .	.	8EEJ)	(8B
 =496	=496	=496	=496
@@ -91,8 +91,8 @@
 .	.	.	8d')
 =497	=497	=497	=497
 2.T	I	2.AA] 2.C#] 2.E]	4e
-.	.	.	r
-.	.	.	r
+.	.	.	8r
+.	.	.	4.r
 =498	=498	=498	=498
 2.T	I	[2.AA [2.C# [2.E	(4A'
 .	.	.	8B'

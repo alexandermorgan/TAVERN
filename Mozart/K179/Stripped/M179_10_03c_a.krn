@@ -8,38 +8,38 @@
 *C:	*C:	*C:	*C:
 =259	=259	=259	=259
 *	*	*	*^
-2.D	V	r	4.dd	4d 4g 4b
+2.D	V	8r	4.dd	4d 4g 4b
 .	.	8GG 8G	.	.
-.	.	8BBL 8B	.	r
+.	.	8BBL 8B	.	4r
 .	.	8DJ 8d	8b	.
-.	.	8BBL 8B	4g	r
+.	.	8BBL 8B	4g	4r
 .	.	8GGJ 8G	.	.
 =260	=260	=260	=260	=260
-2.D	Ic	r	4.ee	4e 4g 4cc
+2.D	Ic	8r	4.ee	4e 4g 4cc
 .	.	8GG 8G	.	.
-.	.	8CL 8c	.	r
+.	.	8CL 8c	.	4r
 .	.	8EJ 8e	8cc	.
-.	.	8CL 8c	4g	r
+.	.	8CL 8c	4g	4r
 .	.	8GGJ 8G	.	.
 =261	=261	=261	=261	=261
-2.D	V7	r	4.ff	4g 4b 4dd
+2.D	V7	8r	4.ff	4g 4b 4dd
 .	.	8GG 8G	.	.
-.	.	8DL 8d	.	r
+.	.	8DL 8d	.	4r
 .	.	8FJ 8f	8dd	.
-.	.	8DL 8d	4g	r
+.	.	8DL 8d	4g	4r
 .	.	8GGJ 8G	.	.
 *	*	*	*v	*v
 =262	=262	=262	=262
-2.T	I	4C 4c	r
+2.T	I	4C 4c	8r
 .	.	.	8g 8gg
-.	.	r	8ccL 8ccc
+.	.	8r	8ccL 8ccc
 .	.	8E	8gJ 8gg
 .	.	8FL	8aL 8aa
 .	.	8DJ	8fJ 8ff
 =263	=263	=263	=263
 2.T	Ib	4E	8gL 8gg
 .	.	.	8cJ 8cc
-.	.	r	8ccL 8ccc
+.	.	8r	8ccL 8ccc
 .	.	8E	8gJ 8gg
 .	.	8FL	8aL 8aa
 .	.	8DJ	8fJ 8ff
@@ -91,7 +91,7 @@
 .	.	.	16cc
 .	.	.	16B
 .	.	.	16bJJ
-.	.	r	16ALL
+.	.	4r	16ALL
 .	.	.	16a
 .	.	.	16G
 .	.	.	16gJJ

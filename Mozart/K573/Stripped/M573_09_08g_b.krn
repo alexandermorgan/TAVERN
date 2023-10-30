@@ -9,37 +9,37 @@
 =270	=270	=270	=270
 2.T	I	4d 4f#	(8aa'L
 .	.	.	8aa#'J
-.	.	r	8bb'L
+.	.	4r	8bb'L
 .	.	.	8ccc#'J)
-.	.	r	(8eeeL
+.	.	4r	(8eeeL
 .	.	.	16dddJk)
-.	.	.	r
+.	.	.	16r
 =271	=271	=271	=271
 2.T	I	4d 4a	(8ee#'L
 .	.	.	8ff#'J
-.	.	r	8gg'L
+.	.	4r	8gg'L
 .	.	.	8gg#'J)
-.	.	r	(8bbL
+.	.	4r	(8bbL
 .	.	.	16aaJk)
-.	.	.	r
+.	.	.	16r
 =272	=272	=272	=272
 *	*	*^	*
 2D	Ic	(8f#L	2.A	(8.aaL
 .	.	8aJ	.	.
 .	.	.	.	16ddJk)
 .	.	8f#L	.	8dd
-.	.	8aJ	.	r
+.	.	8aJ	.	8r
 4D	V7	8c#L 8g	.	(16eeLL
 .	.	.	.	16dd
 .	.	8aJ	.	16ee
 .	.	.	.	16ff#JJ)
 =273	=273	=273	=273	=273
 2.T	I	4f#)	4d	4dd
-.	.	r	r	r
+.	.	4r	4r	16r
 .	.	.	.	16ddd'LL
 .	.	.	.	16ccc#'
 .	.	.	.	16bb'JJ
-.	.	r	r	16aa'LL
+.	.	4r	4r	16aa'LL
 .	.	.	.	16gg'
 .	.	.	.	16ff#'
 .	.	.	.	16ee'JJ
@@ -54,14 +54,14 @@
 .	.	.	.	16ff#JJ
 =275	=275	=275	=275	=275
 2.T	I	4f#)	4d	4dd)
-.	.	r	r	r
+.	.	4r	4r	16r
 .	.	.	.	(32dddLLL
 .	.	.	.	32ccc#JJ
 .	.	.	.	32bbLL
 .	.	.	.	32aa
 .	.	.	.	32gg
 .	.	.	.	32ff#JJJ
-.	.	r	r	32eeLLL
+.	.	4r	4r	32eeLLL
 .	.	.	.	32dd
 .	.	.	.	32cc#
 .	.	.	.	32bJJ
@@ -82,11 +82,11 @@
 *	*	*v	*v	*
 =277	=277	=277	=277
 2T	I	4F#) 4D	4d)
-.	.	r	r
+.	.	4r	4r
 4T	V	4AA 4A	4ee 4ccc#
 =278	=278	=278	=278
 2.T	I	4DD 4D	4dd 4ff# 4ddd
-.	.	r	r
-.	.	r	r
+.	.	4r	4r
+.	.	4r	4r
 ==	==	==	==
 *-	*-	*-	*-

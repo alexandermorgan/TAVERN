@@ -23,7 +23,7 @@
 .	.	.	16GJJ	16gJJ	.
 .	.	.	16ELL	16cc#LL	.
 .	.	.	16G	16g	.
-.	.	r	16E	16cc#	.
+.	.	8r	16E	16cc#	.
 .	.	.	16AAJJ)	16eeJJ)	.
 =91	=91	=91	=91	=91	=91
 2D	V7	4.c#	(16c#LL	(16eLL	2e
@@ -32,7 +32,7 @@
 .	.	.	16GJJ	16gJJ	.
 .	.	.	16ELL	16cc#LL	.
 .	.	.	16G	16g	.
-.	.	r	16E	16cc#	.
+.	.	8r	16E	16cc#	.
 .	.	.	16AAJJ)	16eeJJ)	.
 =92	=92	=92	=92	=92	=92
 2T	I	4.d	(16dLL	(16f#LL	2f#
@@ -41,7 +41,7 @@
 .	.	.	16AJJ	16aJJ	.
 .	.	.	16F#LL	16ddLL	.
 .	.	.	16A	16a	.
-.	.	r	16F#	16dd	.
+.	.	8r	16F#	16dd	.
 .	.	.	16AAJJ)	16ff#JJ)	.
 =93	=93	=93	=93	=93	=93
 2T	I	2A	(16ALL	(16ddLL	2dd
@@ -62,16 +62,16 @@
 .	.	.	16D	16aa	.
 .	.	.	16AAJJ)	16dddJJ)	.
 =95	=95	=95	=95	=95	=95
-2D	V7	2A	(16ALL	(16eeLL	r
+2D	V7	2A	(16ALL	(16eeLL	8r
 .	.	.	16G	16gg	.
 .	.	.	16E	16aa	8cc#
 .	.	.	16GJJ	16ggJJ	.
-.	.	.	16ELL	16aaLL	r
+.	.	.	16ELL	16aaLL	8r
 .	.	.	16G	16gg	.
 .	.	.	16E	16aa	8cc#
 .	.	.	16AAJJ)	16ccc#JJ)	.
 =96	=96	=96	=96	=96	=96
-2T	I	r	(16F#LL	(16ddLL	2dd
+2T	I	2r	(16F#LL	(16ddLL	2dd
 .	.	.	16D	16ff#	.
 .	.	.	16AA	16aa	.
 .	.	.	16DJJ	16ff#JJ	.

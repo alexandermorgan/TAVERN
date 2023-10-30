@@ -41,10 +41,10 @@
 4P	IVc	8.dL	2F	8.ffL
 .	.	16B-Jk	.	16ddJk
 2P	I	4A	.	4cc
-.	.	r	r	r
+.	.	4r	4r	4r
 *	*	*v	*v	*
 =83	=83	=83	=83
-4D	V	4CC 4C	r
+4D	V	4CC 4C	16r
 .	.	.	(32gLLL
 .	.	.	32ccJJ
 .	.	.	32eeLL
@@ -56,7 +56,7 @@
 4D	V7/V	4GG 4G	.
 .	.	.	8f) 8b
 =84	=84	=84	=84
-4D	V	4CC 4C	r
+4D	V	4CC 4C	16r
 .	.	.	(32gLLL
 .	.	.	32ccJJ
 .	.	.	32eeLL
@@ -68,7 +68,7 @@
 4D	V7/V	4GG 4G	.
 .	.	.	8f) 8b
 =85	=85	=85	=85
-4D	V	4CC 4C	r
+4D	V	4CC 4C	16r
 .	.	.	(32gLLL
 .	.	.	32ccJJ
 .	.	.	32eeLL
@@ -105,5 +105,5 @@
 2.T	I	4F	8B-L 8e
 .	.	.	8AJ 8f
 .	.	4FF	4A 4f
-.	.	r	r
+.	.	4r	4r
 *-	*-	*-	*-

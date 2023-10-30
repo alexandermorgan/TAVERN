@@ -6,7 +6,7 @@
 *	*	*k[]	*k[]
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
-4T	V	r	(8gL
+4T	V	4r	(8gL
 .	.	.	8ggJ)
 =49	=49	=49	=49
 4T	I/V	(4g	(8bL
@@ -18,12 +18,12 @@
 =50	=50	=50	=50
 2.T	viio/ii	4c#)	(8eeL
 .	.	.	8ggJ
-.	.	r	8ff#L
+.	.	4r	8ff#L
 .	.	.	8ggJ
-.	.	r	8aaL
+.	.	4r	8aaL
 .	.	.	8ggJ)
 =51	=51	=51	=51
-2.T	viioD7/ii	2.C# 2.A	r
+2.T	viioD7/ii	2.C# 2.A	8r
 .	.	.	(8bb-
 .	.	.	8aaL
 .	.	.	8ggJ
@@ -32,9 +32,9 @@
 =52	=52	=52	=52
 2.T	ii	4D 4A	(8ggL
 .	.	.	8ffJ
-.	.	r	8eeL
+.	.	4r	8eeL
 .	.	.	8ffJ
-.	.	r	8ggL
+.	.	4r	8ggL
 .	.	.	8ffJ)
 *	*	*clefG2	*
 =53	=53	=53	=53
@@ -47,22 +47,22 @@
 =54	=54	=54	=54
 2.T	Vb	4B)	(8ddL
 .	.	.	8ffJ
-.	.	r	8eeL
+.	.	4r	8eeL
 .	.	.	8ffJ
 .	.	4B 4g	8ggL
 .	.	.	8ffJ)
 =55	=55	=55	=55
-4T	I	4c 4g	r
+4T	I	4c 4g	8r
 .	.	.	8ee
-4T	Vb	4B 4g	r
+4T	Vb	4B 4g	8r
 .	.	.	8dd
-4P	viiob/V	4A 4f#	r
+4P	viiob/V	4A 4f#	8r
 .	.	.	8cc
 =56	=56	=56	=56
-2.D	V	4g 4G	r
+2.D	V	4g 4G	8r
 .	.	.	(8b
-.	.	r r	8ccL
+.	.	4r 4r	8ccL
 .	.	.	8cc#J
-.	.	r r	8ddL
+.	.	4r 4r	8ddL
 .	.	.	8dd#J)
 *-	*-	*-	*-

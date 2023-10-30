@@ -7,11 +7,11 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
 =251	=251	=251	=251
-2.T	I	4C	r
+2.T	I	4C	8r
 .	.	.	8g 8gg
-.	.	r	8ccL 8ccc
+.	.	4r	8ccL 8ccc
 .	.	.	8bJ 8bb
-.	.	r	8aL 8aa
+.	.	4r	8aL 8aa
 .	.	.	8gJ 8gg
 =252	=252	=252	=252
 2T	ii	4D	8fL 8ff
@@ -21,16 +21,16 @@
 4T	Vb	8GL	4B 4b
 .	.	8BBJ	.
 =253	=253	=253	=253
-4T	I	4C	r
+4T	I	4C	8r
 .	.	.	8e 8ee
 2P	IV	4FF 4F	8aL 8aa
 .	.	.	8gJ 8gg
-.	.	r	8fL 8ff
+.	.	4r	8fL 8ff
 .	.	.	8eJ 8ee
 =254	=254	=254	=254
 2.D	V	4GG 4G	8dL 8dd
 .	.	.	8cJ 8cc
-.	.	r	8BL 8b
+.	.	8r	8BL 8b
 .	.	8FF 8F	8AJ 8a
 .	.	8EEL 8E	4G 4g
 .	.	8DDJ 8D	.

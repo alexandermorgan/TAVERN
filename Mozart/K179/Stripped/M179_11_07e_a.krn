@@ -7,14 +7,14 @@
 *M3/4	*M3/4	*M3/4	*M3/4
 *C:	*C:	*C:	*C:
 =305	=305	=305	=305
-2T	Ib	4E 4G 4c	r
+2T	Ib	4E 4G 4c	16r
 .	.	.	32ccLLL
 .	.	.	32eeJJ
 .	.	.	32ddLL
 .	.	.	32ff
 .	.	.	32ee
 .	.	.	32ggJJJ
-.	.	r	32ffLLL
+.	.	4r	32ffLLL
 .	.	.	32aa
 .	.	.	32gg
 .	.	.	32bbJJ
@@ -49,7 +49,7 @@
 .	.	.	32ff
 .	.	.	32ff#
 .	.	.	32ggJJ
-.	.	r	32gg#LL
+.	.	8r	32gg#LL
 .	.	.	32aa
 .	.	.	32ff
 .	.	.	32ddJJJ)
@@ -57,9 +57,9 @@
 .	.	.	16ee
 .	.	.	16cc)
 .	.	.	16ccJJ
-4D	V7	r	16ee'LL
+4D	V7	8r	16ee'LL
 .	.	.	16dd'
-.	.	r	16cc'
+.	.	16r	16cc'
 .	.	16G	16b'JJ
 =308	=308	=308	=308
 2.T	I	4c	(2d 2f 2g 2b
